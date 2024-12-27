@@ -7,7 +7,7 @@
                  start-page="starter.xml">
 
     <toc-element topic="starter.xml"/>
-    <toc-element topic="index.xml"/>
+    <toc-element topic="tj.xml"/>
     <toc-element topic="bloco-1-portugues.xml">
         <toc-element topic="interpretacao-textos.xml"/>
         <toc-element topic="tipologias-textuais.xml"/>
