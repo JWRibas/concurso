@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Plano de Estudos TJ-SP" id="plano-estudos">
+
+    <p>
+        Plano estruturado para preparação ao concurso TJ-SP para o cargo de Psicólogo.
+    </p>
+
+    <chapter title="Distribuição das Questões" id="distribuicao">
+        <list type="bullet">
+            <li>Bloco I (Português): 12 questões</li>
+            <li>Bloco II (Conhecimentos Específicos): 46 questões</li>
+            <li>Bloco III (Conhecimentos Gerais): 5 questões</li>
+        </list>
+    </chapter>
+
+    <chapter title="Organização Semanal" id="organizacao">
+        <chapter title="Primeira Fase (Mês 1)" id="fase1">
+            <list>
+                <li>
+                    <b>Semana 1-2:</b>
+                    <list>
+                        <li>Legislação específica</li>
+                        <li>Código de Ética</li>
+                        <li>Resoluções CFP</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Semana 3-4:</b>
+                    <list>
+                        <li>Avaliação Psicológica</li>
+                        <li>Documentos Psicológicos</li>
+                        <li>Português básico</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="Segunda Fase (Mês 2)" id="fase2">
+            <list>
+                <li>
+                    <b>Semana 5-6:</b>
+                    <list>
+                        <li>Psicologia Jurídica</li>
+                        <li>Medidas Socioeducativas</li>
+                        <li>Violência Doméstica</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Semana 7-8:</b>
+                    <list>
+                        <li>Guarda e Adoção</li>
+                        <li>Alienação Parental</li>
+                        <li>Português avançado</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="Terceira Fase (Mês 3)" id="fase3">
+            <list>
+                <li>
+                    <b>Semana 9-10:</b>
+                    <list>
+                        <li>Revisão geral</li>
+                        <li>Simulados</li>
+                        <li>Resolução de questões</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Semana 11-12:</b>
+                    <list>
+                        <li>Revisão final</li>
+                        <li>Pontos críticos</li>
+                        <li>Treino de redação</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Métodos de Estudo" id="metodos">
+        <list>
+            <li>
+                <b>Técnicas de Estudo</b>
+                <list>
+                    <li>Leitura ativa</li>
+                    <li>Mapas mentais</li>
+                    <li>Resumos esquematizados</li>
+                    <li>Resolução de questões</li>
+                </list>
+            </li>
+            <li>
+                <b>Materiais Sugeridos</b>
+                <list>
+                    <li>Legislação atualizada</li>
+                    <li>Manuais específicos</li>
+                    <li>Artigos científicos</li>
+                    <li>Questões anteriores</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Rotina Diária" id="rotina">
+        <list>
+            <li>
+                <b>Manhã</b>
+                <list>
+                    <li>4h de estudo focado</li>
+                    <li>Revisão do dia anterior</li>
+                </list>
+            </li>
+            <li>
+                <b>Tarde</b>
+                <list>
+                    <li>3h de estudo prático</li>
+                    <li>Resolução de questões</li>
+                </list>
+            </li>
+            <li>
+                <b>Noite</b>
+                <list>
+                    <li>2h de revisão</li>
+                    <li>Planejamento do dia seguinte</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Dicas Importantes" id="dicas">
+        <list>
+            <li>Manter regularidade nos estudos</li>
+            <li>Focar em questões práticas</li>
+            <li>Treinar redação técnica</li>
+            <li>Revisar periodicamente</li>
+            <li>Simular condições de prova</li>
+            <li>Manter atenção aos prazos</li>
+        </list>
+    </chapter>
+
+    <chapter title="Cronograma de Revisão" id="revisao">
+        <list>
+            <li>
+                <b>Revisão Semanal</b>
+                <list>
+                    <li>Resumo dos pontos principais</li>
+                    <li>Resolução de questões</li>
+                    <li>Esclarecimento de dúvidas</li>
+                </list>
+            </li>
+            <li>
+                <b>Revisão Mensal</b>
+                <list>
+                    <li>Simulado completo</li>
+                    <li>Revisão de erros</li>
+                    <li>Ajuste do planejamento</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

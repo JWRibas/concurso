@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Justiça Restaurativa" id="justica-restaurativa">
+
+    <chapter title="Fundamentos da Justiça Restaurativa" id="fundamentos">
+        <list>
+            <li>
+                <b>Conceitos Básicos</b>
+                <list>
+                    <li>Definição e objetivos</li>
+                    <li>Princípios fundamentais</li>
+                    <li>Diferenças da justiça retributiva</li>
+                </list>
+            </li>
+            <li>
+                <b>Valores Restaurativos</b>
+                <list>
+                    <li>Participação</li>
+                    <li>Responsabilização</li>
+                    <li>Reparação do dano</li>
+                    <li>Empoderamento</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Práticas Restaurativas" id="praticas">
+        <list>
+            <li>
+                <b>Círculos Restaurativos</b>
+                <list>
+                    <li>Metodologia</li>
+                    <li>Facilitação</li>
+                    <li>Etapas do processo</li>
+                </list>
+            </li>
+            <li>
+                <b>Mediação Vítima-Ofensor</b>
+                <list>
+                    <li>Procedimentos</li>
+                    <li>Papel do mediador</li>
+                    <li>Resultados esperados</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Aplicações no Judiciário" id="aplicacoes">
+        <list>
+            <li>
+                <b>Âmbito Criminal</b>
+                <list>
+                    <li>Infrações de menor potencial</li>
+                    <li>Atos infracionais</li>
+                    <li>Violência doméstica</li>
+                </list>
+            </li>
+            <li>
+                <b>Âmbito Cível</b>
+                <list>
+                    <li>Conflitos familiares</li>
+                    <li>Guarda de filhos</li>
+                    <li>Alienação parental</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="O Papel do Psicólogo" id="papel-psicologo">
+        <list>
+            <li>
+                <b>Atuação Profissional</b>
+                <list>
+                    <li>Avaliação prévia</li>
+                    <li>Facilitação de círculos</li>
+                    <li>Acompanhamento</li>
+                    <li>Elaboração de relatórios</li>
+                </list>
+            </li>
+            <li>
+                <b>Competências Necessárias</b>
+                <list>
+                    <li>Escuta qualificada</li>
+                    <li>Imparcialidade</li>
+                    <li>Manejo de conflitos</li>
+                    <li>Comunicação não-violenta</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Estudos de Caso" id="estudos-caso">
+        <list>
+            <li>
+                <b>Caso 1: Conflito Familiar</b>
+                <list>
+                    <li>Contexto</li>
+                    <li>Intervenção restaurativa</li>
+                    <li>Resultados alcançados</li>
+                </list>
+            </li>
+            <li>
+                <b>Caso 2: Ato Infracional</b>
+                <list>
+                    <li>Situação inicial</li>
+                    <li>Processo restaurativo</li>
+                    <li>Desfecho e aprendizados</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Exercícios Práticos" id="exercicios">
+        <list>
+            <li>
+                <b>Simulações</b>
+                <list>
+                    <li>Facilitação de círculos</li>
+                    <li>Mediação de conflitos</li>
+                    <li>Elaboração de acordos</li>
+                </list>
+            </li>
+            <li>
+                <b>Questões para Estudo</b>
+                <list>
+                    <li>Casos hipotéticos</li>
+                    <li>Análise de situações</li>
+                    <li>Fundamentação teórica</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Legislação Completa" id="legislacao-completa">
+
+    <chapter title="Constituição Federal" id="constituicao">
+        <chapter title="Direitos e Garantias Fundamentais" id="direitos-fundamentais">
+            <list>
+                <li>Direitos e Deveres Individuais e Coletivos</li>
+                <li>Direitos Sociais</li>
+            </list>
+        </chapter>
+        <chapter title="Da Ordem Social" id="ordem-social">
+            <list>
+                <li>Da Seguridade Social</li>
+                <li>Da Família, da Criança, do Adolescente, do Jovem e do Idoso</li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Código Civil" id="codigo-civil">
+        <chapter title="Das Pessoas" id="pessoas">
+            <list>
+                <li>
+                    <b>Da Personalidade e da Capacidade (Art. 1º a 10)</b>
+                    <list>
+                        <li>Início da personalidade</li>
+                        <li>Capacidade civil</li>
+                        <li>Emancipação</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Dos Direitos da Personalidade (Art. 11 a 21)</b>
+                    <list>
+                        <li>Características</li>
+                        <li>Proteção</li>
+                        <li>Limitações</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+        <chapter title="Do Direito de Família" id="direito-familia">
+            <list>
+                <li>
+                    <b>Do Casamento (Art. 1.517 a 1.582)</b>
+                    <list>
+                        <li>Capacidade para o casamento</li>
+                        <li>Impedimentos</li>
+                        <li>Dissolução da sociedade conjugal</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Da Proteção dos Filhos (Art. 1.583 a 1.590)</b>
+                    <list>
+                        <li>Guarda</li>
+                        <li>Direitos e deveres</li>
+                        <li>Visitação</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Do Poder Familiar (Art. 1.630 a 1.638)</b>
+                    <list>
+                        <li>Exercício</li>
+                        <li>Suspensão</li>
+                        <li>Extinção</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+        <chapter title="Da Tutela e Curatela" id="tutela-curatela">
+            <list>
+                <li>Dos Tutores (Art. 1.728 a 1.734)</li>
+                <li>Do Exercício da Tutela (Art. 1.740 a 1.752)</li>
+                <li>Da Curatela (Art. 1.767 e 1.783)</li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Legislações Específicas" id="legislacoes-especificas">
+        <chapter title="Lei de Alienação Parental (Lei 12.318/2010)" id="alienacao-parental">
+            <list>
+                <li>Conceito de alienação parental</li>
+                <li>Formas de alienação</li>
+                <li>Medidas protetivas</li>
+                <li>Perícia psicológica</li>
+            </list>
+        </chapter>
+
+        <chapter title="Lei Maria da Penha (Lei 11.340/2006)" id="maria-penha">
+            <list>
+                <li>Formas de violência</li>
+                <li>Medidas protetivas</li>
+                <li>Atendimento pela autoridade policial</li>
+                <li>Assistência à mulher</li>
+            </list>
+        </chapter>
+
+        <chapter title="Estatuto da Criança e do Adolescente (Lei 8.069/1990)" id="eca">
+            <list>
+                <li>Direitos fundamentais</li>
+                <li>Medidas de proteção</li>
+                <li>Medidas socioeducativas</li>
+                <li>Conselho Tutelar</li>
+            </list>
+        </chapter>
+
+        <chapter title="Lei do Depoimento Especial (Lei 13.431/2017)" id="depoimento-especial">
+            <list>
+                <li>Escuta especializada</li>
+                <li>Depoimento especial</li>
+                <li>Procedimentos</li>
+                <li>Decreto 9603/2018 (Regulamentação)</li>
+            </list>
+        </chapter>
+
+        <chapter title="Lei Henry Borel (Lei 14.344/2022)" id="lei-henry-borel">
+            <list>
+                <li>Definição de violência doméstica contra criança</li>
+                <li>Medidas de proteção</li>
+                <li>Alterações no ECA e Código Penal</li>
+            </list>
+        </chapter>
+
+        <chapter title="Lei Brasileira de Inclusão (Lei 13.146/2015)" id="lei-inclusao">
+            <list>
+                <li>Direitos fundamentais</li>
+                <li>Acessibilidade</li>
+                <li>Capacidade civil</li>
+                <li>Tomada de decisão apoiada</li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Resoluções CFP" id="resolucoes-cfp">
+        <chapter title="Código de Ética" id="codigo-etica">
+            <list>
+                <li>Princípios fundamentais</li>
+                <li>Responsabilidades</li>
+                <li>Sigilo profissional</li>
+                <li>Documentos psicológicos</li>
+            </list>
+        </chapter>
+
+        <chapter title="Resoluções Específicas" id="resolucoes-especificas">
+            <list>
+                <li>
+                    <b>Resolução 008/2010</b>
+                    <list>
+                        <li>Atuação como perito</li>
+                        <li>Assistente técnico</li>
+                        <li>Limites de atuação</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Resolução 006/2019</b>
+                    <list>
+                        <li>Elaboração de documentos</li>
+                        <li>Tipos de documentos</li>
+                        <li>Estrutura e conteúdo</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Resolução 009/2024</b>
+                    <list>
+                        <li>Atendimento por TDICs</li>
+                        <li>Requisitos técnicos</li>
+                        <li>Limites e possibilidades</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Casos Práticos" id="casos-praticos">
+        <chapter title="Análise de Legislação" id="analise">
+            <list>
+                <li>
+                    <b>Caso 1: Alienação Parental</b>
+                    <p>
+                        Análise de caso envolvendo denúncia de alienação parental, 
+                        com aplicação da Lei 12.318/2010 e elaboração de parecer técnico.
+                    </p>
+                </li>
+                <li>
+                    <b>Caso 2: Violência Doméstica</b>
+                    <p>
+                        Avaliação psicológica em caso de violência doméstica, 
+                        considerando a Lei Maria da Penha e protocolos de atendimento.
+                    </p>
+                </li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Exercícios de Fixação" id="exercicios">
+        <list>
+            <li>
+                <b>Questões Objetivas</b>
+                <list>
+                    <li>Interpretação de artigos</li>
+                    <li>Aplicação em casos concretos</li>
+                    <li>Correlação entre normas</li>
+                </list>
+            </li>
+            <li>
+                <b>Questões Dissertativas</b>
+                <list>
+                    <li>Análise de casos</li>
+                    <li>Fundamentação legal</li>
+                    <li>Elaboração de pareceres</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

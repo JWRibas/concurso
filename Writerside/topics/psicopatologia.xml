@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Psicopatologia e Transtornos Mentais" id="psicopatologia">
+
+    <p>
+        Baseado no DSM-5, CID-11 e em Dalgalarrondo (2019) - "Psicopatologia e Semiologia dos Transtornos Mentais".
+    </p>
+
+    <chapter title="Fundamentos da Psicopatologia" id="fundamentos">
+        <list>
+            <li>
+                <b>Conceitos Básicos</b>
+                <list>
+                    <li>Normal e patológico</li>
+                    <li>Sinais e sintomas</li>
+                    <li>Curso e prognóstico</li>
+                    <li>Diagnóstico diferencial</li>
+                </list>
+            </li>
+            <li>
+                <b>Funções Psíquicas</b>
+                <list>
+                    <li>Consciência e atenção</li>
+                    <li>Sensopercepção</li>
+                    <li>Pensamento</li>
+                    <li>Linguagem</li>
+                    <li>Memória</li>
+                    <li>Afetividade</li>
+                    <li>Vontade e psicomotricidade</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Principais Transtornos" id="transtornos">
+        <list>
+            <li>
+                <b>Transtornos do Humor</b>
+                <list>
+                    <li>Depressão Maior</li>
+                    <li>Transtorno Bipolar</li>
+                    <li>Distimia</li>
+                </list>
+            </li>
+            <li>
+                <b>Transtornos de Ansiedade</b>
+                <list>
+                    <li>TAG</li>
+                    <li>Pânico</li>
+                    <li>Fobias</li>
+                    <li>TOC</li>
+                </list>
+            </li>
+            <li>
+                <b>Transtornos Psicóticos</b>
+                <list>
+                    <li>Esquizofrenia</li>
+                    <li>Transtorno Delirante</li>
+                    <li>Psicose Breve</li>
+                </list>
+            </li>
+            <li>
+                <b>Transtornos de Personalidade</b>
+                <list>
+                    <li>Cluster A (Excêntricos)</li>
+                    <li>Cluster B (Dramáticos)</li>
+                    <li>Cluster C (Ansiosos)</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Avaliação no Contexto Forense" id="avaliacao">
+        <list>
+            <li>
+                <b>Aspectos Específicos</b>
+                <list>
+                    <li>Capacidade civil</li>
+                    <li>Responsabilidade penal</li>
+                    <li>Risco de violência</li>
+                    <li>Simulação e dissimulação</li>
+                </list>
+            </li>
+            <li>
+                <b>Instrumentos</b>
+                <list>
+                    <li>Entrevista psiquiátrica forense</li>
+                    <li>Escalas de avaliação</li>
+                    <li>Testes psicológicos</li>
+                    <li>Observação comportamental</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Casos Práticos" id="casos">
+        <chapter title="Caso 1: Avaliação de Capacidade Civil" id="caso1">
+            <code-block lang="text">
+                Homem, 45 anos, diagnóstico de esquizofrenia paranoide.
+                Histórico de internações psiquiátricas. Atualmente mora sozinho,
+                apresenta delírios persecutórios e dificuldade na gestão financeira.
+                Família solicita interdição.
+
+                Analise:
+                1. Aspectos psicopatológicos relevantes
+                2. Impacto na capacidade civil
+                3. Recomendações
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 2: Avaliação Criminal" id="caso2">
+            <code-block lang="text">
+                Mulher, 30 anos, acusada de tentativa de homicídio.
+                História de transtorno bipolar com episódios psicóticos.
+                No momento do crime estava em episódio maníaco com sintomas psicóticos.
+
+                Elabore:
+                1. Análise do estado mental
+                2. Relação com o ato criminal
+                3. Implicações legais
+            </code-block>
+        </chapter>
+    </chapter>
+
+    <chapter title="Questões VUNESP Comentadas" id="questoes-vunesp">
+        <chapter title="Bloco 1: Fundamentos" id="bloco1">
+            <p>
+                <b>Questão 1 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                Na avaliação de funções psíquicas, a presença de ideias de perseguição e grandeza são alterações de:
+            </p>
+            <list>
+                <li>a) Sensopercepção</li>
+                <li>b) Consciência</li>
+                <li>c) Pensamento</li>
+                <li>d) Memória</li>
+                <li>e) Atenção</li>
+            </list>
+            <p>
+                <b>Resposta: C</b>
+            </p>
+            <p>
+                <b>Comentário:</b> As ideias delirantes são alterações do conteúdo do pensamento, 
+                frequentemente observadas em transtornos psicóticos. A VUNESP costuma enfatizar a 
+                importância da correta identificação e classificação dos sintomas psicopatológicos.
+            </p>
+
+            <p>
+                <b>Questão 2 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                No exame do estado mental, as alucinações são alterações de:
+            </p>
+            <list>
+                <li>a) Pensamento</li>
+                <li>b) Sensopercepção</li>
+                <li>c) Consciência</li>
+                <li>d) Orientação</li>
+                <li>e) Memória</li>
+            </list>
+            <p>
+                <b>Resposta: B</b>
+            </p>
+            <p>
+                <b>Comentário:</b> As alucinações são alterações da sensopercepção, caracterizadas 
+                por percepções sem objeto real correspondente. A VUNESP valoriza o conhecimento 
+                preciso da semiologia psiquiátrica.
+            </p>
+        </chapter>
+
+        <chapter title="Bloco 2: Diagnóstico" id="bloco2">
+            <p>
+                <b>Questão 3 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                São sintomas característicos da esquizofrenia, EXCETO:
+            </p>
+            <list>
+                <li>a) Delírios</li>
+                <li>b) Alucinações</li>
+                <li>c) Humor elevado</li>
+                <li>d) Embotamento afetivo</li>
+                <li>e) Desorganização do pensamento</li>
+            </list>
+            <p>
+                <b>Resposta: C</b>
+            </p>
+            <p>
+                <b>Comentário:</b> O humor elevado é característico do episódio maníaco do transtorno 
+                bipolar, não sendo um sintoma típico da esquizofrenia. A VUNESP frequentemente aborda 
+                o diagnóstico diferencial entre transtornos mentais graves.
+            </p>
+        </chapter>
+
+        <chapter title="Bloco 3: Avaliação Forense" id="bloco3">
+            <p>
+                <b>Questão 4 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                Na avaliação de capacidade civil, é fundamental considerar:
+            </p>
+            <list>
+                <li>a) Apenas o diagnóstico psiquiátrico</li>
+                <li>b) Somente o QI</li>
+                <li>c) A funcionalidade global e capacidade de autodeterminação</li>
+                <li>d) Unicamente a opinião familiar</li>
+                <li>e) Apenas a presença de sintomas</li>
+            </list>
+            <p>
+                <b>Resposta: C</b>
+            </p>
+            <p>
+                <b>Comentário:</b> A avaliação da capacidade civil requer análise abrangente da 
+                funcionalidade e autonomia, não se limitando ao diagnóstico. A VUNESP enfatiza 
+                a importância da avaliação global no contexto forense.
+            </p>
+        </chapter>
+    </chapter>
+
+    <chapter title="Exercícios de Fixação VUNESP" id="exercicios-vunesp">
+        <p>
+            Exercícios elaborados seguindo o padrão VUNESP, com foco em:
+        </p>
+        <list>
+            <li>Semiologia psiquiátrica</li>
+            <li>Diagnóstico diferencial</li>
+            <li>Avaliação forense</li>
+            <li>Documentação técnica</li>
+        </list>
+        
+        <chapter title="Simulado Temático" id="simulado">
+            <p>
+                10 questões no estilo VUNESP, distribuídas conforme o perfil do concurso:
+            </p>
+            <list>
+                <li>4 questões sobre fundamentos e semiologia</li>
+                <li>3 questões sobre diagnóstico</li>
+                <li>3 questões sobre avaliação forense</li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Pontos de Atenção VUNESP" id="atencao-vunesp">
+        <list>
+            <li>
+                <b>Erros Comuns</b>
+                <list>
+                    <li>Confundir sinais e sintomas</li>
+                    <li>Diagnósticos sem fundamentação</li>
+                    <li>Desconsiderar contexto forense</li>
+                </list>
+            </li>
+            <li>
+                <b>Dicas VUNESP</b>
+                <list>
+                    <li>Dominar semiologia psiquiátrica</li>
+                    <li>Conhecer critérios diagnósticos</li>
+                    <li>Focar em avaliação forense</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+</topic> 

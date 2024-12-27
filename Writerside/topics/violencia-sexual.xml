@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Avaliação em Casos de Violência Sexual" id="violencia-sexual">
+
+    <p>
+        Baseado na Lei 12.845/2013 e em
+        Oliveira &amp; Costa (2021) - "Avaliação psicológica em casos de violência sexual".
+    </p>
+
+    <chapter title="Fundamentação Legal" id="legal">
+        <list type="bullet">
+            <li>
+                <b>Marco Legal</b>
+                <list>
+                    <li>Lei 12.845/2013</li>
+                    <li>Código Penal</li>
+                    <li>ECA (Lei 8.069/90)</li>
+                    <li>Lei Maria da Penha</li>
+                </list>
+            </li>
+            <li>
+                <b>Princípios Norteadores</b>
+                <list>
+                    <li>Proteção integral</li>
+                    <li>Não revitimização</li>
+                    <li>Sigilo profissional</li>
+                    <li>Cuidado humanizado</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Protocolo de Avaliação" id="protocolo">
+        <list type="bullet">
+            <li>
+                <b>1. Avaliação Inicial</b>
+                <list>
+                    <li>Acolhimento</li>
+                    <li>Avaliação de risco</li>
+                    <li>Medidas protetivas</li>
+                    <li>Encaminhamentos urgentes</li>
+                </list>
+            </li>
+            <li>
+                <b>2. Avaliação da Vítima</b>
+                <list>
+                    <li>Estado emocional</li>
+                    <li>Impacto traumático</li>
+                    <li>Recursos psíquicos</li>
+                    <li>Rede de apoio</li>
+                </list>
+            </li>
+            <li>
+                <b>3. Avaliação do Contexto</b>
+                <list>
+                    <li>Dinâmica familiar</li>
+                    <li>Fatores de risco</li>
+                    <li>Fatores de proteção</li>
+                    <li>Suporte social</li>
+                </list>
+            </li>
+            <li>
+                <b>4. Avaliação das Consequências</b>
+                <list>
+                    <li>Sintomas apresentados</li>
+                    <li>Prejuízos funcionais</li>
+                    <li>Impacto relacional</li>
+                    <li>Necessidades específicas</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Instrumentos de Avaliação" id="instrumentos">
+        <list type="bullet">
+            <li>
+                <b>Avaliação Clínica</b>
+                <list>
+                    <li>Entrevista estruturada</li>
+                    <li>Escalas de trauma</li>
+                    <li>Inventários de sintomas</li>
+                    <li>Avaliação do risco</li>
+                </list>
+            </li>
+            <li>
+                <b>Avaliação Complementar</b>
+                <list>
+                    <li>Técnicas projetivas</li>
+                    <li>Testes específicos</li>
+                    <li>Observação clínica</li>
+                    <li>Avaliação familiar</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Modelo de Laudo" id="modelo">
+        <code-block lang="text">
+            LAUDO PSICOLÓGICO - AVALIAÇÃO EM VIOLÊNCIA SEXUAL
+            
+            I. IDENTIFICAÇÃO
+            Nome: [iniciais]
+            Idade: [xx anos]
+            Encaminhamento: [origem]
+            
+            II. METODOLOGIA
+            1. Procedimentos Realizados
+            - Entrevistas com vítima
+            - Entrevistas familiares
+            - Avaliação psicológica
+            - Instrumentos aplicados
+            
+            III. HISTÓRICO
+            1. Situação Apresentada
+            [Descrever contexto...]
+            
+            2. Impacto Identificado
+            [Avaliar consequências...]
+            
+            3. Recursos Disponíveis
+            [Analisar suporte...]
+            
+            IV. ANÁLISE
+            1. Aspectos Psicológicos
+            [Avaliar estado...]
+            
+            2. Fatores de Risco/Proteção
+            [Identificar elementos...]
+            
+            3. Necessidades Terapêuticas
+            [Especificar demandas...]
+            
+            V. CONCLUSÃO E ENCAMINHAMENTOS
+            [Parecer técnico e recomendações]
+        </code-block>
+    </chapter>
+
+    <chapter title="Exercícios Práticos" id="exercicios">
+        <chapter title="Caso 1: Violência Intrafamiliar" id="caso1">
+            <code-block lang="text">
+                Adolescente (14 anos) vítima de abuso sexual por padrasto.
+                Mãe apresenta ambivalência e minimização. Adolescente com
+                sintomas de ansiedade e isolamento social.
+                
+                Analise:
+                1. Avaliação de risco
+                2. Impacto psicológico
+                3. Medidas protetivas
+                4. Encaminhamentos necessários
+                
+                Sugestão de Resposta:
+                
+                1. Avaliação de Risco:
+                - Convivência com agressor
+                - Fragilidade do suporte
+                - Ambivalência materna
+                - Vulnerabilidade emocional
+                - Risco de repetição
+                
+                2. Impacto Psicológico:
+                - Sintomas ansiosos
+                - Isolamento social
+                - Prejuízos escolares
+                - Alterações do humor
+                - Trauma complexo
+                
+                3. Medidas Protetivas:
+                - Afastamento do agressor
+                - Acolhimento institucional
+                - Proteção judicial
+                - Suporte familiar
+                - Acompanhamento sistemático
+                
+                4. Encaminhamentos:
+                - Psicoterapia individual
+                - Atendimento familiar
+                - Acompanhamento psiquiátrico
+                - Suporte escolar
+                - Medidas judiciais
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 2: Violência Institucional" id="caso2">
+            <code-block lang="text">
+                Criança (8 anos) vítima de violência sexual em ambiente
+                escolar. Família mobilizada e protetiva. Criança apresenta
+                alterações comportamentais e medo de retorno à escola.
+                
+                Elabore:
+                1. Avaliação do trauma
+                2. Recursos disponíveis
+                3. Plano de intervenção
+                4. Orientações institucionais
+                
+                Sugestão de Resposta:
+                
+                1. Avaliação do Trauma:
+                - Sintomas pós-traumáticos
+                - Alterações comportamentais
+                - Medos específicos
+                - Impacto no desenvolvimento
+                - Prejuízos funcionais
+                
+                2. Recursos:
+                - Suporte familiar
+                - Rede de proteção
+                - Acompanhamento profissional
+                - Capacidade de expressão
+                - Vínculo terapêutico
+                
+                3. Intervenção:
+                - Psicoterapia focada no trauma
+                - Orientação familiar
+                - Articulação escolar
+                - Medidas de proteção
+                - Acompanhamento sistemático
+                
+                4. Orientações:
+                - Protocolos de segurança
+                - Capacitação profissional
+                - Supervisão adequada
+                - Comunicação com família
+                - Suporte especializado
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 3: Violência Crônica" id="caso3">
+            <code-block lang="text">
+                Adulta (25 anos) com histórico de violência sexual na
+                infância, não tratada. Apresenta dificuldades relacionais,
+                sintomas dissociativos e prejuízos laborais.
+                
+                Desenvolva:
+                1. Avaliação clínica
+                2. Impactos a longo prazo
+                3. Recursos terapêuticos
+                4. Plano de tratamento
+                
+                Sugestão de Resposta:
+                
+                1. Avaliação Clínica:
+                - Trauma complexo
+                - Padrões relacionais
+                - Mecanismos defensivos
+                - Recursos adaptativos
+                - Sintomas atuais
+                
+                2. Impactos:
+                - Dificuldades vinculares
+                - Sintomas dissociativos
+                - Prejuízos funcionais
+                - Padrões disfuncionais
+                - Trauma não elaborado
+                
+                3. Recursos:
+                - Insight
+                - Motivação para mudança
+                - Suporte social
+                - Capacidade reflexiva
+                - Recursos adaptativos
+                
+                4. Tratamento:
+                - Psicoterapia trauma-focada
+                - Abordagem integrativa
+                - Trabalho corporal
+                - Grupos de apoio
+                - Acompanhamento psiquiátrico
+            </code-block>
+        </chapter>
+    </chapter>
+
+    <chapter title="Aspectos Críticos" id="aspectos-criticos">
+        <list>
+            <li>
+                <b>Na Avaliação</b>
+                <list>
+                    <li>Não revitimização</li>
+                    <li>Timing adequado</li>
+                    <li>Cuidado no manejo</li>
+                    <li>Proteção necessária</li>
+                </list>
+            </li>
+            <li>
+                <b>Na Intervenção</b>
+        <list>
+                    <li>Abordagem trauma-informada</li>
+                    <li>Cuidado integral</li>
+                    <li>Articulação em rede</li>
+                    <li>Monitoramento contínuo</li>
+                </list>
+            </li>
+        </list>
+
+        <note>
+            <p>
+                Importante: A avaliação em casos de violência sexual deve
+                priorizar a proteção e o cuidado da vítima, evitando
+                processos de revitimização.
+            </p>
+        </note>
+    </chapter>
+
+    <chapter title="Recomendações Técnicas" id="recomendacoes">
+        <list>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Registro cuidadoso</li>
+                    <li>Linguagem adequada</li>
+                    <li>Sigilo necessário</li>
+                    <li>Fundamentação técnica</li>
+                </list>
+            </li>
+            <li>
+                <b>Articulação</b>
+                <list>
+                    <li>Rede de proteção</li>
+                    <li>Serviços especializados</li>
+                    <li>Sistema de justiça</li>
+                    <li>Equipe multidisciplinar</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Checklist de Avaliação" id="checklist">
+        <list>
+            <li>
+                <b>Avaliação Inicial</b>
+                <list>
+                    <li>Situação de risco</li>
+                    <li>Medidas urgentes</li>
+                    <li>Suporte necessário</li>
+                    <li>Encaminhamentos</li>
+                </list>
+            </li>
+            <li>
+                <b>Avaliação Processual</b>
+                <list>
+                    <li>Evolução clínica</li>
+                    <li>Adesão ao tratamento</li>
+                    <li>Suporte familiar</li>
+                    <li>Medidas protetivas</li>
+                </list>
+            </li>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Registros técnicos</li>
+                    <li>Instrumentos aplicados</li>
+                    <li>Evolução do caso</li>
+                    <li>Encaminhamentos realizados</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

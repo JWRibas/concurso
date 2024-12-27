@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Legislação e Normativas" id="legislacao">
+
+    <p>
+        Compilação das principais legislações e normativas relevantes para o concurso TJ-SP.
+    </p>
+
+    <chapter title="Código de Ética Profissional" id="codigo-etica">
+        <p>
+            Resolução CFP nº 010/2005
+        </p>
+        <list>
+            <li>
+                <b>Princípios Fundamentais</b>
+                <list>
+                    <li>Respeito à dignidade humana</li>
+                    <li>Promoção da liberdade</li>
+                    <li>Integridade profissional</li>
+                    <li>Responsabilidade social</li>
+                </list>
+            </li>
+            <li>
+                <b>Responsabilidades</b>
+                <list>
+                    <li>Sigilo profissional</li>
+                    <li>Qualidade dos serviços</li>
+                    <li>Relações profissionais</li>
+                    <li>Documentação</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Resoluções CFP" id="resolucoes">
+        <chapter title="Resolução CFP nº 06/2019" id="resolucao-06-2019">
+            <p>
+                Institui regras para a elaboração de documentos escritos produzidos pela(o) psicóloga(o) no exercício profissional.
+            </p>
+            <list>
+                <li>
+                    <b>Tipos de Documentos</b>
+                    <list>
+                        <li>Declaração</li>
+                        <li>Atestado psicológico</li>
+                        <li>Relatório psicológico</li>
+                        <li>Laudo psicológico</li>
+                        <li>Parecer psicológico</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Estrutura</b>
+                    <list>
+                        <li>Identificação</li>
+                        <li>Descrição da demanda</li>
+                        <li>Procedimento</li>
+                        <li>Análise</li>
+                        <li>Conclusão</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="Resolução CFP nº 01/2022" id="resolucao-01-2022">
+            <p>
+                Regulamenta a Avaliação Psicológica no exercício profissional.
+            </p>
+            <list>
+                <li>
+                    <b>Diretrizes</b>
+                    <list>
+                        <li>Planejamento da avaliação</li>
+                        <li>Seleção de instrumentos</li>
+                        <li>Condições de aplicação</li>
+                        <li>Análise de resultados</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Requisitos</b>
+                    <list>
+                        <li>Instrumentos válidos</li>
+                        <li>Fundamentação técnica</li>
+                        <li>Registro documental</li>
+                        <li>Devolutiva</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Legislação Específica" id="legislacao-especifica">
+        <chapter title="ECA - Lei 8.069/1990" id="eca">
+            <p>
+                Estatuto da Criança e do Adolescente
+            </p>
+            <list>
+                <li>
+                    <b>Direitos Fundamentais</b>
+                    <list>
+                        <li>Vida e saúde</li>
+                        <li>Liberdade e dignidade</li>
+                        <li>Convivência familiar</li>
+                        <li>Educação e lazer</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Medidas de Proteção</b>
+                    <list>
+                        <li>Encaminhamento aos pais</li>
+                        <li>Orientação e apoio</li>
+                        <li>Acolhimento institucional</li>
+                        <li>Colocação em família substituta</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="Lei Maria da Penha - Lei 11.340/2006" id="maria-penha">
+            <p>
+                Mecanismos para coibir a violência doméstica e familiar contra a mulher
+            </p>
+            <list>
+                <li>
+                    <b>Formas de Violência</b>
+                    <list>
+                        <li>Física</li>
+                        <li>Psicológica</li>
+                        <li>Sexual</li>
+                        <li>Patrimonial</li>
+                        <li>Moral</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Medidas Protetivas</b>
+                    <list>
+                        <li>Afastamento do agressor</li>
+                        <li>Proibição de contato</li>
+                        <li>Restrição de visitas</li>
+                        <li>Prestação de alimentos</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="Estatuto do Idoso - Lei 10.741/2003" id="estatuto-idoso">
+            <p>
+                Regula os direitos assegurados às pessoas com idade igual ou superior a 60 anos
+            </p>
+            <list>
+                <li>
+                    <b>Direitos Fundamentais</b>
+                    <list>
+                        <li>Vida</li>
+                        <li>Saúde</li>
+                        <li>Alimentação</li>
+                        <li>Educação</li>
+                        <li>Cultura</li>
+                        <li>Esporte</li>
+                        <li>Lazer</li>
+                        <li>Trabalho</li>
+                        <li>Cidadania</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Medidas de Proteção</b>
+                    <list>
+                        <li>Encaminhamento à família</li>
+                        <li>Orientação e apoio</li>
+                        <li>Requisição de tratamento</li>
+                        <li>Abrigo em entidade</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Pontos de Atenção" id="pontos-atencao">
+        <list>
+            <li>
+                <b>Atualizações Recentes</b>
+                <list>
+                    <li>Verificar novas resoluções</li>
+                    <li>Acompanhar alterações legais</li>
+                    <li>Consultar normativas específicas</li>
+                </list>
+            </li>
+            <li>
+                <b>Aplicação Prática</b>
+                <list>
+                    <li>Interpretação contextualizada</li>
+                    <li>Integração das normas</li>
+                    <li>Casos específicos</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Exercícios de Fixação" id="exercicios">
+        <list>
+            <li>
+                <b>Questões Objetivas</b>
+                <list>
+                    <li>Interpretação de artigos</li>
+                    <li>Aplicação em casos</li>
+                    <li>Relação entre normas</li>
+                </list>
+            </li>
+            <li>
+                <b>Questões Discursivas</b>
+                <list>
+                    <li>Análise de situações</li>
+                    <li>Fundamentação legal</li>
+                    <li>Elaboração de pareceres</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Obras Literárias - Anexo VI" id="obras-literarias">
+
+    <p>
+        Esta seção contém os resumos e análises das obras literárias exigidas no Anexo VI do edital.
+        Cada obra é apresentada com um resumo detalhado, análise dos principais temas e personagens,
+        exemplos práticos de aplicação e links para acesso ao material completo.
+    </p>
+
+    <chapter title="Obras Incluídas" id="obras">
+        <list>
+            <li>
+                <b>Auto da Compadecida</b> - Ariano Suassuna
+                <p>Drama que mistura religiosidade, cultura popular e crítica social</p>
+            </li>
+            <li>
+                <b>Vidas Secas</b> - Graciliano Ramos
+                <p>Romance sobre a vida de retirantes no sertão nordestino</p>
+            </li>
+            <li>
+                <b>Sagarana</b> - João Guimarães Rosa
+                <p>Coletânea de contos que retratam o sertão brasileiro</p>
+            </li>
+            <li>
+                <b>Memórias Póstumas de Brás Cubas</b> - Machado de Assis
+                <p>Romance que narra as memórias de um defunto autor</p>
+            </li>
+            <li>
+                <b>Quincas Borba</b> - Machado de Assis
+                <p>Romance que explora temas como loucura e filosofia</p>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Como Estudar" id="como-estudar">
+        <p>Para cada obra, recomenda-se:</p>
+        
+        <list type="decimal">
+            <li>Ler o resumo completo</li>
+            <li>Analisar os exemplos práticos fornecidos</li>
+            <li>Identificar os principais temas e sua relevância</li>
+            <li>Ler a obra completa através dos links disponibilizados</li>
+            <li>Fazer anotações sobre pontos importantes</li>
+        </list>
+    </chapter>
+</topic> 

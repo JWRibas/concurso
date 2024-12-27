@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Documentos Psicológicos no Contexto Jurídico" id="documentos-psicologicos">
+
+    <p>
+        Baseado na Resolução CFP 06/2019 e em Rovinski (2013) - "Fundamentos da Perícia Psicológica Forense".
+    </p>
+
+    <chapter title="Fundamentos da Documentação" id="fundamentos">
+        <list>
+            <li>
+                <b>Tipos de Documentos</b>
+                <list>
+                    <li>Declaração</li>
+                    <li>Atestado psicológico</li>
+                    <li>Relatório/laudo psicológico</li>
+                    <li>Parecer psicológico</li>
+                </list>
+            </li>
+            <li>
+                <b>Aspectos Éticos</b>
+                <list>
+                    <li>Resolução CFP 06/2019</li>
+                    <li>Sigilo profissional</li>
+                    <li>Responsabilidade técnica</li>
+                    <li>Linguagem adequada</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Estrutura dos Documentos" id="estrutura">
+        <list>
+            <li>
+                <b>Laudo Psicológico</b>
+                <list>
+                    <li>Identificação</li>
+                    <li>Descrição da demanda</li>
+                    <li>Procedimentos</li>
+                    <li>Análise</li>
+                    <li>Conclusão</li>
+                </list>
+            </li>
+            <li>
+                <b>Parecer Psicológico</b>
+                <list>
+                    <li>Identificação</li>
+                    <li>Exposição de motivos</li>
+                    <li>Análise</li>
+                    <li>Conclusão</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Contexto Forense" id="forense">
+        <list>
+            <li>
+                <b>Especificidades</b>
+                <list>
+                    <li>Demanda judicial</li>
+                    <li>Quesitos</li>
+                    <li>Prazos</li>
+                    <li>Fundamentação</li>
+                </list>
+            </li>
+            <li>
+                <b>Cuidados Especiais</b>
+                <list>
+                    <li>Imparcialidade</li>
+                    <li>Objetividade</li>
+                    <li>Clareza</li>
+                    <li>Embasamento técnico</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Casos Práticos" id="casos">
+        <chapter title="Caso 1: Laudo Pericial" id="caso1">
+            <code-block lang="text">
+                Elaboração de laudo em caso de disputa de guarda.
+                Necessidade de avaliar vínculos, dinâmica familiar e capacidade parental.
+
+                Estruture:
+                1. Organização das informações
+                2. Análise dos dados
+                3. Conclusões técnicas
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 2: Parecer Técnico" id="caso2">
+            <code-block lang="text">
+                Parecer sobre caso de alienação parental.
+                Análise de documentos e avaliações anteriores.
+
+                Elabore:
+                1. Análise documental
+                2. Fundamentação teórica
+                3. Conclusão técnica
+            </code-block>
+        </chapter>
+    </chapter>
+
+    <chapter title="Questões VUNESP Comentadas" id="questoes-vunesp">
+        <chapter title="Bloco 1: Fundamentos" id="bloco1">
+            <p>
+                <b>Questão 1 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                Segundo a Resolução CFP 06/2019, o relatório psicológico deve:
+            </p>
+            <list>
+                <li>a) Conter apenas conclusões</li>
+                <li>b) Apresentar linguagem técnica inacessível</li>
+                <li>c) Expor metodologia, análise e conclusão fundamentada</li>
+                <li>d) Omitir procedimentos utilizados</li>
+                <li>e) Incluir informações sigilosas desnecessárias</li>
+            </list>
+            <p>
+                <b>Resposta: C</b>
+            </p>
+            <p>
+                <b>Comentário:</b> A Resolução CFP 06/2019 estabelece que o relatório deve 
+                apresentar de forma clara e precisa a metodologia, análise e conclusão 
+                fundamentada.
+            </p>
+
+            <p>
+                <b>Questão 2 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                Na elaboração de documentos psicológicos, é vedado:
+            </p>
+            <list>
+                <li>a) Usar linguagem técnica</li>
+                <li>b) Fazer recomendações</li>
+                <li>c) Apresentar conclusões</li>
+                <li>d) Fazer afirmações sem fundamentação</li>
+                <li>e) Citar fontes teóricas</li>
+            </list>
+            <p>
+                <b>Resposta: D</b>
+            </p>
+            <p>
+                <b>Comentário:</b> É vedado fazer afirmações sem fundamentação técnico-científica, 
+                sendo necessário embasar todas as conclusões em dados objetivos e teorias 
+                reconhecidas.
+            </p>
+        </chapter>
+
+        <chapter title="Bloco 2: Estrutura" id="bloco2">
+            <p>
+                <b>Questão 3 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                O parecer psicológico diferencia-se do relatório/laudo por:
+            </p>
+            <list>
+                <li>a) Não requerer fundamentação</li>
+                <li>b) Responder a questão específica</li>
+                <li>c) Dispensar metodologia</li>
+                <li>d) Ser sempre breve</li>
+                <li>e) Não ter conclusão</li>
+            </list>
+            <p>
+                <b>Resposta: B</b>
+            </p>
+            <p>
+                <b>Comentário:</b> O parecer psicológico tem como característica responder a 
+                uma questão específica, diferente do relatório que é mais abrangente.
+            </p>
+        </chapter>
+
+        <chapter title="Bloco 3: Contexto Forense" id="bloco3">
+            <p>
+                <b>Questão 4 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                Na elaboração de documentos para fins judiciais, é essencial:
+            </p>
+            <list>
+                <li>a) Usar linguagem rebuscada</li>
+                <li>b) Omitir metodologia</li>
+                <li>c) Manter objetividade e fundamentação</li>
+                <li>d) Fazer juízos pessoais</li>
+                <li>e) Copiar modelos prontos</li>
+            </list>
+            <p>
+                <b>Resposta: C</b>
+            </p>
+            <p>
+                <b>Comentário:</b> No contexto judicial, a objetividade e fundamentação são 
+                essenciais para garantir a qualidade técnica e utilidade do documento.
+            </p>
+        </chapter>
+    </chapter>
+
+    <chapter title="Exercícios de Fixação VUNESP" id="exercicios-vunesp">
+        <p>
+            Exercícios elaborados seguindo o padrão VUNESP, com foco em:
+        </p>
+        <list>
+            <li>Resolução CFP 06/2019</li>
+            <li>Estrutura dos documentos</li>
+            <li>Aspectos éticos</li>
+            <li>Contexto forense</li>
+        </list>
+        
+        <chapter title="Simulado Temático" id="simulado">
+            <p>
+                10 questões no estilo VUNESP, distribuídas conforme o perfil do concurso:
+            </p>
+            <list>
+                <li>4 questões sobre fundamentos e ética</li>
+                <li>3 questões sobre estrutura</li>
+                <li>3 questões sobre contexto forense</li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Pontos de Atenção VUNESP" id="atencao-vunesp">
+        <list>
+            <li>
+                <b>Erros Comuns</b>
+                <list>
+                    <li>Estrutura inadequada</li>
+                    <li>Falta de fundamentação</li>
+                    <li>Linguagem imprópria</li>
+                </list>
+            </li>
+            <li>
+                <b>Dicas VUNESP</b>
+                <list>
+                    <li>Dominar Resolução CFP 06/2019</li>
+                    <li>Praticar elaboração de documentos</li>
+                    <li>Atenção aos aspectos éticos</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+</topic> 

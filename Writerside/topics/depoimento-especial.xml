@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Depoimento Especial" id="depoimento-especial">
+
+    <chapter title="Fundamentos Legais" id="fundamentos">
+        <list>
+            <li>
+                <b>Lei 13.431/2017</b>
+                <list>
+                    <li>Objetivos e princípios</li>
+                    <li>Direitos da criança/adolescente</li>
+                    <li>Procedimentos específicos</li>
+                </list>
+            </li>
+            <li>
+                <b>Decreto 9.603/2018</b>
+                <list>
+                    <li>Regulamentação</li>
+                    <li>Fluxos de atendimento</li>
+                    <li>Protocolos de atuação</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Metodologia" id="metodologia">
+        <list>
+            <li>
+                <b>Escuta Especializada</b>
+                <list>
+                    <li>Definição e objetivos</li>
+                    <li>Diferenças do depoimento especial</li>
+                    <li>Contextos de aplicação</li>
+                </list>
+            </li>
+            <li>
+                <b>Depoimento Especial</b>
+                <list>
+                    <li>Preparação do ambiente</li>
+                    <li>Etapas do procedimento</li>
+                    <li>Protocolos de entrevista</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Papel do Psicólogo" id="papel-psicologo">
+        <list>
+            <li>
+                <b>Competências Necessárias</b>
+                <list>
+                    <li>Conhecimento técnico</li>
+                    <li>Habilidades de comunicação</li>
+                    <li>Manejo de situações difíceis</li>
+                </list>
+            </li>
+            <li>
+                <b>Responsabilidades</b>
+                <list>
+                    <li>Preparação da criança/adolescente</li>
+                    <li>Condução da entrevista</li>
+                    <li>Elaboração de relatórios</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Aspectos Técnicos" id="aspectos-tecnicos">
+        <list>
+            <li>
+                <b>Protocolos de Entrevista</b>
+                <list>
+                    <li>NICHD</li>
+                    <li>Protocolo Brasileiro</li>
+                    <li>Adaptações necessárias</li>
+                </list>
+            </li>
+            <li>
+                <b>Equipamentos e Ambiente</b>
+                <list>
+                    <li>Sala de entrevista</li>
+                    <li>Sistema de gravação</li>
+                    <li>Materiais de apoio</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Questões Éticas" id="questoes-eticas">
+        <list>
+            <li>
+                <b>Limites da Atuação</b>
+                <list>
+                    <li>Sigilo profissional</li>
+                    <li>Proteção da criança</li>
+                    <li>Revitimização</li>
+                </list>
+            </li>
+            <li>
+                <b>Cuidados Especiais</b>
+                <list>
+                    <li>Trauma e memória</li>
+                    <li>Sugestionabilidade</li>
+                    <li>Falsas memórias</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Estudos de Caso" id="estudos-caso">
+        <list>
+            <li>
+                <b>Casos Práticos</b>
+                <list>
+                    <li>Violência sexual</li>
+                    <li>Violência doméstica</li>
+                    <li>Conflitos familiares</li>
+                </list>
+            </li>
+            <li>
+                <b>Análise de Procedimentos</b>
+                <list>
+                    <li>Boas práticas</li>
+                    <li>Erros comuns</li>
+                    <li>Lições aprendidas</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Exercícios e Simulações" id="exercicios">
+        <list>
+            <li>
+                <b>Simulações de Entrevista</b>
+                <list>
+                    <li>Rapport</li>
+                    <li>Questionamento apropriado</li>
+                    <li>Fechamento</li>
+                </list>
+            </li>
+            <li>
+                <b>Questões para Estudo</b>
+                <list>
+                    <li>Análise de protocolos</li>
+                    <li>Resolução de dilemas</li>
+                    <li>Elaboração de relatórios</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

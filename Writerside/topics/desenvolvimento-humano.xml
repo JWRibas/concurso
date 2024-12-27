@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Desenvolvimento Humano e Família" id="desenvolvimento-humano">
+
+    <p>
+        Baseado em Papalia (2013) - "Desenvolvimento Humano" e Carter &amp; McGoldrick (1995) - 
+        "As Mudanças no Ciclo de Vida Familiar".
+    </p>
+
+    <chapter title="Fundamentos do Desenvolvimento" id="fundamentos">
+        <list>
+            <li>
+                <b>Teorias do Desenvolvimento</b>
+                <list>
+                    <li>Teoria Psicossexual (Freud)</li>
+                    <li>Teoria Psicossocial (Erikson)</li>
+                    <li>Teoria Cognitiva (Piaget)</li>
+                    <li>Teoria Sociocultural (Vygotsky)</li>
+                </list>
+            </li>
+            <li>
+                <b>Períodos do Desenvolvimento</b>
+                <list>
+                    <li>Primeira infância (0-3 anos)</li>
+                    <li>Segunda infância (3-6 anos)</li>
+                    <li>Terceira infância (6-11 anos)</li>
+                    <li>Adolescência (12-20 anos)</li>
+                    <li>Idade adulta jovem (20-40 anos)</li>
+                    <li>Idade adulta média (40-65 anos)</li>
+                    <li>Idade adulta tardia (65+ anos)</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Ciclo de Vida Familiar" id="ciclo-familiar">
+        <list>
+            <li>
+                <b>Estágios do Ciclo Familiar</b>
+                <list>
+                    <li>Saindo de casa: jovens solteiros</li>
+                    <li>A união de famílias no casamento</li>
+                    <li>Famílias com filhos pequenos</li>
+                    <li>Famílias com adolescentes</li>
+                    <li>Lançando os filhos</li>
+                    <li>Famílias no estágio tardio</li>
+                </list>
+            </li>
+            <li>
+                <b>Transições Familiares</b>
+                <list>
+                    <li>Divórcio e separação</li>
+                    <li>Recasamento</li>
+                    <li>Famílias monoparentais</li>
+                    <li>Famílias reconstituídas</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Avaliação no Contexto Forense" id="avaliacao">
+        <list>
+            <li>
+                <b>Aspectos Específicos</b>
+                <list>
+                    <li>Desenvolvimento infantil</li>
+                    <li>Dinâmica familiar</li>
+                    <li>Vínculos afetivos</li>
+                    <li>Parentalidade</li>
+                </list>
+            </li>
+            <li>
+                <b>Instrumentos</b>
+                <list>
+                    <li>Entrevista familiar</li>
+                    <li>Observação da interação</li>
+                    <li>Genograma</li>
+                    <li>Testes projetivos</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Casos Práticos" id="casos">
+        <chapter title="Caso 1: Avaliação de Guarda" id="caso1">
+            <code-block lang="text">
+                Família em processo de divórcio com dois filhos (8 e 12 anos).
+                Pai alega maior estabilidade financeira e emocional.
+                Mãe apresenta forte vínculo afetivo com as crianças.
+                Ambos demonstram capacidade parental adequada.
+
+                Analise:
+                1. Aspectos do desenvolvimento infantil
+                2. Dinâmica familiar
+                3. Recomendações para guarda
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 2: Família Reconstituída" id="caso2">
+            <code-block lang="text">
+                Casal recém-casado com filhos de relacionamentos anteriores.
+                Dificuldades de adaptação e conflitos entre os meio-irmãos.
+                Pais biológicos mantêm contato regular.
+
+                Elabore:
+                1. Análise da dinâmica familiar
+                2. Impacto no desenvolvimento
+                3. Estratégias de intervenção
+            </code-block>
+        </chapter>
+    </chapter>
+
+    <chapter title="Questões VUNESP Comentadas" id="questoes-vunesp">
+        <chapter title="Bloco 1: Desenvolvimento" id="bloco1">
+            <p>
+                <b>Questão 1 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                Segundo Piaget, o pensamento operatório concreto caracteriza-se por:
+            </p>
+            <list>
+                <li>a) Egocentrismo e irreversibilidade</li>
+                <li>b) Operações lógicas e reversibilidade</li>
+                <li>c) Pensamento abstrato e hipotético</li>
+                <li>d) Permanência do objeto</li>
+                <li>e) Função simbólica</li>
+            </list>
+            <p>
+                <b>Resposta: B</b>
+            </p>
+            <p>
+                <b>Comentário:</b> O período operatório concreto (7-11 anos) é caracterizado pela 
+                capacidade de realizar operações mentais reversíveis e pelo pensamento lógico 
+                aplicado a situações concretas.
+            </p>
+
+            <p>
+                <b>Questão 2 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                Na teoria de Erikson, a principal crise da adolescência é:
+            </p>
+            <list>
+                <li>a) Confiança x Desconfiança</li>
+                <li>b) Autonomia x Vergonha</li>
+                <li>c) Identidade x Confusão de Papéis</li>
+                <li>d) Intimidade x Isolamento</li>
+                <li>e) Integridade x Desesperança</li>
+            </list>
+            <p>
+                <b>Resposta: C</b>
+            </p>
+            <p>
+                <b>Comentário:</b> A adolescência é marcada pela busca da identidade e definição 
+                de papéis sociais, sendo este o principal conflito psicossocial desta fase 
+                segundo Erikson.
+            </p>
+        </chapter>
+
+        <chapter title="Bloco 2: Família" id="bloco2">
+            <p>
+                <b>Questão 3 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                Em relação às famílias reconstituídas, é correto afirmar:
+            </p>
+            <list>
+                <li>a) São sempre disfuncionais</li>
+                <li>b) Devem apagar a história familiar anterior</li>
+                <li>c) Requerem tempo para adaptação e integração</li>
+                <li>d) Precisam manter os mesmos padrões da família original</li>
+                <li>e) Não podem estabelecer novos rituais familiares</li>
+            </list>
+            <p>
+                <b>Resposta: C</b>
+            </p>
+            <p>
+                <b>Comentário:</b> As famílias reconstituídas necessitam de tempo para desenvolver 
+                sua própria identidade e integrar seus membros, respeitando histórias anteriores 
+                e construindo novos vínculos.
+            </p>
+        </chapter>
+
+        <chapter title="Bloco 3: Avaliação" id="bloco3">
+            <p>
+                <b>Questão 4 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                Na avaliação psicológica de crianças em contexto de disputa de guarda, é essencial:
+            </p>
+            <list>
+                <li>a) Considerar apenas o desejo da criança</li>
+                <li>b) Avaliar exclusivamente aspectos financeiros</li>
+                <li>c) Analisar múltiplos aspectos do desenvolvimento e vínculos</li>
+                <li>d) Ignorar a opinião dos genitores</li>
+                <li>e) Focar apenas no genitor que solicita a guarda</li>
+            </list>
+            <p>
+                <b>Resposta: C</b>
+            </p>
+            <p>
+                <b>Comentário:</b> A avaliação deve considerar aspectos do desenvolvimento infantil, 
+                vínculos afetivos, capacidade parental e dinâmica familiar de forma integrada.
+            </p>
+        </chapter>
+    </chapter>
+
+    <chapter title="Exercícios de Fixação VUNESP" id="exercicios-vunesp">
+        <p>
+            Exercícios elaborados seguindo o padrão VUNESP, com foco em:
+        </p>
+        <list>
+            <li>Teorias do desenvolvimento</li>
+            <li>Ciclo vital familiar</li>
+            <li>Avaliação psicológica</li>
+            <li>Contexto forense</li>
+        </list>
+        
+        <chapter title="Simulado Temático" id="simulado">
+            <p>
+                10 questões no estilo VUNESP, distribuídas conforme o perfil do concurso:
+            </p>
+            <list>
+                <li>4 questões sobre desenvolvimento humano</li>
+                <li>3 questões sobre dinâmica familiar</li>
+                <li>3 questões sobre avaliação psicológica</li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Pontos de Atenção VUNESP" id="atencao-vunesp">
+        <list>
+            <li>
+                <b>Erros Comuns</b>
+                <list>
+                    <li>Confundir estágios do desenvolvimento</li>
+                    <li>Simplificar dinâmicas familiares</li>
+                    <li>Desconsiderar contexto social</li>
+                </list>
+            </li>
+            <li>
+                <b>Dicas VUNESP</b>
+                <list>
+                    <li>Dominar teorias do desenvolvimento</li>
+                    <li>Conhecer ciclo vital familiar</li>
+                    <li>Focar em avaliação contextualizada</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+</topic> 

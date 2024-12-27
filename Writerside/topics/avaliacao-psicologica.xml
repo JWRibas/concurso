@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Avaliação Psicológica em Contexto Forense" id="avaliacao-psicologica">
+
+    <p>
+        Guia prático baseado na obra "Avaliação Psicológica em Contexto Forense" (HUTZ et al., 2020),
+        com foco em exemplos e exercícios práticos.
+    </p>
+
+    <chapter title="Fundamentos da Avaliação Forense" id="fundamentos">
+        <p>Aspectos essenciais que diferenciam a avaliação forense da clínica:</p>
+
+        <list type="bullet">
+            <li>
+                <b>Características Específicas</b>
+                <list>
+                    <li>Foco na demanda judicial</li>
+                    <li>Necessidade de documentação detalhada</li>
+                    <li>Múltiplas fontes de informação</li>
+                    <li>Consideração do contexto legal</li>
+                </list>
+            </li>
+            <li>
+                <b>Princípios Éticos</b>
+                <list>
+                    <li>Imparcialidade e objetividade</li>
+                    <li>Limites do sigilo profissional</li>
+                    <li>Responsabilidade social</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Casos Práticos por Área" id="casos">
+        <chapter title="1. Vara de Família" id="familia">
+            <p>Exemplo de caso: Disputa de guarda</p>
+
+            <list type="bullet">
+                <li>
+                    <b>Roteiro de Avaliação</b>
+                    <list>
+                        <li>Entrevista com cada genitor</li>
+                        <li>Observação da interação pais-filhos</li>
+                        <li>Avaliação do desenvolvimento infantil</li>
+                        <li>Análise da dinâmica familiar</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Instrumentos Sugeridos</b>
+                    <list>
+                        <li>Entrevista semiestruturada específica</li>
+                        <li>Técnicas projetivas (quando apropriado)</li>
+                        <li>Escalas de desenvolvimento</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Exercício Prático</b>
+                    <p>Elabore um roteiro de entrevista considerando:</p>
+                    <list>
+                        <li>História do relacionamento conjugal</li>
+                        <li>Padrões de cuidado com a criança</li>
+                        <li>Rede de apoio disponível</li>
+                        <li>Condições socioeconômicas</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="2. Violência Doméstica" id="violencia">
+            <p>Exemplo de caso: Avaliação de risco</p>
+
+            <list type="bullet">
+                <li>
+                    <b>Protocolo de Avaliação</b>
+                    <list>
+                        <li>Histórico de violência</li>
+                        <li>Fatores de risco presentes</li>
+                        <li>Recursos de proteção</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Documentação Necessária</b>
+                    <list>
+                        <li>Registros de ocorrências</li>
+                        <li>Laudos médicos (se houver)</li>
+                        <li>Relatos de testemunhas</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Exercício Prático</b>
+                    <p>Desenvolva um checklist de avaliação incluindo:</p>
+                    <list>
+                        <li>Indicadores de risco imediato</li>
+                        <li>Padrões de escalada da violência</li>
+                        <li>Recursos de enfrentamento</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Elaboração de Documentos" id="documentos">
+        <p>Baseado em Lourenço, Shine e Ortiz (2021)</p>
+
+        <list type="bullet">
+            <li>
+                <b>Estrutura do Laudo</b>
+                <list>
+                    <li>Identificação</li>
+                    <li>Descrição da demanda</li>
+                    <li>Procedimentos utilizados</li>
+                    <li>Análise</li>
+                    <li>Conclusão/encaminhamentos</li>
+                </list>
+            </li>
+            <li>
+                <b>Exercício de Redação</b>
+                <p>Pratique elaborando:</p>
+                <list>
+                    <li>Descrição objetiva de comportamentos</li>
+                    <li>Análise de vínculos afetivos</li>
+                    <li>Fundamentação de conclusões</li>
+                </list>
+            </li>
+        </list>
+
+        <note>
+            <p>
+                Importante: Sempre consultar a Resolução CFP nº 006/2019 sobre elaboração de documentos
+                e as diretrizes específicas para contexto forense.
+            </p>
+        </note>
+    </chapter>
+
+    <chapter title="Exercícios de Fixação" id="exercicios">
+        <list type="decimal">
+            <li>
+                <b>Análise de Caso</b>
+                <p>
+                    Estude um caso fictício de avaliação psicológica em contexto forense e:
+                </p>
+                <list>
+                    <li>Identifique as informações relevantes</li>
+                    <li>Planeje a avaliação</li>
+                    <li>Selecione instrumentos apropriados</li>
+                    <li>Elabore um esboço de laudo</li>
+                </list>
+            </li>
+            <li>
+                <b>Simulação de Entrevista</b>
+                <p>
+                    Pratique com um colega simulando:
+                </p>
+                <list>
+                    <li>Entrevista inicial</li>
+                    <li>Devolutiva</li>
+                    <li>Esclarecimentos ao juiz</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Recursos Complementares" id="recursos">
+        <list>
+            <li>
+                <b>Modelos de Documentos</b>
+                <list>
+                    <li>Laudos psicológicos</li>
+                    <li>Pareceres técnicos</li>
+                    <li>Relatórios de acompanhamento</li>
+                </list>
+            </li>
+            <li>
+                <b>Bibliografia Específica</b>
+                <list>
+                    <li>Resoluções do CFP sobre avaliação psicológica</li>
+                    <li>Artigos científicos sobre perícia psicológica</li>
+                    <li>Manuais de instrumentos específicos</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Dicas para a Prova" id="dicas">
+        <list>
+            <li>Estude casos práticos e seus desdobramentos</li>
+            <li>Pratique a redação de documentos técnicos</li>
+            <li>Revise as resoluções do CFP sobre avaliação</li>
+            <li>Conheça os limites éticos da atuação</li>
+            <li>Familiarize-se com termos jurídicos comuns</li>
+        </list>
+    </chapter>
+</topic> 

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Bloco I - Língua Portuguesa" id="bloco-1-portugues">
+
+    <p>O Bloco I de Língua Portuguesa compreende 12 questões que abordam os seguintes tópicos:</p>
+    
+    <list>
+        <li>Leitura e interpretação de textos de diversos gêneros discursivos</li>
+        <li>Emprego das tipologias textuais na textualização dos gêneros discursivos</li>
+        <li>Critérios de textualidade</li>
+        <li>Progressão textual nos diferentes gêneros</li>
+        <li>Citação do discurso alheio</li>
+        <li>Modalização discursiva</li>
+        <li>Reconhecimento de informações implícitas e inferências textuais</li>
+        <li>Emprego de linguagem denotativa e conotativa</li>
+        <li>Relações semânticas no texto</li>
+        <li>Uso da norma-padrão</li>
+    </list>
+
+    <chapter title="Estrutura do Conteúdo" id="estrutura">
+        <p>O conteúdo está organizado nos seguintes tópicos principais:</p>
+        
+        <list>
+            <li><a href="interpretacao-textos.xml">Interpretação de Textos</a></li>
+            <li><a href="tipologias-textuais.xml">Tipologias Textuais</a></li>
+            <li><a href="criterios-textualidade.xml">Critérios de Textualidade</a></li>
+            <li><a href="norma-padrao.xml">Norma Padrão</a></li>
+        </list>
+    </chapter>
+</topic> 

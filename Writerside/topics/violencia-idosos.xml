@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Avaliação em Casos de Violência Contra Idosos" id="violencia-idosos">
+
+    <p>
+        Baseado em Silva, Dias e Costa (2020) - "Violência contra o idoso na família: possibilidades de avaliação"
+        e no Estatuto do Idoso (Lei 10.741/2003).
+    </p>
+
+    <chapter title="Aspectos Teóricos" id="teoria">
+        <list type="bullet">
+            <li>
+                <b>Tipos de Violência</b>
+                <list>
+                    <li>Física: agressões, contenções</li>
+                    <li>Psicológica: humilhações, ameaças</li>
+                    <li>Financeira: apropriação de bens</li>
+                    <li>Negligência: abandono, descuido</li>
+                </list>
+            </li>
+            <li>
+                <b>Fatores de Risco</b>
+                <list>
+                    <li>Dependência física/financeira</li>
+                    <li>Isolamento social</li>
+                    <li>Histórico de violência familiar</li>
+                    <li>Sobrecarga do cuidador</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Protocolo de Avaliação" id="protocolo">
+        <list type="bullet">
+            <li>
+                <b>1. Entrevista com o Idoso</b>
+                <list>
+                    <li>Condições de vida</li>
+                    <li>Relações familiares</li>
+                    <li>Autonomia e dependência</li>
+                    <li>Sinais de violência</li>
+                </list>
+            </li>
+            <li>
+                <b>2. Avaliação do Contexto</b>
+                <list>
+                    <li>Dinâmica familiar</li>
+                    <li>Condições de moradia</li>
+                    <li>Rede de apoio</li>
+                    <li>Acesso a serviços</li>
+                </list>
+            </li>
+            <li>
+                <b>3. Entrevista com Familiares/Cuidadores</b>
+                <list>
+                    <li>Organização dos cuidados</li>
+                    <li>Dificuldades encontradas</li>
+                    <li>Recursos disponíveis</li>
+                    <li>Compreensão das necessidades</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Modelo de Relatório" id="modelo">
+        <code-block lang="text">
+            RELATÓRIO PSICOLÓGICO - AVALIAÇÃO DE VIOLÊNCIA CONTRA IDOSO
+            
+            I. IDENTIFICAÇÃO
+            Nome: [iniciais]
+            Idade: [xx anos]
+            Encaminhamento: [origem]
+            
+            II. METODOLOGIA
+            1. Procedimentos Realizados
+            - Entrevistas com o idoso
+            - Entrevistas com familiares
+            - Visita domiciliar
+            - Contatos com rede de apoio
+            
+            III. HISTÓRICO
+            1. Contexto Familiar
+            [Descrever composição familiar, dinâmica...]
+            
+            2. Condições de Vida
+            [Avaliar moradia, cuidados, autonomia...]
+            
+            3. Situação de Violência
+            [Relatar ocorrências, padrões identificados...]
+            
+            IV. ANÁLISE
+            1. Indicadores de Violência
+            [Descrever sinais observados...]
+            
+            2. Fatores de Risco
+            [Identificar vulnerabilidades...]
+            
+            3. Recursos de Proteção
+            [Avaliar rede de apoio, serviços...]
+            
+            V. CONCLUSÃO E ENCAMINHAMENTOS
+            [Parecer técnico e sugestões de intervenção]
+        </code-block>
+    </chapter>
+
+    <chapter title="Exercícios Práticos" id="exercicios">
+        <chapter title="Caso 1: Negligência" id="caso1">
+            <code-block lang="text">
+                Idosa (78 anos), viúva, mora com filho (45 anos) dependente químico.
+                Vizinhos relatam gritos frequentes e que a idosa fica sozinha por longos
+                períodos. Apresenta sinais de desnutrição e higiene precária.
+                Possui aposentadoria, mas relata não ter acesso ao dinheiro.
+                
+                Analise:
+                1. Indicadores de violência presentes
+                2. Fatores de risco identificados
+                3. Medidas de proteção necessárias
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 2: Violência Financeira" id="caso2">
+            <code-block lang="text">
+                Idoso (82 anos), lúcido, relata que filha e genro se mudaram para
+                sua casa após AVC leve. Desde então, assumiram controle de suas contas
+                e venderam seu carro sem autorização. Demonstra medo de contrariar
+                os familiares e isolamento dos amigos.
+                
+                Elabore:
+                1. Roteiro de avaliação
+                2. Aspectos legais envolvidos
+                3. Encaminhamentos sugeridos
+            </code-block>
+        </chapter>
+    </chapter>
+
+    <chapter title="Aspectos Críticos" id="aspectos-criticos">
+        <list>
+            <li>
+                <b>Na Avaliação</b>
+                <list>
+                    <li>Garantir privacidade nas entrevistas</li>
+                    <li>Considerar limitações físicas/cognitivas</li>
+                    <li>Avaliar capacidade de autodeterminação</li>
+                    <li>Identificar rede de apoio</li>
+                </list>
+            </li>
+            <li>
+                <b>Na Intervenção</b>
+                <list>
+                    <li>Respeitar autonomia do idoso</li>
+                    <li>Articular rede de proteção</li>
+                    <li>Orientar familiares/cuidadores</li>
+                    <li>Monitorar situação de risco</li>
+                </list>
+            </li>
+        </list>
+
+        <note>
+            <p>
+                Importante: A intervenção deve considerar os vínculos familiares e a
+                autonomia do idoso, buscando medidas que não agravem seu isolamento
+                ou dependência.
+            </p>
+        </note>
+    </chapter>
+
+    <chapter title="Fundamentação Legal" id="legal">
+        <list>
+            <li>
+                <b>Estatuto do Idoso</b>
+                <list>
+                    <li>Direitos fundamentais</li>
+                    <li>Medidas de proteção</li>
+                    <li>Política de atendimento</li>
+                </list>
+            </li>
+            <li>
+                <b>Notificação Compulsória</b>
+                <list>
+                    <li>Casos de violência</li>
+                    <li>Procedimentos</li>
+                    <li>Órgãos competentes</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

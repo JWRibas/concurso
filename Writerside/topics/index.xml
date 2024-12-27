@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="TJ Concurso - Psicologia" id="index">
+
+    <p>
+        Bem-vindo ao material de estudo para o concurso de Psicólogo do TJ-SP. Este guia contém todo o conteúdo
+        programático organizado de forma didática, com resumos, exemplos práticos e referências à bibliografia oficial.
+    </p>
+
+    <chapter title="Estrutura da Prova" id="estrutura-prova">
+        <p>A prova está dividida em três blocos:</p>
+        
+        <list>
+            <li><b>Bloco I - Língua Portuguesa</b>: 12 questões</li>
+            <li><b>Bloco II - Conhecimentos Específicos</b>: 46 questões</li>
+            <li><b>Bloco III - Conhecimentos Gerais</b>: 5 questões</li>
+        </list>
+    </chapter>
+
+    <chapter title="Organização do Material" id="organizacao">
+        <p>O conteúdo está estruturado da seguinte forma:</p>
+        
+        <list type="decimal">
+            <li>
+                <b>Bloco I - Português</b>
+                <list>
+                    <li>Interpretação de textos</li>
+                    <li>Tipologias textuais</li>
+                    <li>Critérios de textualidade</li>
+                    <li>Norma-padrão</li>
+                </list>
+            </li>
+            <li>
+                <b>Bloco II - Conhecimentos Específicos</b>
+                <list>
+                    <li>Desenvolvimento psicológico</li>
+                    <li>Família e configurações</li>
+                    <li>Aspectos da violência</li>
+                    <li>Direitos fundamentais</li>
+                    <li>Avaliação psicológica</li>
+                    <li>Documentos escritos</li>
+                    <li>Ética profissional</li>
+                </list>
+            </li>
+            <li>
+                <b>Bloco III - Conhecimentos Gerais</b>
+                <list>
+                    <li>Atualidades</li>
+                    <li>Estatuto dos Servidores</li>
+                    <li>Lei de Improbidade</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Como Estudar" id="como-estudar">
+        <p>Para melhor aproveitamento do material:</p>
+        
+        <list type="decimal">
+            <li>Comece pelos temas com maior peso (Bloco II)</li>
+            <li>Estude a bibliografia recomendada</li>
+            <li>Pratique com exemplos e casos</li>
+            <li>Revise a legislação pertinente</li>
+            <li>Faça anotações e resumos</li>
+        </list>
+    </chapter>
+
+    <chapter title="Bibliografia e Legislação" id="bibliografia">
+        <p>
+            Todo o material está baseado na bibliografia e legislação oficial do edital.
+            Consulte as seções específicas para a lista completa de referências.
+        </p>
+    </chapter>
+</topic> 

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Tipologias Textuais" id="tipologias-textuais">
+
+    <p>As tipologias textuais são categorias que classificam os textos de acordo com suas características e finalidades comunicativas.</p>
+
+    <chapter title="Narração" id="narracao">
+        <p>Textos narrativos apresentam uma sequência de ações ou acontecimentos, envolvendo personagens em um determinado tempo e espaço.</p>
+        
+        <list>
+            <li>Elementos da Narração
+                <list>
+                    <li>Enredo: sequência dos fatos</li>
+                    <li>Personagens: quem participa da história</li>
+                    <li>Tempo: quando ocorrem os fatos</li>
+                    <li>Espaço: onde se passa a história</li>
+                    <li>Narrador: quem conta a história</li>
+                </list>
+            </li>
+            <li>Exemplos de Gêneros Narrativos
+                <list>
+                    <li>Romance</li>
+                    <li>Conto</li>
+                    <li>Crônica</li>
+                    <li>Fábula</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Descrição" id="descricao">
+        <p>Textos descritivos apresentam as características de um objeto, pessoa, lugar, sentimento ou ideia, apelando para as impressões sensoriais.</p>
+        
+        <list>
+            <li>Tipos de Descrição
+                <list>
+                    <li>Objetiva: apresenta dados concretos e verificáveis</li>
+                    <li>Subjetiva: expressa impressões pessoais e sentimentos</li>
+                </list>
+            </li>
+            <li>Recursos Descritivos
+                <list>
+                    <li>Adjetivos: qualificam os substantivos</li>
+                    <li>Figuras de linguagem: comparação, metáfora, personificação</li>
+                    <li>Verbos de estado: ser, estar, parecer</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Dissertação" id="dissertacao">
+        <p>Textos dissertativos apresentam uma análise, discussão ou reflexão sobre um tema, defendendo um ponto de vista por meio de argumentos.</p>
+        
+        <list>
+            <li>Estrutura Dissertativa
+                <list>
+                    <li>Introdução: apresentação do tema e da tese</li>
+                    <li>Desenvolvimento: exposição dos argumentos</li>
+                    <li>Conclusão: retomada da tese e fechamento</li>
+                </list>
+            </li>
+            <li>Tipos de Dissertação
+                <list>
+                    <li>Expositiva: explica e informa sobre um tema</li>
+                    <li>Argumentativa: defende um ponto de vista</li>
+                </list>
+            </li>
+            <li>Estratégias Argumentativas
+                <list>
+                    <li>Exemplificação</li>
+                    <li>Citação de autoridade</li>
+                    <li>Relação de causa e consequência</li>
+                    <li>Analogia</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Injunção" id="injuncao">
+        <p>Textos injuntivos indicam como realizar uma ação, apresentando instruções, orientações, dicas ou conselhos.</p>
+        
+        <list>
+            <li>Características da Injunção
+                <list>
+                    <li>Verbos no imperativo</li>
+                    <li>Linguagem objetiva e direta</li>
+                    <li>Uso de marcadores (números, tópicos)</li>
+                </list>
+            </li>
+            <li>Exemplos de Gêneros Injuntivos
+                <list>
+                    <li>Receita</li>
+                    <li>Manual de instruções</li>
+                    <li>Bula de remédio</li>
+                    <li>Regras de jogo</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Exercícios" id="exercicios">
+        <p>Pratique a identificação das tipologias textuais:</p>
+
+        <chapter title="Exercício 1" id="ex1">
+            <p>Leia o texto:</p>
+            <code-block>
+                "Aqueça o forno a 180°C. Em uma tigela, misture a farinha, o açúcar e o fermento. Adicione os ovos e a manteiga. Mexa até obter uma massa homogênea. Despeje em uma forma untada e asse por 30 minutos."
+            </code-block>
+            
+            <p>Questão: O texto acima é predominantemente:</p>
+            
+            <list type="a">
+                <li>narrativo</li>
+                <li>descritivo</li>
+                <li>dissertativo</li>
+                <li>injuntivo</li>
+            </list>
+
+            <p>Resposta: D</p>
+            
+            <p>Explicação: O texto apresenta instruções para a realização de uma receita, utilizando verbos no imperativo, caracterizando a tipologia injuntiva.</p>
+        </chapter>
+
+        <chapter title="Exercício 2" id="ex2">
+            <p>Analise o trecho:</p>
+            <code-block>
+                "A praça é um espaço amplo e arborizado. Bancos de madeira estão espalhados sob a sombra das árvores frondosas. Um chafariz de pedra jorra água cristalina no centro, refrescando o ambiente. Crianças brincam alegremente nos brinquedos coloridos do parquinho."
+            </code-block>
+            
+            <p>Questão: O texto acima é predominantemente:</p>
+            
+            <list type="a">
+                <li>narrativo</li>
+                <li>descritivo</li>
+                <li>dissertativo</li>
+                <li>injuntivo</li>
+            </list>
+
+            <p>Resposta: B</p>
+            
+            <p>Explicação: O texto descreve as características da praça, apelando para impressões sensoriais e utilizando adjetivos, configurando a tipologia descritiva.</p>
+        </chapter>
+    </chapter>
+
+</topic> 

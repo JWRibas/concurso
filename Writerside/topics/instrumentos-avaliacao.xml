@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Instrumentos de Avaliação Psicológica" id="instrumentos-avaliacao">
+
+    <p>
+        Baseado em Cunha (2000) - "Psicodiagnóstico V" e nas Resoluções do CFP sobre Avaliação Psicológica.
+    </p>
+
+    <chapter title="Fundamentos da Avaliação" id="fundamentos">
+        <list>
+            <li>
+                <b>Princípios Básicos</b>
+                <list>
+                    <li>Padronização</li>
+                    <li>Validade</li>
+                    <li>Precisão</li>
+                    <li>Normatização</li>
+                </list>
+            </li>
+            <li>
+                <b>Aspectos Éticos</b>
+                <list>
+                    <li>Resolução CFP 009/2018</li>
+                    <li>Uso adequado dos testes</li>
+                    <li>Sigilo profissional</li>
+                    <li>Devolutiva</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Tipos de Instrumentos" id="tipos">
+        <list>
+            <li>
+                <b>Testes Psicométricos</b>
+                <list>
+                    <li>Inteligência</li>
+                    <li>Personalidade</li>
+                    <li>Aptidões</li>
+                    <li>Interesses</li>
+                </list>
+            </li>
+            <li>
+                <b>Técnicas Projetivas</b>
+                <list>
+                    <li>Gráficas</li>
+                    <li>Verbais</li>
+                    <li>Expressivas</li>
+                    <li>Lúdicas</li>
+                </list>
+            </li>
+            <li>
+                <b>Entrevistas</b>
+                <list>
+                    <li>Estruturada</li>
+                    <li>Semiestruturada</li>
+                    <li>Livre</li>
+                    <li>Anamnese</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Contexto Forense" id="forense">
+        <list>
+            <li>
+                <b>Especificidades</b>
+                <list>
+                    <li>Demanda judicial</li>
+                    <li>Simulação e dissimulação</li>
+                    <li>Documentação</li>
+                    <li>Fundamentação técnica</li>
+                </list>
+            </li>
+            <li>
+                <b>Instrumentos Específicos</b>
+                <list>
+                    <li>Avaliação de risco</li>
+                    <li>Capacidade civil</li>
+                    <li>Parentalidade</li>
+                    <li>Violência</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Casos Práticos" id="casos">
+        <chapter title="Caso 1: Avaliação Forense" id="caso1">
+            <code-block lang="text">
+                Avaliação psicológica em caso de suspeita de alienação parental.
+                Necessidade de avaliar vínculos, dinâmica familiar e prejuízos ao desenvolvimento.
+
+                Planeje:
+                1. Seleção de instrumentos
+                2. Sequência de aplicação
+                3. Integração dos dados
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 2: Capacidade Civil" id="caso2">
+            <code-block lang="text">
+                Avaliação de idoso com suspeita de comprometimento cognitivo.
+                Família solicita interdição parcial.
+
+                Elabore:
+                1. Bateria de testes
+                2. Aspectos a avaliar
+                3. Documentação necessária
+            </code-block>
+        </chapter>
+    </chapter>
+
+    <chapter title="Questões VUNESP Comentadas" id="questoes-vunesp">
+        <chapter title="Bloco 1: Fundamentos" id="bloco1">
+            <p>
+                <b>Questão 1 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                Na avaliação psicológica, a validade de um teste refere-se:
+            </p>
+            <list>
+                <li>a) À consistência dos resultados</li>
+                <li>b) À capacidade de medir o que se propõe</li>
+                <li>c) Aos dados normativos</li>
+                <li>d) À aplicação padronizada</li>
+                <li>e) À correção objetiva</li>
+            </list>
+            <p>
+                <b>Resposta: B</b>
+            </p>
+            <p>
+                <b>Comentário:</b> A validade é a capacidade do instrumento medir aquilo que 
+                se propõe a medir. A VUNESP frequentemente aborda conceitos fundamentais da 
+                avaliação psicológica.
+            </p>
+
+            <p>
+                <b>Questão 2 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                Sobre as técnicas projetivas, é correto afirmar:
+            </p>
+            <list>
+                <li>a) São sempre objetivas</li>
+                <li>b) Dispensam formação específica</li>
+                <li>c) Avaliam aspectos dinâmicos da personalidade</li>
+                <li>d) Têm aplicação rápida e simples</li>
+                <li>e) São inadequadas no contexto forense</li>
+            </list>
+            <p>
+                <b>Resposta: C</b>
+            </p>
+            <p>
+                <b>Comentário:</b> As técnicas projetivas permitem avaliar aspectos dinâmicos 
+                e profundos da personalidade, sendo instrumentos valiosos quando adequadamente 
+                utilizados.
+            </p>
+        </chapter>
+
+        <chapter title="Bloco 2: Aplicação" id="bloco2">
+            <p>
+                <b>Questão 3 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                Na avaliação psicológica forense, é fundamental:
+            </p>
+            <list>
+                <li>a) Usar apenas testes projetivos</li>
+                <li>b) Evitar entrevistas</li>
+                <li>c) Utilizar múltiplas fontes de informação</li>
+                <li>d) Aplicar somente um instrumento</li>
+                <li>e) Desconsiderar o contexto</li>
+            </list>
+            <p>
+                <b>Resposta: C</b>
+            </p>
+            <p>
+                <b>Comentário:</b> A avaliação psicológica forense requer múltiplas fontes de 
+                informação para maior confiabilidade e validade das conclusões.
+            </p>
+        </chapter>
+
+        <chapter title="Bloco 3: Documentação" id="bloco3">
+            <p>
+                <b>Questão 4 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                O laudo psicológico no contexto forense deve:
+            </p>
+            <list>
+                <li>a) Ser breve e superficial</li>
+                <li>b) Omitir os instrumentos utilizados</li>
+                <li>c) Apresentar fundamentação técnica e científica</li>
+                <li>d) Incluir apenas conclusões</li>
+                <li>e) Evitar recomendações</li>
+            </list>
+            <p>
+                <b>Resposta: C</b>
+            </p>
+            <p>
+                <b>Comentário:</b> O laudo psicológico deve apresentar fundamentação técnica 
+                e científica clara, incluindo metodologia, resultados e análise integrada.
+            </p>
+        </chapter>
+    </chapter>
+
+    <chapter title="Exercícios de Fixação VUNESP" id="exercicios-vunesp">
+        <p>
+            Exercícios elaborados seguindo o padrão VUNESP, com foco em:
+        </p>
+        <list>
+            <li>Fundamentos da avaliação</li>
+            <li>Seleção de instrumentos</li>
+            <li>Aplicação e interpretação</li>
+            <li>Documentação técnica</li>
+        </list>
+        
+        <chapter title="Simulado Temático" id="simulado">
+            <p>
+                10 questões no estilo VUNESP, distribuídas conforme o perfil do concurso:
+            </p>
+            <list>
+                <li>4 questões sobre fundamentos</li>
+                <li>3 questões sobre instrumentos</li>
+                <li>3 questões sobre documentação</li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Pontos de Atenção VUNESP" id="atencao-vunesp">
+        <list>
+            <li>
+                <b>Erros Comuns</b>
+                <list>
+                    <li>Uso inadequado de instrumentos</li>
+                    <li>Interpretações sem fundamentação</li>
+                    <li>Documentação incompleta</li>
+                </list>
+            </li>
+            <li>
+                <b>Dicas VUNESP</b>
+                <list>
+                    <li>Dominar fundamentos teóricos</li>
+                    <li>Conhecer resoluções do CFP</li>
+                    <li>Praticar elaboração de documentos</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+</topic> 

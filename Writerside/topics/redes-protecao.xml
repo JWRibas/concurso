@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Redes de Proteção" id="redes-protecao">
+
+    <chapter title="Fundamentos das Redes de Proteção" id="fundamentos">
+        <list>
+            <li>
+                <b>Conceitos Básicos</b>
+                <list>
+                    <li>Definição de rede</li>
+                    <li>Princípios norteadores</li>
+                    <li>Objetivos da articulação</li>
+                </list>
+            </li>
+            <li>
+                <b>Marco Legal</b>
+                <list>
+                    <li>Constituição Federal</li>
+                    <li>ECA</li>
+                    <li>SUAS</li>
+                    <li>Legislações específicas</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Composição da Rede" id="composicao">
+        <list>
+            <li>
+                <b>Sistema de Justiça</b>
+                <list>
+                    <li>Poder Judiciário</li>
+                    <li>Ministério Público</li>
+                    <li>Defensoria Pública</li>
+                </list>
+            </li>
+            <li>
+                <b>Sistema de Garantia de Direitos</b>
+                <list>
+                    <li>Conselho Tutelar</li>
+                    <li>CRAS e CREAS</li>
+                    <li>Serviços de acolhimento</li>
+                </list>
+            </li>
+            <li>
+                <b>Políticas Setoriais</b>
+                <list>
+                    <li>Saúde</li>
+                    <li>Educação</li>
+                    <li>Assistência Social</li>
+                    <li>Segurança Pública</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Funcionamento da Rede" id="funcionamento">
+        <list>
+            <li>
+                <b>Fluxos de Atendimento</b>
+                <list>
+                    <li>Porta de entrada</li>
+                    <li>Encaminhamentos</li>
+                    <li>Acompanhamento</li>
+                </list>
+            </li>
+            <li>
+                <b>Articulação Intersetorial</b>
+                <list>
+                    <li>Comunicação entre serviços</li>
+                    <li>Protocolos conjuntos</li>
+                    <li>Reuniões de rede</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Papel do Psicólogo" id="papel-psicologo">
+        <list>
+            <li>
+                <b>Atuação em Rede</b>
+                <list>
+                    <li>Avaliação psicológica</li>
+                    <li>Acompanhamento</li>
+                    <li>Articulação com outros profissionais</li>
+                </list>
+            </li>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Relatórios técnicos</li>
+                    <li>Pareceres</li>
+                    <li>Comunicações intersetoriais</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Desafios e Estratégias" id="desafios">
+        <list>
+            <li>
+                <b>Dificuldades Comuns</b>
+                <list>
+                    <li>Fragmentação dos serviços</li>
+                    <li>Comunicação deficiente</li>
+                    <li>Sobrecarga de demandas</li>
+                </list>
+            </li>
+            <li>
+                <b>Boas Práticas</b>
+                <list>
+                    <li>Protocolos integrados</li>
+                    <li>Capacitação continuada</li>
+                    <li>Monitoramento e avaliação</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Estudos de Caso" id="estudos-caso">
+        <list>
+            <li>
+                <b>Casos Complexos</b>
+                <list>
+                    <li>Violência intrafamiliar</li>
+                    <li>Acolhimento institucional</li>
+                    <li>Medidas socioeducativas</li>
+                </list>
+            </li>
+            <li>
+                <b>Análise de Intervenções</b>
+                <list>
+                    <li>Estratégias bem-sucedidas</li>
+                    <li>Pontos de atenção</li>
+                    <li>Aprendizados</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Exercícios Práticos" id="exercicios">
+        <list>
+            <li>
+                <b>Simulações</b>
+                <list>
+                    <li>Articulação intersetorial</li>
+                    <li>Estudos de caso</li>
+                    <li>Elaboração de fluxos</li>
+                </list>
+            </li>
+            <li>
+                <b>Questões para Reflexão</b>
+                <list>
+                    <li>Análise de redes</li>
+                    <li>Resolução de conflitos</li>
+                    <li>Planejamento de ações</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Desenvolvimento Psicológico: Infância e Adolescência" id="desenvolvimento-psicologico">
+
+    <p>
+        O desenvolvimento psicológico na infância e adolescência é um tema central para a atuação
+        do psicólogo no judiciário, especialmente em casos que envolvem Varas da Infância e Juventude.
+    </p>
+
+    <chapter title="Teoria do Apego (Bowlby)" id="teoria-apego">
+        <p>
+            Baseado na obra "Uma base segura" de John Bowlby (2023), compreendemos os seguintes aspectos:
+        </p>
+
+        <list>
+            <li>
+                <b>Formação do Vínculo</b>
+                <p>O processo de formação do vínculo entre criança e cuidador primário</p>
+            </li>
+            <li>
+                <b>Tipos de Apego</b>
+                <p>Seguro, ansioso-ambivalente, evitativo e desorganizado</p>
+            </li>
+            <li>
+                <b>Consequências do Rompimento</b>
+                <p>Impactos do rompimento dos laços afetivos no desenvolvimento</p>
+            </li>
+        </list>
+
+        <note>
+            <p>
+                Importante: Em casos de separação ou acolhimento institucional, considerar os impactos
+                do rompimento dos vínculos no desenvolvimento da criança.
+            </p>
+        </note>
+    </chapter>
+
+    <chapter title="Adolescência (Calligaris)" id="adolescencia">
+        <p>
+            Conforme Calligaris (2000), a adolescência apresenta características específicas:
+        </p>
+
+        <list>
+            <li>
+                <b>Moratória Social</b>
+                <p>Período de suspensão entre a maturação física e o reconhecimento social</p>
+            </li>
+            <li>
+                <b>Conflitos Típicos</b>
+                <p>Busca de identidade, confronto com autoridade, experimentação</p>
+            </li>
+            <li>
+                <b>Aspectos Sociais</b>
+                <p>Influência do grupo, mídia e cultura na formação da identidade</p>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Aplicação Prática" id="aplicacao">
+        <p>Exemplos de situações comuns no judiciário:</p>
+
+        <list type="decimal">
+            <li>
+                <b>Avaliação em Casos de Guarda</b>
+                <p>
+                    Análise dos vínculos afetivos e impactos da separação,
+                    considerando a teoria do apego e o estágio de desenvolvimento.
+                </p>
+            </li>
+            <li>
+                <b>Adolescente em Conflito com a Lei</b>
+                <p>
+                    Compreensão do ato infracional no contexto do desenvolvimento
+                    adolescente, conforme Bossa e Guerra (2023).
+                </p>
+            </li>
+            <li>
+                <b>Acolhimento Institucional</b>
+                <p>
+                    Avaliação dos impactos do acolhimento no desenvolvimento,
+                    baseado em Libio e Zacharias (2017).
+                </p>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Pontos de Atenção" id="atencao">
+        <p>Aspectos críticos para a avaliação psicológica:</p>
+
+        <list>
+            <li>Considerar o contexto sociofamiliar</li>
+            <li>Avaliar a qualidade dos vínculos afetivos</li>
+            <li>Observar sinais de sofrimento psíquico</li>
+            <li>Identificar recursos de enfrentamento</li>
+            <li>Analisar a rede de apoio disponível</li>
+        </list>
+    </chapter>
+
+    <chapter title="Bibliografia Específica" id="bibliografia">
+        <p>Referências principais para este tema:</p>
+
+        <list>
+            <li>BOWLBY, John. Uma base segura: aplicações clínicas da teoria do apego. Artmed Editora, 2023.</li>
+            <li>CALLIGARIS, C. A adolescência. São Paulo: Publifolha, 2000.</li>
+            <li>BOSSA, D.F.; GUERRA, A.M.C. Adolescência e ato infracional: por que adolescentes se submetem à criminalidade? Psicologia USP, 2023.</li>
+        </list>
+    </chapter>
+</topic> 

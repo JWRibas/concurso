@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Avaliação em Casos de Abuso Sexual Infantil" id="abuso-sexual">
+
+    <p>
+        Baseado em Santos &amp; Dell'Aglio (2018) - "Avaliação psicológica em casos de suspeita de abuso sexual infantil"
+        e no Protocolo NICHD (National Institute of Child Health and Human Development).
+    </p>
+
+    <chapter title="Fundamentação Teórica" id="teoria">
+        <list type="bullet">
+            <li>
+                <b>Conceitos Básicos</b>
+                <list>
+                    <li>Definição de abuso sexual</li>
+                    <li>Dinâmicas do abuso</li>
+                    <li>Síndrome do segredo</li>
+                    <li>Processo de revelação</li>
+                </list>
+            </li>
+            <li>
+                <b>Impactos do Abuso</b>
+                <list>
+                    <li>Consequências psicológicas</li>
+                    <li>Trauma complexo</li>
+                    <li>Desenvolvimento infantil</li>
+                    <li>Aspectos familiares</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Protocolo de Avaliação" id="protocolo">
+        <list type="bullet">
+            <li>
+                <b>1. Preparação</b>
+                <list>
+                    <li>Análise documental prévia</li>
+                    <li>Ambiente adequado</li>
+                    <li>Materiais necessários</li>
+                    <li>Equipe de referência</li>
+                </list>
+            </li>
+            <li>
+                <b>2. Entrevista com Responsáveis</b>
+                <list>
+                    <li>Histórico familiar</li>
+                    <li>Desenvolvimento da criança</li>
+                    <li>Circunstâncias da revelação</li>
+                    <li>Mudanças comportamentais</li>
+                </list>
+            </li>
+            <li>
+                <b>3. Avaliação da Criança</b>
+                <list>
+                    <li>Estabelecimento de rapport</li>
+                    <li>Entrevista forense</li>
+                    <li>Observação lúdica</li>
+                    <li>Instrumentos específicos</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Entrevista Forense" id="entrevista">
+        <list type="bullet">
+            <li>
+                <b>Protocolo NICHD</b>
+                <list>
+                    <li>Fase pré-substantiva</li>
+                    <li>Treino de memória episódica</li>
+                    <li>Fase substantiva</li>
+                    <li>Fase de fechamento</li>
+                </list>
+            </li>
+            <li>
+                <b>Técnicas Específicas</b>
+                <list>
+                    <li>Perguntas abertas</li>
+                    <li>Evitar sugestão</li>
+                    <li>Respeitar silêncios</li>
+                    <li>Validar sentimentos</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Modelo de Relatório" id="modelo">
+        <code-block lang="text">
+            RELATÓRIO PSICOLÓGICO - AVALIAÇÃO DE SUSPEITA DE ABUSO SEXUAL
+            
+            I. IDENTIFICAÇÃO
+            Nome: [iniciais]
+            Idade: [xx anos]
+            Encaminhamento: [origem]
+            
+            II. METODOLOGIA
+            1. Procedimentos Realizados
+            - Análise documental
+            - Entrevistas com responsáveis
+            - Entrevista forense com a criança
+            - Observação lúdica
+            - Instrumentos aplicados
+            
+            III. HISTÓRICO
+            1. Contexto Familiar
+            [Descrever dinâmica familiar...]
+            
+            2. Desenvolvimento
+            [Avaliar marcos desenvolvimentais...]
+            
+            3. Situação de Abuso
+            [Relatar circunstâncias da revelação...]
+            
+            IV. ANÁLISE
+            1. Indicadores Comportamentais
+            [Descrever sinais observados...]
+            
+            2. Conteúdo dos Relatos
+            [Analisar consistência e detalhes...]
+            
+            3. Impactos Psicológicos
+            [Avaliar consequências...]
+            
+            V. CONCLUSÃO E ENCAMINHAMENTOS
+            [Parecer técnico e recomendações]
+        </code-block>
+    </chapter>
+
+    <chapter title="Exercícios Práticos" id="exercicios">
+        <chapter title="Caso 1: Revelação na Escola" id="caso1">
+            <code-block lang="text">
+                Menina (7 anos) revela para professora que padrasto "faz coisas feias"
+                quando mãe sai para trabalhar. Apresenta alterações de comportamento,
+                choro frequente e queda no rendimento escolar. Desenhos com conteúdo
+                sexualizado. Mãe nega possibilidade.
+                
+                Analise:
+                1. Indicadores relevantes
+                2. Protocolo de avaliação
+                3. Medidas de proteção
+                4. Encaminhamentos necessários
+                
+                Sugestão de Resposta:
+                
+                1. Indicadores:
+                - Revelação espontânea
+                - Alterações comportamentais
+                - Conteúdo sexualizado em desenhos
+                - Queda no rendimento escolar
+                - Negação materna
+                
+                2. Protocolo:
+                - Entrevista com professora
+                - Avaliação do material escolar
+                - Entrevista forense com criança
+                - Avaliação da dinâmica familiar
+                - Observação lúdica estruturada
+                
+                3. Medidas de Proteção:
+                - Notificação ao Conselho Tutelar
+                - Afastamento do suposto agressor
+                - Acolhimento institucional (se necessário)
+                - Acompanhamento psicológico
+                
+                4. Encaminhamentos:
+                - Delegacia especializada
+                - Serviço de proteção
+                - Atendimento psicológico
+                - Orientação à escola
+                - Suporte à família protetiva
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 2: Suspeita na Saúde" id="caso2">
+            <code-block lang="text">
+                Menino (5 anos) levado ao pediatra com queixas de dor e sangramento
+                na região anal. Exame físico sugere trauma. Criança muito retraída,
+                não verbaliza sobre o ocorrido. Família extensa suspeita de abuso
+                por parte de primo adolescente.
+                
+                Elabore:
+                1. Plano de avaliação
+                2. Aspectos críticos
+                3. Intervenções prioritárias
+                4. Articulação em rede
+                
+                Sugestão de Resposta:
+                
+                1. Plano de Avaliação:
+                - Análise dos laudos médicos
+                - Entrevista com família extensa
+                - Observação lúdica não-diretiva
+                - Avaliação do desenvolvimento
+                - Protocolo de entrevista forense
+                
+                2. Aspectos Críticos:
+                - Idade da criança
+                - Dificuldade de verbalização
+                - Evidências físicas
+                - Suposto autor adolescente
+                - Dinâmica familiar
+                
+                3. Intervenções:
+                - Proteção imediata
+                - Atendimento médico
+                - Acolhimento psicológico
+                - Orientação familiar
+                - Avaliação do adolescente
+                
+                4. Articulação:
+                - Sistema de saúde
+                - Conselho Tutelar
+                - Vara da Infância
+                - CREAS
+                - Delegacia especializada
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 3: Revelação Tardia" id="caso3">
+            <code-block lang="text">
+                Adolescente (14 anos) revela em terapia abuso sexual por parte do
+                avô entre 6 e 9 anos. Apresenta automutilação, ideação suicida e
+                transtornos alimentares. Teme reação familiar e impacto da revelação.
+                
+                Desenvolva:
+                1. Análise dos impactos
+                2. Manejo da revelação
+                3. Plano terapêutico
+                4. Aspectos legais
+                
+                Sugestão de Resposta:
+                
+                1. Impactos:
+                - Trauma complexo
+                - Comportamentos autolesivos
+                - Risco de suicídio
+                - Transtornos alimentares
+                - Dificuldades relacionais
+                
+                2. Manejo:
+                - Acolhimento do relato
+                - Avaliação de risco
+                - Construção de rede de apoio
+                - Preparação para notificação
+                - Suporte familiar
+                
+                3. Plano Terapêutico:
+                - Psicoterapia individual
+                - Avaliação psiquiátrica
+                - Grupos de apoio
+                - Orientação familiar
+                - Acompanhamento escolar
+                
+                4. Aspectos Legais:
+                - Notificação obrigatória
+                - Prescrição do crime
+                - Produção antecipada de provas
+                - Proteção da vítima
+                - Responsabilização
+            </code-block>
+        </chapter>
+    </chapter>
+
+    <chapter title="Aspectos Críticos" id="aspectos-criticos">
+        <list>
+            <li>
+                <b>Na Avaliação</b>
+                <list>
+                    <li>Evitar revitimização</li>
+                    <li>Respeitar tempo da criança</li>
+                    <li>Documentar adequadamente</li>
+                    <li>Manter postura neutra</li>
+                </list>
+            </li>
+            <li>
+                <b>Na Intervenção</b>
+                <list>
+                    <li>Garantir proteção</li>
+                    <li>Articular rede</li>
+                    <li>Apoiar família protetiva</li>
+                    <li>Monitorar riscos</li>
+                </list>
+            </li>
+        </list>
+
+        <note>
+            <p>
+                Importante: A avaliação em casos de abuso sexual infantil requer
+                capacitação específica e compreensão das dinâmicas de violência
+                intrafamiliar e seus impactos no desenvolvimento.
+            </p>
+        </note>
+    </chapter>
+
+    <chapter title="Recomendações Técnicas" id="recomendacoes">
+        <list>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Registrar literalmente</li>
+                    <li>Descrever comportamentos</li>
+                    <li>Fundamentar conclusões</li>
+                    <li>Preservar material</li>
+                </list>
+            </li>
+            <li>
+                <b>Articulação em Rede</b>
+                <list>
+                    <li>Sistema de garantia de direitos</li>
+                    <li>Serviços de saúde</li>
+                    <li>Rede de proteção</li>
+                    <li>Sistema de justiça</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Checklist de Avaliação" id="checklist">
+        <list>
+            <li>
+                <b>Avaliação Inicial</b>
+                <list>
+                    <li>Risco imediato</li>
+                    <li>Condições de proteção</li>
+                    <li>Suporte familiar</li>
+                    <li>Necessidades urgentes</li>
+                </list>
+            </li>
+            <li>
+                <b>Avaliação Detalhada</b>
+                <list>
+                    <li>História do abuso</li>
+                    <li>Impactos no desenvolvimento</li>
+                    <li>Recursos de enfrentamento</li>
+                    <li>Rede de apoio</li>
+                </list>
+            </li>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Registros dos atendimentos</li>
+                    <li>Material produzido</li>
+                    <li>Encaminhamentos</li>
+                    <li>Notificações realizadas</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

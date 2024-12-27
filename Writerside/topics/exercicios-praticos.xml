@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Exercícios Práticos" id="exercicios-praticos">
+
+    <p>
+        Exercícios e questões práticas para preparação ao concurso TJ-SP.
+    </p>
+
+    <chapter title="Questões de Concursos Anteriores" id="questoes-anteriores">
+        <chapter title="Avaliação Psicológica" id="avaliacao">
+            <p>
+                <b>Questão 1:</b> Em relação à avaliação psicológica no contexto jurídico, assinale a alternativa correta:
+            </p>
+            <list type="a">
+                <li>O psicólogo deve sempre atender à demanda judicial sem questionar</li>
+                <li>A avaliação psicológica deve focar apenas nos aspectos negativos</li>
+                <li>O psicólogo deve considerar o contexto e as limitações da avaliação</li>
+                <li>Os testes psicológicos são dispensáveis neste contexto</li>
+            </list>
+            <p>
+                <b>Resposta:</b> C - O psicólogo deve considerar o contexto e as limitações da avaliação
+            </p>
+            <p>
+                <b>Explicação:</b> A avaliação psicológica no contexto jurídico requer uma compreensão ampla do contexto, 
+                considerando as limitações metodológicas, éticas e técnicas do processo avaliativo.
+            </p>
+        </chapter>
+
+        <chapter title="Documentos Psicológicos" id="documentos">
+            <p>
+                <b>Questão 2:</b> Sobre a elaboração de documentos psicológicos, é correto afirmar:
+            </p>
+            <list type="a">
+                <li>Podem conter informações sobre terceiros não avaliados</li>
+                <li>Devem ser redigidos em linguagem técnica e objetiva</li>
+                <li>Não precisam seguir a estrutura da Resolução CFP</li>
+                <li>Podem incluir juízos de valor pessoal</li>
+            </list>
+            <p>
+                <b>Resposta:</b> B - Devem ser redigidos em linguagem técnica e objetiva
+            </p>
+            <p>
+                <b>Explicação:</b> Os documentos psicológicos devem ser redigidos em linguagem técnica, 
+                mantendo objetividade e clareza, conforme estabelecido na Resolução CFP nº 06/2019.
+            </p>
+        </chapter>
+    </chapter>
+
+    <chapter title="Estudos de Caso" id="estudos-caso">
+        <chapter title="Caso 1: Guarda Compartilhada" id="caso-guarda">
+            <p>
+                Maria e João estão em processo de divórcio e disputam a guarda dos filhos Pedro (8 anos) e Ana (5 anos). 
+                Maria alega que João é ausente e negligente. João afirma que Maria aliena as crianças contra ele.
+            </p>
+            <p>
+                <b>Análise do Caso:</b>
+            </p>
+            <list>
+                <li>Identificar os pontos críticos</li>
+                <li>Planejar a avaliação psicológica</li>
+                <li>Definir instrumentos e técnicas</li>
+                <li>Elaborar relatório técnico</li>
+            </list>
+            <p>
+                <b>Exercício Prático:</b> Elabore um roteiro de avaliação psicológica para este caso, 
+                incluindo metodologia, instrumentos e aspectos a serem observados.
+            </p>
+        </chapter>
+
+        <chapter title="Caso 2: Medida Socioeducativa" id="caso-socioeducativa">
+            <p>
+                Adolescente de 16 anos, primeiro ato infracional, apreendido por tráfico de drogas. 
+                Família monoparental, mãe trabalha em período integral, baixa renda.
+            </p>
+            <p>
+                <b>Análise do Caso:</b>
+            </p>
+            <list>
+                <li>Avaliar contexto sociofamiliar</li>
+                <li>Identificar fatores de risco e proteção</li>
+                <li>Analisar recursos e limitações</li>
+                <li>Propor intervenções</li>
+            </list>
+            <p>
+                <b>Exercício Prático:</b> Desenvolva um parecer técnico com recomendações de medida socioeducativa, 
+                considerando os princípios do ECA e as circunstâncias do caso.
+            </p>
+        </chapter>
+    </chapter>
+
+    <chapter title="Exercícios de Redação Técnica" id="redacao">
+        <chapter title="Exercício 1: Laudo Psicológico" id="exercicio-laudo">
+            <p>
+                <b>Proposta:</b> Elabore um laudo psicológico a partir do seguinte caso:
+            </p>
+            <p>
+                Avaliação psicológica em caso de suspeita de alienação parental. 
+                Pai alega que a mãe dificulta seu contato com a filha de 7 anos após a separação.
+            </p>
+            <p>
+                <b>Estrutura Sugerida:</b>
+            </p>
+            <list>
+                <li>Identificação</li>
+                <li>Demanda</li>
+                <li>Metodologia</li>
+                <li>Análise</li>
+                <li>Conclusão</li>
+            </list>
+        </chapter>
+
+        <chapter title="Exercício 2: Parecer Técnico" id="exercicio-parecer">
+            <p>
+                <b>Proposta:</b> Elabore um parecer técnico sobre o seguinte caso:
+            </p>
+            <p>
+                Avaliação de condições psicológicas de idoso em processo de interdição. 
+                Filhos alegam que o pai de 75 anos apresenta sinais de demência e tem sido vítima de golpes financeiros.
+            </p>
+            <p>
+                <b>Estrutura Sugerida:</b>
+            </p>
+            <list>
+                <li>Contextualização</li>
+                <li>Procedimentos</li>
+                <li>Resultados</li>
+                <li>Discussão</li>
+                <li>Recomendações</li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Simulados" id="simulados">
+        <chapter title="Simulado 1: Conhecimentos Específicos" id="simulado1">
+            <list>
+                <li>30 questões objetivas</li>
+                <li>1 questão discursiva</li>
+                <li>Tempo: 3 horas</li>
+                <li>Conteúdo: todo o programa</li>
+            </list>
+        </chapter>
+
+        <chapter title="Simulado 2: Foco em Legislação" id="simulado2">
+            <list>
+                <li>20 questões objetivas</li>
+                <li>Tempo: 2 horas</li>
+                <li>Conteúdo: legislação específica</li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Dicas para Resolução" id="dicas-resolucao">
+        <list>
+            <li>Ler atentamente o enunciado</li>
+            <li>Identificar palavras-chave</li>
+            <li>Eliminar alternativas improváveis</li>
+            <li>Revisar antes de finalizar</li>
+            <li>Gerenciar bem o tempo</li>
+            <li>Manter calma e concentração</li>
+        </list>
+    </chapter>
+</topic> 

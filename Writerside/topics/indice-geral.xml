@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Índice Geral - TJ SP" id="indice-geral">
+
+    <chapter title="Plano de Estudos" id="plano">
+        <list>
+            <li>
+                <b>Distribuição das Questões</b>
+                <list>
+                    <li>Bloco I - Português (12 questões)</li>
+                    <li>Bloco II - Conhecimentos Específicos (46 questões)</li>
+                    <li>Bloco III - Conhecimentos Gerais (5 questões)</li>
+                </list>
+            </li>
+            <li>
+                <b>Cronograma Sugerido</b>
+                <list>
+                    <li>Fase 1: Legislação Básica</li>
+                    <li>Fase 2: Avaliação Psicológica</li>
+                    <li>Fase 3: Temas Específicos</li>
+                    <li>Fase 4: Revisão</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Bloco I - Português" id="portugues">
+        <list>
+            <li>
+                <b>Temas Principais</b>
+                <list>
+                    <li>Interpretação de Textos</li>
+                    <li>Tipologias Textuais</li>
+                    <li>Norma Culta</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Bloco II - Conhecimentos Específicos" id="especificos">
+        <chapter title="1. Legislação Fundamental" id="legislacao">
+            <list>
+                <li>
+                    <b>Bases Legais</b>
+                    <list>
+                        <li><a href="legislacao-completa.xml">Legislação Completa</a></li>
+                        <li><a href="legislacao-complementar.xml">Legislação Complementar</a></li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="2. Avaliação Psicológica" id="avaliacao">
+            <list>
+                <li>
+                    <b>Fundamentos e Práticas</b>
+                    <list>
+                        <li><a href="instrumentos-avaliacao.xml">Instrumentos de Avaliação</a></li>
+                        <li><a href="documentos-psicologicos.xml">Documentos Psicológicos</a></li>
+                        <li><a href="psicopatologia.xml">Psicopatologia</a></li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="3. Contextos Específicos" id="contextos">
+            <list>
+                <li>
+                    <b>Família e Infância</b>
+                    <list>
+                        <li><a href="alienacao-parental.xml">Alienação Parental</a></li>
+                        <li><a href="guarda-compartilhada.xml">Guarda Compartilhada</a></li>
+                        <li><a href="depoimento-especial.xml">Depoimento Especial</a></li>
+                    </list>
+                </li>
+                <li>
+                    <b>Violência</b>
+                    <list>
+                        <li><a href="violencia-domestica.xml">Violência Doméstica</a></li>
+                        <li><a href="violencia-sexual.xml">Violência Sexual</a></li>
+                        <li><a href="violencia-idosos.xml">Violência contra Idosos</a></li>
+                    </list>
+                </li>
+                <li>
+                    <b>Medidas Protetivas</b>
+                    <list>
+                        <li><a href="medidas-socioeducativas.xml">Medidas Socioeducativas</a></li>
+                        <li><a href="avaliacao-ato-infracional.xml">Avaliação de Ato Infracional</a></li>
+                        <li><a href="interdicao-curatela.xml">Interdição e Curatela</a></li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="4. Redes e Sistemas" id="redes">
+            <list>
+                <li>
+                    <b>Articulação</b>
+                    <list>
+                        <li><a href="redes-protecao.xml">Redes de Proteção</a></li>
+                        <li><a href="justica-restaurativa.xml">Justiça Restaurativa</a></li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Bloco III - Conhecimentos Gerais" id="gerais">
+        <list>
+            <li>
+                <b>Temas Principais</b>
+                <list>
+                    <li>Atualidades</li>
+                    <li>Estatuto dos Funcionários Públicos</li>
+                    <li>Lei de Improbidade Administrativa</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Material Complementar" id="complementar">
+        <list>
+            <li>
+                <b>Recursos de Estudo</b>
+                <list>
+                    <li>Questões Comentadas</li>
+                    <li>Simulados</li>
+                    <li>Modelos de Documentos</li>
+                </list>
+            </li>
+            <li>
+                <b>Links Úteis</b>
+                <list>
+                    <li>Bibliografia Recomendada</li>
+                    <li>Sites Oficiais</li>
+                    <li>Jurisprudência Relevante</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

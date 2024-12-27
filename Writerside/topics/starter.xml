@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Guia de Estudos TJ-SP - Psicólogo Judiciário" id="starter">
+
+    <p>
+        Bem-vindo ao seu guia de estudos para o concurso de Psicólogo Judiciário do TJ-SP. 
+        Este material foi organizado para otimizar sua preparação, seguindo uma sequência lógica 
+        e focada nas exigências do edital.
+    </p>
+
+    <chapter title="Como Usar este Material" id="como-usar">
+        <p>
+            O conteúdo está organizado em módulos sequenciais, permitindo um aprendizado progressivo. 
+            Cada tema inclui teoria, exercícios práticos e links para aprofundamento.
+        </p>
+        
+        <list>
+            <li>
+                <b>Navegação</b>
+                <list>
+                    <li>Use o <a href="indice-geral.xml">Índice Geral</a> para uma visão completa do conteúdo</li>
+                    <li>Siga a sequência sugerida para um aprendizado estruturado</li>
+                    <li>Utilize os links internos para navegar entre temas relacionados</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Roteiro de Estudos" id="roteiro">
+        <chapter title="Fase 1: Fundamentos (4 semanas)" id="fase1">
+            <list>
+                <li>
+                    <b>Semana 1-2: Legislação Básica</b>
+                    <list>
+                        <li><a href="legislacao-completa.xml">Constituição e Códigos</a></li>
+                        <li><a href="legislacao-complementar.xml">Legislações Específicas</a></li>
+                    </list>
+                </li>
+                <li>
+                    <b>Semana 3-4: Avaliação Psicológica</b>
+                    <list>
+                        <li><a href="instrumentos-avaliacao.xml">Instrumentos e Técnicas</a></li>
+                        <li><a href="documentos-psicologicos.xml">Documentação Psicológica</a></li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="Fase 2: Temas Específicos (6 semanas)" id="fase2">
+            <list>
+                <li>
+                    <b>Semana 5-6: Família e Infância</b>
+                    <list>
+                        <li><a href="alienacao-parental.xml">Alienação Parental</a></li>
+                        <li><a href="guarda-compartilhada.xml">Guarda Compartilhada</a></li>
+                        <li><a href="depoimento-especial.xml">Depoimento Especial</a></li>
+                    </list>
+                </li>
+                <li>
+                    <b>Semana 7-8: Violência e Proteção</b>
+                    <list>
+                        <li><a href="violencia-domestica.xml">Violência Doméstica</a></li>
+                        <li><a href="violencia-sexual.xml">Violência Sexual</a></li>
+                        <li><a href="violencia-idosos.xml">Violência contra Idosos</a></li>
+                    </list>
+                </li>
+                <li>
+                    <b>Semana 9-10: Medidas e Avaliações</b>
+                    <list>
+                        <li><a href="medidas-socioeducativas.xml">Medidas Socioeducativas</a></li>
+                        <li><a href="avaliacao-ato-infracional.xml">Ato Infracional</a></li>
+                        <li><a href="interdicao-curatela.xml">Interdição e Curatela</a></li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="Fase 3: Temas Avançados (2 semanas)" id="fase3">
+            <list>
+                <li>
+                    <b>Semana 11: Psicopatologia</b>
+                    <list>
+                        <li><a href="psicopatologia.xml">Transtornos e Avaliações</a></li>
+                    </list>
+                </li>
+                <li>
+                    <b>Semana 12: Redes e Sistemas</b>
+                    <list>
+                        <li><a href="redes-protecao.xml">Redes de Proteção</a></li>
+                        <li><a href="justica-restaurativa.xml">Justiça Restaurativa</a></li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Dicas de Estudo" id="dicas">
+        <list>
+            <li>
+                <b>Metodologia</b>
+                <list>
+                    <li>Leia o conteúdo teórico</li>
+                    <li>Faça os exercícios propostos</li>
+                    <li>Revise os pontos principais</li>
+                    <li>Pratique com questões anteriores</li>
+                </list>
+            </li>
+            <li>
+                <b>Organização</b>
+                <list>
+                    <li>Estabeleça metas diárias</li>
+                    <li>Mantenha um registro de progresso</li>
+                    <li>Faça revisões periódicas</li>
+                    <li>Resolva simulados completos</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Recursos Importantes" id="recursos">
+        <list>
+            <li>
+                <b>Material de Apoio</b>
+                <list>
+                    <li>Questões comentadas de concursos anteriores</li>
+                    <li>Modelos de documentos e laudos</li>
+                    <li>Bibliografia recomendada</li>
+                </list>
+            </li>
+            <li>
+                <b>Links Úteis</b>
+                <list>
+                    <li>Site do TJ-SP</li>
+                    <li>Conselho Federal de Psicologia</li>
+                    <li>Legislação atualizada</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Acompanhamento do Progresso" id="progresso">
+        <list>
+            <li>
+                <b>Checklist de Estudos</b>
+                <list>
+                    <li>Marque os temas já estudados</li>
+                    <li>Registre suas dúvidas</li>
+                    <li>Anote pontos para revisão</li>
+                </list>
+            </li>
+            <li>
+                <b>Avaliação de Desempenho</b>
+                <list>
+                    <li>Faça simulados periódicos</li>
+                    <li>Analise seus erros e acertos</li>
+                    <li>Ajuste seu planejamento conforme necessário</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

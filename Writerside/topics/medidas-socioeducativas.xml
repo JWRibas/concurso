@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Avaliação em Casos de Medidas Socioeducativas" id="medidas-socioeducativas">
+
+    <p>
+        Baseado no SINASE (Sistema Nacional de Atendimento Socioeducativo - Lei 12.594/2012)
+        e em Costa &amp; Santos (2021) - "Avaliação psicológica no contexto socioeducativo".
+    </p>
+
+    <chapter title="Fundamentação Legal" id="legal">
+        <list type="bullet">
+            <li>
+                <b>Marco Legal</b>
+                <list>
+                    <li>ECA (Lei 8.069/90)</li>
+                    <li>SINASE (Lei 12.594/2012)</li>
+                    <li>Resoluções do CONANDA</li>
+                    <li>Normativas técnicas</li>
+                </list>
+            </li>
+            <li>
+                <b>Princípios Norteadores</b>
+                <list>
+                    <li>Proteção integral</li>
+                    <li>Brevidade da medida</li>
+                    <li>Excepcionalidade da internação</li>
+                    <li>Condição peculiar de desenvolvimento</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Protocolo de Avaliação" id="protocolo">
+        <list type="bullet">
+            <li>
+                <b>1. Avaliação Inicial</b>
+                <list>
+                    <li>História de vida</li>
+                    <li>Contexto familiar</li>
+                    <li>Trajetória infracional</li>
+                    <li>Fatores de risco e proteção</li>
+                </list>
+            </li>
+            <li>
+                <b>2. Avaliação do Adolescente</b>
+                <list>
+                    <li>Desenvolvimento psicológico</li>
+                    <li>Aspectos cognitivos</li>
+                    <li>Recursos emocionais</li>
+                    <li>Projeto de vida</li>
+                </list>
+            </li>
+            <li>
+                <b>3. Avaliação Familiar</b>
+                <list>
+                    <li>Dinâmica familiar</li>
+                    <li>Recursos de apoio</li>
+                    <li>Comprometimento com a medida</li>
+                    <li>Necessidades de intervenção</li>
+                </list>
+            </li>
+            <li>
+                <b>4. Avaliação do Contexto</b>
+                <list>
+                    <li>Rede social</li>
+                    <li>Situação escolar</li>
+                    <li>Inserção comunitária</li>
+                    <li>Fatores ambientais</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Instrumentos de Avaliação" id="instrumentos">
+        <list type="bullet">
+            <li>
+                <b>Entrevistas Estruturadas</b>
+                <list>
+                    <li>Anamnese específica</li>
+                    <li>Roteiro de história de vida</li>
+                    <li>Avaliação de risco</li>
+                    <li>Mapeamento de recursos</li>
+                </list>
+            </li>
+            <li>
+                <b>Instrumentos Complementares</b>
+                <list>
+                    <li>Testes projetivos</li>
+                    <li>Escalas de comportamento</li>
+                    <li>Inventários de personalidade</li>
+                    <li>Técnicas expressivas</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Modelo de Relatório" id="modelo">
+        <code-block lang="text">
+            RELATÓRIO PSICOLÓGICO - AVALIAÇÃO SOCIOEDUCATIVA
+            
+            I. IDENTIFICAÇÃO
+            Nome: [iniciais]
+            Idade: [xx anos]
+            Medida: [tipo de medida]
+            
+            II. METODOLOGIA
+            1. Procedimentos Realizados
+            - Entrevistas com adolescente
+            - Entrevistas familiares
+            - Observação comportamental
+            - Instrumentos aplicados
+            
+            III. HISTÓRICO
+            1. Trajetória de Vida
+            [Descrever aspectos relevantes...]
+            
+            2. Contexto Familiar
+            [Avaliar dinâmica e recursos...]
+            
+            3. Ato Infracional
+            [Analisar circunstâncias e motivações...]
+            
+            IV. ANÁLISE
+            1. Aspectos Psicológicos
+            [Avaliar funcionamento...]
+            
+            2. Fatores de Risco/Proteção
+            [Identificar elementos...]
+            
+            3. Potencial de Mudança
+            [Analisar recursos e limitações...]
+            
+            V. CONCLUSÃO E ENCAMINHAMENTOS
+            [Parecer técnico e recomendações]
+        </code-block>
+    </chapter>
+
+    <chapter title="Exercícios Práticos" id="exercicios">
+        <chapter title="Caso 1: Primeira Medida" id="caso1">
+            <code-block lang="text">
+                Adolescente (15 anos), primeira passagem por ato infracional
+                (furto). Frequenta escola regularmente, família presente mas
+                com dificuldades socioeconômicas. Influência de pares negativos
+                no território.
+                
+                Analise:
+                1. Fatores de risco e proteção
+                2. Necessidades de intervenção
+                3. Plano de atendimento
+                4. Encaminhamentos prioritários
+                
+                Sugestão de Resposta:
+                
+                1. Fatores de Risco/Proteção:
+                - Risco: influência de pares, vulnerabilidade social
+                - Proteção: vínculo escolar, suporte familiar
+                - Primeira passagem
+                - Reconhecimento da situação
+                
+                2. Necessidades:
+                - Orientação familiar
+                - Fortalecimento escolar
+                - Atividades estruturadas
+                - Projeto profissional
+                - Círculo social positivo
+                
+                3. Plano:
+                - Acompanhamento sistemático
+                - Inclusão em projetos
+                - Orientação vocacional
+                - Suporte familiar
+                - Articulação com escola
+                
+                4. Encaminhamentos:
+                - Curso profissionalizante
+                - Atividades esportivas/culturais
+                - Acompanhamento familiar
+                - Inclusão em programas sociais
+                - Mentoria educacional
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 2: Reincidência" id="caso2">
+            <code-block lang="text">
+                Adolescente (17 anos), reincidente, com histórico de três
+                passagens (roubo). Evadido da escola, uso de substâncias,
+                família fragilizada. Demonstra resistência ao acompanhamento
+                e vínculo forte com facção local.
+                
+                Elabore:
+                1. Avaliação de risco
+                2. Pontos críticos
+                3. Estratégias de intervenção
+                4. Articulação em rede
+                
+                Sugestão de Resposta:
+                
+                1. Avaliação de Risco:
+                - Reincidência sistemática
+                - Envolvimento com facção
+                - Uso de substâncias
+                - Evasão escolar
+                - Fragilidade familiar
+                
+                2. Pontos Críticos:
+                - Resistência ao acompanhamento
+                - Exposição à violência
+                - Dependência química
+                - Ruptura escolar
+                - Vulnerabilidade familiar
+                
+                3. Estratégias:
+                - Abordagem motivacional
+                - Tratamento de dependência
+                - Mediação escolar
+                - Fortalecimento familiar
+                - Proteção territorial
+                
+                4. Articulação:
+                - CAPS-AD
+                - Conselho Tutelar
+                - Programas de proteção
+                - Rede escolar
+                - Assistência social
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 3: Progressão de Medida" id="caso3">
+            <code-block lang="text">
+                Adolescente (16 anos) em internação há 8 meses por ato grave.
+                Boa evolução no programa, retomou estudos, família participativa.
+                Avaliação para progressão de medida para semiliberdade.
+                
+                Desenvolva:
+                1. Indicadores de evolução
+                2. Fatores de sustentação
+                3. Plano de progressão
+                4. Monitoramento
+                
+                Sugestão de Resposta:
+                
+                1. Indicadores:
+                - Adesão ao programa
+                - Evolução escolar
+                - Participação familiar
+                - Mudança comportamental
+                - Projeto de vida
+                
+                2. Sustentação:
+                - Suporte familiar
+                - Vínculo educacional
+                - Perspectiva profissional
+                - Rede de apoio
+                - Motivação pessoal
+                
+                3. Progressão:
+                - Adaptação gradual
+                - Inserção comunitária
+                - Acompanhamento escolar
+                - Preparação familiar
+                - Suporte profissional
+                
+                4. Monitoramento:
+                - Encontros sistemáticos
+                - Articulação escolar
+                - Visitas domiciliares
+                - Supervisão de atividades
+                - Avaliações periódicas
+            </code-block>
+        </chapter>
+    </chapter>
+
+    <chapter title="Aspectos Críticos" id="aspectos-criticos">
+        <list>
+            <li>
+                <b>Na Avaliação</b>
+                <list>
+                    <li>Contexto sociocultural</li>
+                    <li>Momento desenvolvimental</li>
+                    <li>Dinâmica infracional</li>
+                    <li>Recursos de mudança</li>
+                </list>
+            </li>
+            <li>
+                <b>Na Intervenção</b>
+                <list>
+                    <li>Vínculo terapêutico</li>
+                    <li>Motivação para mudança</li>
+                    <li>Suporte familiar</li>
+                    <li>Articulação em rede</li>
+                </list>
+            </li>
+        </list>
+
+        <note>
+            <p>
+                Importante: A avaliação em contexto socioeducativo deve considerar
+                a complexidade dos fatores envolvidos na prática infracional e
+                o potencial de desenvolvimento do adolescente.
+            </p>
+        </note>
+    </chapter>
+
+    <chapter title="Recomendações Técnicas" id="recomendacoes">
+        <list>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Registro sistemático</li>
+                    <li>Fundamentação técnica</li>
+                    <li>Linguagem adequada</li>
+                    <li>Sigilo necessário</li>
+                </list>
+            </li>
+            <li>
+                <b>Articulação</b>
+                <list>
+                    <li>Equipe multidisciplinar</li>
+                    <li>Sistema de garantia de direitos</li>
+                    <li>Rede socioassistencial</li>
+                    <li>Sistema de justiça</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Checklist de Avaliação" id="checklist">
+        <list>
+            <li>
+                <b>Avaliação Inicial</b>
+                <list>
+                    <li>História infracional</li>
+                    <li>Contexto familiar</li>
+                    <li>Situação escolar</li>
+                    <li>Fatores de risco</li>
+                </list>
+            </li>
+            <li>
+                <b>Avaliação Processual</b>
+                <list>
+                    <li>Evolução comportamental</li>
+                    <li>Adesão à medida</li>
+                    <li>Participação familiar</li>
+                    <li>Projeto de vida</li>
+                </list>
+            </li>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Registros de atendimento</li>
+                    <li>Relatórios evolutivos</li>
+                    <li>Instrumentos aplicados</li>
+                    <li>Encaminhamentos realizados</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

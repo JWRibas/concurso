@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Documentos Escritos em Psicologia" id="documentos-escritos">
+
+    <p>
+        Guia prático baseado na obra "Produção de documentos em psicologia: práticas e reflexões teórico-críticas"
+        (LOURENÇO; SHINE; ORTIZ, 2021) e na Resolução CFP nº 006/2019.
+    </p>
+
+    <chapter title="Tipos de Documentos" id="tipos">
+        <list type="bullet">
+            <li>
+                <b>Declaração</b>
+                <p>Documento objetivo e simples que certifica uma situação ou estado psicológico</p>
+            </li>
+            <li>
+                <b>Atestado Psicológico</b>
+                <p>Documento que certifica uma determinada situação ou estado psicológico</p>
+            </li>
+            <li>
+                <b>Relatório Psicológico</b>
+                <p>Apresentação descritiva de condições psicológicas e suas determinações históricas</p>
+            </li>
+            <li>
+                <b>Laudo Psicológico</b>
+                <p>Documento mais completo que apresenta resultados de avaliação psicológica</p>
+            </li>
+            <li>
+                <b>Parecer Psicológico</b>
+                <p>Pronunciamento técnico focado em questão específica</p>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Estrutura do Laudo Psicológico" id="laudo">
+        <list type="bullet">
+            <li>
+                <b>1. Identificação</b>
+                <list>
+                    <li>Nome do autor</li>
+                    <li>Nome do solicitante</li>
+                    <li>Nome do avaliado</li>
+                    <li>Finalidade do documento</li>
+                </list>
+            </li>
+            <li>
+                <b>2. Descrição da Demanda</b>
+                <list>
+                    <li>Motivo do encaminhamento</li>
+                    <li>Contexto da avaliação</li>
+                    <li>Questões específicas</li>
+                </list>
+            </li>
+            <li>
+                <b>3. Procedimentos</b>
+                <list>
+                    <li>Número de encontros</li>
+                    <li>Técnicas utilizadas</li>
+                    <li>Documentos consultados</li>
+                </list>
+            </li>
+            <li>
+                <b>4. Análise</b>
+                <list>
+                    <li>Dados relevantes</li>
+                    <li>Articulação teórica</li>
+                    <li>Fundamentação técnica</li>
+                </list>
+            </li>
+            <li>
+                <b>5. Conclusão</b>
+                <list>
+                    <li>Resposta à demanda</li>
+                    <li>Encaminhamentos</li>
+                    <li>Sugestões</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Exemplos Práticos" id="exemplos">
+        <chapter title="1. Caso de Guarda" id="exemplo-guarda">
+            <p>Estrutura sugerida para laudo em caso de disputa de guarda:</p>
+
+            <code-block lang="text">
+                LAUDO PSICOLÓGICO
+                
+                I. IDENTIFICAÇÃO
+                Interessado: Vara de Família e Sucessões
+                Processo: XXXXX-XX
+                Natureza: Avaliação psicológica para subsídio à decisão de guarda
+                
+                II. DESCRIÇÃO DA DEMANDA
+                Trata-se de avaliação psicológica solicitada pelo MM. Juiz [...] visando subsidiar
+                decisão quanto à guarda da criança (nome), 6 anos, em processo que tramita [...]
+                
+                III. PROCEDIMENTOS
+                - Entrevistas individuais com os genitores
+                - Observação da interação pais-criança
+                - Visitas domiciliares
+                - Análise de documentos
+                
+                IV. ANÁLISE
+                A partir dos procedimentos realizados, observou-se que [...]
+                A dinâmica familiar apresenta [...]
+                O desenvolvimento da criança indica [...]
+                
+                V. CONCLUSÃO
+                Considerando os elementos observados, conclui-se que [...]
+                Sugere-se [...]
+            </code-block>
+        </chapter>
+
+        <chapter title="2. Caso de Violência" id="exemplo-violencia">
+            <p>Estrutura sugerida para parecer em caso de violência doméstica:</p>
+
+            <code-block lang="text">
+                PARECER PSICOLÓGICO
+                
+                I. IDENTIFICAÇÃO
+                Solicitante: Vara de Violência Doméstica
+                Processo: XXXXX-XX
+                
+                II. OBJETO DA CONSULTA
+                Avaliação de risco psicológico em situação de violência doméstica [...]
+                
+                III. ANÁLISE
+                Com base nos documentos apresentados e na avaliação realizada [...]
+                Os indicadores de risco identificados são [...]
+                
+                IV. PARECER
+                Diante do exposto, manifesto-me [...]
+                Recomenda-se as seguintes medidas protetivas [...]
+            </code-block>
+        </chapter>
+    </chapter>
+
+    <chapter title="Exercícios Práticos" id="exercicios">
+        <list type="decimal">
+            <li>
+                <b>Exercício 1: Redação de Laudo</b>
+                <p>A partir do seguinte caso fictício, elabore um laudo:</p>
+                <list>
+                    <li>Adolescente em conflito com a lei</li>
+                    <li>Histórico de violência familiar</li>
+                    <li>Uso de substâncias psicoativas</li>
+                    <li>Abandono escolar</li>
+                </list>
+            </li>
+            <li>
+                <b>Exercício 2: Parecer Técnico</b>
+                <p>Elabore um parecer sobre:</p>
+                <list>
+                    <li>Capacidade parental</li>
+                    <li>Condições psicológicas para guarda</li>
+                    <li>Vínculos afetivos estabelecidos</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Pontos de Atenção" id="atencao">
+        <list>
+            <li>
+                <b>Linguagem</b>
+                <list>
+                    <li>Clareza e objetividade</li>
+                    <li>Termos técnicos adequados</li>
+                    <li>Evitar julgamentos morais</li>
+                </list>
+            </li>
+            <li>
+                <b>Ética</b>
+                <list>
+                    <li>Sigilo profissional</li>
+                    <li>Informações pertinentes</li>
+                    <li>Fundamentação técnica</li>
+                </list>
+            </li>
+        </list>
+
+        <note>
+            <p>
+                Importante: Sempre revisar o documento considerando seu impacto na vida dos envolvidos
+                e as implicações éticas e legais.
+            </p>
+        </note>
+    </chapter>
+</topic> 

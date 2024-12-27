@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Lei de Improbidade Administrativa" id="lei-improbidade">
+
+    <p>A Lei Federal nº 8.429/92, conhecida como Lei de Improbidade Administrativa, dispõe sobre as sanções aplicáveis a agentes públicos nos casos de enriquecimento ilícito, prejuízo ao erário ou atentado aos princípios da administração pública. Para o concurso do TJ-SP, é importante conhecer especialmente os artigos 1º ao 11º, que tratam dos atos de improbidade e suas penalidades.</p>
+
+    <chapter title="Conceito de Improbidade" id="conceito">
+        <p>Segundo o artigo 1º, a improbidade administrativa consiste na prática de ato que importe enriquecimento ilícito, cause prejuízo ao erário ou atente contra os princípios da administração pública. O artigo 2º define agente público como todo aquele que exerce mandato, cargo, emprego ou função pública, ainda que transitoriamente ou sem remuneração.</p>
+        
+        <p>Exemplo: Um servidor que recebe propina para favorecer uma empresa em licitação pratica ato de improbidade por enriquecimento ilícito.</p>
+    </chapter>
+
+    <chapter title="Atos de Improbidade" id="atos">
+        <p>Os artigos 9º, 10 e 11 elencam os atos de improbidade administrativa, divididos em três categorias:</p>
+        
+        <list>
+            <li>Atos que importam enriquecimento ilícito (art. 9º)
+                <p>Exemplo: adquirir bens incompatíveis com a renda do cargo</p>
+            </li>
+            <li>Atos que causam prejuízo ao erário (art. 10)  
+                <p>Exemplo: permitir o uso de bem público para fim particular</p>
+            </li>
+            <li>Atos que atentam contra os princípios da administração (art. 11)
+                <p>Exemplo: negar publicidade a ato oficial</p>
+            </li>
+        </list>
+
+        <p>Importante ressaltar que a mera ilegalidade do ato não configura improbidade, sendo necessário demonstrar a desonestidade e a má-fé do agente.</p>
+    </chapter>
+
+    <chapter title="Penalidades" id="penalidades">
+        <p>O artigo 12 prevê as seguintes sanções para os atos de improbidade, independentemente das sanções penais, civis e administrativas:</p>
+        
+        <list>
+            <li>Perda dos bens ou valores acrescidos ilicitamente ao patrimônio</li>
+            <li>Ressarcimento integral do dano</li>
+            <li>Perda da função pública</li>
+            <li>Suspensão dos direitos políticos</li>
+            <li>Pagamento de multa civil</li>
+            <li>Proibição de contratar com o Poder Público ou receber benefícios fiscais ou creditícios</li>
+        </list>
+
+        <p>Exemplo: Um servidor condenado por enriquecimento ilícito pode ter seus bens confiscados, ser obrigado a ressarcir o dano, perder o cargo público, ter os direitos políticos suspensos, pagar multa e ficar proibido de contratar com a Administração.</p>
+    </chapter>
+
+    <chapter title="Questões" id="questoes">
+        <p>Veja algumas questões sobre a Lei de Improbidade Administrativa:</p>
+
+        <chapter title="Questão 1" id="q1">
+            <p>Segundo a Lei nº 8.429/92, constitui ato de improbidade administrativa que causa prejuízo ao erário:</p>
+            
+            <list type="a">
+                <li>Negar publicidade aos atos oficiais</li>
+                <li>Frustrar a licitude de concurso público</li>
+                <li>Permitir o enriquecimento ilícito de terceiro</li>
+                <li>Revelar fato sigiloso de que tem ciência em razão do cargo</li>
+            </list>
+
+            <p>Resposta: C</p>
+        </chapter>
+
+        <chapter title="Questão 2" id="q2">
+            <p>De acordo com o artigo 12 da Lei de Improbidade, a pena de perda da função pública:</p>
+            
+            <list type="a">
+                <li>É aplicada em todos os casos de condenação por improbidade</li>
+                <li>Atinge apenas o vínculo com o órgão em que ocorreu a improbidade</li>
+                <li>Depende de trânsito em julgado da sentença condenatória</li>
+                <li>Pode ser aplicada independentemente das demais sanções</li>
+            </list>
+
+            <p>Resposta: D</p>
+        </chapter>
+    </chapter>
+
+    <chapter title="Resumo" id="resumo">
+        <p>A Lei de Improbidade Administrativa define os atos que configuram improbidade e as respectivas sanções aplicáveis aos agentes públicos. Em resumo:</p>
+
+        <list>
+            <li>Improbidade é o ato desonesto e de má-fé que importa enriquecimento ilícito, prejuízo ao erário ou atentado aos princípios administrativos</li>
+            <li>Agente público é todo aquele que exerce função pública, ainda que transitoriamente ou sem remuneração</li>
+            <li>Os atos de improbidade estão previstos nos artigos 9º, 10 e 11 da Lei nº 8.429/92</li>
+            <li>As penalidades incluem perda de bens, ressarcimento do dano, perda do cargo, suspensão de direitos políticos, multa e proibição de contratar com o Poder Público</li>
+        </list>
+
+        <p>É dever de todo agente público zelar pela estrita observância dos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência, abstendo-se de práticas que configurem improbidade administrativa.</p>
+    </chapter>
+
+</topic> 

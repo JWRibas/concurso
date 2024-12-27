@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Avaliação Psicológica para Adoção" id="avaliacao-adocao">
+
+    <p>
+        Baseado em Paiva &amp; Schettini (2020) - "Avaliação psicológica no contexto da adoção"
+        e na Lei 12.010/2009 (Nova Lei da Adoção).
+    </p>
+
+    <chapter title="Fundamentação Legal" id="legal">
+        <list type="bullet">
+            <li>
+                <b>Legislação Pertinente</b>
+                <list>
+                    <li>Nova Lei da Adoção</li>
+                    <li>Estatuto da Criança e Adolescente</li>
+                    <li>Cadastro Nacional de Adoção</li>
+                    <li>Diretrizes técnicas</li>
+                </list>
+            </li>
+            <li>
+                <b>Princípios Norteadores</b>
+                <list>
+                    <li>Melhor interesse da criança</li>
+                    <li>Convivência familiar</li>
+                    <li>Prioridade absoluta</li>
+                    <li>Proteção integral</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Protocolo de Avaliação" id="protocolo">
+        <list type="bullet">
+            <li>
+                <b>1. Avaliação dos Pretendentes</b>
+                <list>
+                    <li>Motivação para adoção</li>
+                    <li>História familiar</li>
+                    <li>Expectativas e fantasias</li>
+                    <li>Recursos emocionais</li>
+                </list>
+            </li>
+            <li>
+                <b>2. Avaliação do Casal</b>
+                <list>
+                    <li>Dinâmica conjugal</li>
+                    <li>Projeto parental</li>
+                    <li>Capacidade de cooperação</li>
+                    <li>Rede de apoio</li>
+                </list>
+            </li>
+            <li>
+                <b>3. Avaliação da Criança/Adolescente</b>
+                <list>
+                    <li>História pregressa</li>
+                    <li>Vínculos afetivos</li>
+                    <li>Expectativas</li>
+                    <li>Preparação para adoção</li>
+                </list>
+            </li>
+            <li>
+                <b>4. Avaliação da Família Extensa</b>
+                <list>
+                    <li>Suporte social</li>
+                    <li>Aceitação da adoção</li>
+                    <li>Recursos disponíveis</li>
+                    <li>Integração familiar</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Instrumentos de Avaliação" id="instrumentos">
+        <list type="bullet">
+            <li>
+                <b>Entrevistas Estruturadas</b>
+                <list>
+                    <li>História de vida</li>
+                    <li>Genograma familiar</li>
+                    <li>Roteiro motivacional</li>
+                    <li>Avaliação de recursos</li>
+                </list>
+            </li>
+            <li>
+                <b>Técnicas Complementares</b>
+                <list>
+                    <li>Observação interacional</li>
+                    <li>Visita domiciliar</li>
+                    <li>Testes psicológicos</li>
+                    <li>Atividades lúdicas</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Modelo de Relatório" id="modelo">
+        <code-block lang="text">
+            RELATÓRIO PSICOLÓGICO - AVALIAÇÃO PARA ADOÇÃO
+            
+            I. IDENTIFICAÇÃO
+            Vara: Infância e Juventude
+            Processo nº: XXX
+            Pretendentes: [identificação]
+            
+            II. OBJETO DA AVALIAÇÃO
+            Avaliação psicológica para habilitação à adoção
+            
+            III. METODOLOGIA
+            1. Procedimentos Realizados
+            - Entrevistas individuais
+            - Entrevistas conjuntas
+            - Visita domiciliar
+            - Instrumentos aplicados
+            
+            IV. HISTÓRICO
+            1. Motivação para Adoção
+            [Descrever processo decisório...]
+            
+            2. Contexto Familiar
+            [Avaliar dinâmica e recursos...]
+            
+            V. ANÁLISE
+            1. Aspectos Psicológicos
+            [Avaliar condições emocionais...]
+            
+            2. Projeto Parental
+            [Analisar expectativas e preparação...]
+            
+            3. Recursos Disponíveis
+            [Identificar suporte e estrutura...]
+            
+            VI. CONCLUSÃO E RECOMENDAÇÕES
+            [Parecer técnico e sugestões]
+        </code-block>
+    </chapter>
+
+    <chapter title="Exercícios Práticos" id="exercicios">
+        <chapter title="Caso 1: Adoção Tardia" id="caso1">
+            <code-block lang="text">
+                Casal (38 e 42 anos) deseja adotar criança entre 8-10 anos.
+                Relatam experiência anterior com apadrinhamento afetivo e
+                participação em grupo de apoio à adoção. Demonstram compreensão
+                dos desafios e disponibilidade para acompanhamento.
+                
+                Analise:
+                1. Aspectos favoráveis
+                2. Pontos de atenção
+                3. Preparação necessária
+                4. Encaminhamentos sugeridos
+                
+                Sugestão de Resposta:
+                
+                1. Aspectos Favoráveis:
+                - Experiência prévia com crianças
+                - Participação em grupos de apoio
+                - Consciência dos desafios
+                - Disponibilidade para acompanhamento
+                - Preparação gradual
+                
+                2. Pontos de Atenção:
+                - Expectativas específicas
+                - História pregressa da criança
+                - Processo de vinculação
+                - Adaptação familiar
+                - Suporte profissional
+                
+                3. Preparação:
+                - Aprofundamento teórico
+                - Contato com outras famílias
+                - Aproximação gradual
+                - Flexibilidade no perfil
+                - Rede de apoio
+                
+                4. Encaminhamentos:
+                - Grupo de preparação
+                - Acompanhamento psicológico
+                - Orientação familiar
+                - Articulação com equipe técnica
+                - Suporte pós-adoção
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 2: Grupo de Irmãos" id="caso2">
+            <code-block lang="text">
+                Pretendentes (45 e 47 anos) desejam adotar grupo de três irmãos
+                (3, 5 e 7 anos). Possuem filho biológico (15 anos) que apoia a
+                decisão. Boa condição socioeconômica, mas preocupados com
+                adaptação e dinâmica familiar.
+                
+                Elabore:
+                1. Avaliação dos recursos
+                2. Desafios específicos
+                3. Preparação familiar
+                4. Plano de acompanhamento
+                
+                Sugestão de Resposta:
+                
+                1. Recursos:
+                - Estabilidade financeira
+                - Apoio do filho
+                - Experiência parental
+                - Disponibilidade afetiva
+                - Estrutura física adequada
+                
+                2. Desafios:
+                - Adaptação múltipla
+                - Atenção individualizada
+                - Reorganização familiar
+                - Histórico dos irmãos
+                - Dinâmica fraterna
+                
+                3. Preparação:
+                - Orientação ao filho
+                - Adaptação do espaço
+                - Rotina familiar
+                - Rede de suporte
+                - Recursos educacionais
+                
+                4. Acompanhamento:
+                - Suporte inicial intensivo
+                - Orientação parental
+                - Apoio escolar
+                - Terapia familiar
+                - Avaliações periódicas
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 3: Adoção Internacional" id="caso3">
+            <code-block lang="text">
+                Casal estrangeiro (40 e 43 anos) busca adoção de criança
+                brasileira até 3 anos. Apresentam relatório social e psicológico
+                do país de origem, certificado de habilitação e preparação
+                específica para adoção internacional.
+                
+                Desenvolva:
+                1. Aspectos específicos
+                2. Documentação necessária
+                3. Preparação adicional
+                4. Acompanhamento pós-adoção
+                
+                Sugestão de Resposta:
+                
+                1. Aspectos Específicos:
+                - Diferenças culturais
+                - Barreira linguística
+                - Adaptação ao novo país
+                - Preservação da identidade
+                - Vínculos com origem
+                
+                2. Documentação:
+                - Relatórios psicossociais
+                - Certificados de habilitação
+                - Estudos de adequação
+                - Compromisso de acompanhamento
+                - Autorizações legais
+                
+                3. Preparação:
+                - Conhecimento cultural
+                - Aprendizado do idioma
+                - Contato com outras famílias
+                - Planejamento da transição
+                - Recursos no país destino
+                
+                4. Acompanhamento:
+                - Relatórios periódicos
+                - Suporte profissional
+                - Manutenção da cultura
+                - Integração social
+                - Avaliação do desenvolvimento
+            </code-block>
+        </chapter>
+    </chapter>
+
+    <chapter title="Aspectos Críticos" id="aspectos-criticos">
+        <list>
+            <li>
+                <b>Na Avaliação</b>
+                <list>
+                    <li>Motivações conscientes e inconscientes</li>
+                    <li>Capacidade de vinculação</li>
+                    <li>Flexibilidade e adaptação</li>
+                    <li>Recursos emocionais</li>
+                </list>
+            </li>
+            <li>
+                <b>Na Preparação</b>
+                <list>
+                    <li>Desconstrução de mitos</li>
+                    <li>Elaboração de expectativas</li>
+                    <li>Construção de vínculos</li>
+                    <li>Suporte continuado</li>
+                </list>
+            </li>
+        </list>
+
+        <note>
+            <p>
+                Importante: A avaliação para adoção deve considerar tanto
+                aspectos objetivos quanto subjetivos, focando na capacidade
+                de construção de vínculos e na disponibilidade para os
+                desafios específicos da parentalidade adotiva.
+            </p>
+        </note>
+    </chapter>
+
+    <chapter title="Recomendações Técnicas" id="recomendacoes">
+        <list>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Registro detalhado</li>
+                    <li>Fundamentação técnica</li>
+                    <li>Clareza nas conclusões</li>
+                    <li>Sigilo apropriado</li>
+                </list>
+            </li>
+            <li>
+                <b>Articulação</b>
+                <list>
+                    <li>Equipe interdisciplinar</li>
+                    <li>Rede de serviços</li>
+                    <li>Grupos de apoio</li>
+                    <li>Sistema de justiça</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Checklist de Avaliação" id="checklist">
+        <list>
+            <li>
+                <b>Avaliação Inicial</b>
+                <list>
+                    <li>Motivação para adoção</li>
+                    <li>Perfil pretendido</li>
+                    <li>Recursos disponíveis</li>
+                    <li>Preparação realizada</li>
+                </list>
+            </li>
+            <li>
+                <b>Avaliação Detalhada</b>
+                <list>
+                    <li>Aspectos psicológicos</li>
+                    <li>Dinâmica familiar</li>
+                    <li>Projeto parental</li>
+                    <li>Rede de apoio</li>
+                </list>
+            </li>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Registros de atendimento</li>
+                    <li>Instrumentos aplicados</li>
+                    <li>Pareceres emitidos</li>
+                    <li>Encaminhamentos realizados</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="bibliografia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd">
+  <title>Bibliografia</title>
+  <introduction>
+    <p>Esta seção apresenta um resumo da bibliografia indicada no edital do concurso para psicólogo do TJ-SP. O conhecimento aprofundado dessas referências é fundamental para a atuação profissional no Tribunal de Justiça, abrangendo temas como violência sexual, adoção, adolescentes em conflito com a lei, violência intrafamiliar, disputa de guarda, violência contra idosos, trabalho em rede e avaliação psicológica.</p>
+    <p>O conteúdo está organizado por áreas temáticas, com uma síntese dos principais pontos abordados pelos autores. Ao final de cada seção, são propostas questões para testar o aprendizado. Recomenda-se a leitura dos textos originais para um estudo completo.</p>
+  </introduction>
+
+  <chapter id="violencia-sexual">
+    <title>Violência sexual contra crianças e adolescentes</title>
+    <p>Arantes (2011) discute o depoimento sem dano, uma técnica desenvolvida para minimizar o sofrimento da criança durante o processo judicial. <q>O depoimento sem dano visa reduzir a revitimização da criança no processo judicial, através de uma escuta especializada e acolhedora</q></p>
+    <p>Ferreira e Azambuja (2011) abordam os aspectos jurídicos e psíquicos da inquirição da criança vítima, destacando a importância da capacitação profissional. <q>A escuta da criança requer uma postura acolhedora e empática do profissional, além de conhecimento técnico específico sobre desenvolvimento infantil e trauma</q></p>
+    <p>Já Soares e Grassi-Oliveira (2011) apresentam instrumentos para avaliação do abuso sexual na infância, enfatizando a necessidade de uma abordagem multidisciplinar e o uso de técnicas apropriadas para cada faixa etária.</p>
+    
+    <question>
+      <p>Segundo Arantes (2011), o depoimento sem dano tem como objetivo:</p>
+      <choice>a) Punir o agressor</choice>
+      <choice correct="true">b) Reduzir a revitimização da criança</choice>
+      <choice>c) Acelerar o processo judicial</choice>
+      <choice>d) Substituir a avaliação psicológica</choice>
+    </question>
+  </chapter>
+
+  <chapter id="adocao-acolhimento">
+    <title>Adoção e acolhimento institucional</title>
+    <p>Referências fundamentais sobre avaliação psicológica em processos de adoção e acolhimento institucional:</p>
+    <list>
+      <li>SHINE, S. A espada de Salomão: a psicologia e a disputa de guarda de filhos. São Paulo: Casa do Psicólogo, 2003.</li>
+      <li>SILVA, M. Guarda compartilhada: aspectos psicológicos e jurídicos. Porto Alegre: Equilíbrio, 2005.</li>
+      <li>DOLTO, F. Quando os pais se separam. Rio de Janeiro: Jorge Zahar, 1989.</li>
+    </list>
+
+    <question>
+      <p>De acordo com Shine (2003), na avaliação psicológica para adoção, é fundamental:</p>
+      <choice>a) Focar apenas nos aspectos financeiros dos pretendentes</choice>
+      <choice>b) Ignorar a história pregressa da criança</choice>
+      <choice correct="true">c) Avaliar a capacidade de vinculação afetiva dos pretendentes</choice>
+      <choice>d) Priorizar casais sem filhos biológicos</choice>
+    </question>
+  </chapter>
+
+  <chapter id="adolescentes-ato-infracional">  
+    <title>Adolescentes em conflito com a lei</title>
+    <p>Bibliografia essencial sobre avaliação e intervenção com adolescentes em conflito com a lei:</p>
+    <list>
+      <li>BRITO, L. M. T. Avaliação psicológica no contexto das instituições de justiça. In: CFP. Ano da avaliação psicológica: textos geradores. Brasília: CFP, 2011.</li>
+      <li>COSTA, L. F.; PENSO, M. A.; SUDBRACK, M. F. O. A avaliação psicossocial no contexto forense. In: COSTA, L. F.; PENSO, M. A. (Orgs.). A perícia social na justiça. Brasília: Liber Livros, 2009.</li>
+    </list>
+
+    <question>
+      <p>Segundo Costa, Penso e Sudbrack (2009), na avaliação de adolescentes em conflito com a lei, é importante:</p>
+      <choice>a) Focar exclusivamente no ato infracional</choice>
+      <choice correct="true">b) Considerar o contexto sociofamiliar do adolescente</choice>
+      <choice>c) Ignorar os fatores de proteção</choice>
+      <choice>d) Priorizar medidas punitivas</choice>
+    </question>
+  </chapter>
+
+  <chapter id="violencia-intrafamiliar">
+    <title>Violência intrafamiliar e conjugal</title>  
+    <p>Principais referências sobre avaliação e intervenção em casos de violência intrafamiliar:</p>
+    <list>
+      <li>ROVINSKI, S. L. R. Fundamentos da perícia psicológica forense. São Paulo: Vetor, 2004.</li>
+      <li>SHINE, S. Avaliação psicológica e lei: adoção, vitimização, separação conjugal, dano psíquico e outros temas. São Paulo: Casa do Psicólogo, 2005.</li>
+    </list>
+
+    <question>
+      <p>De acordo com Rovinski (2004), na avaliação de casos de violência intrafamiliar:</p>
+      <choice>a) Deve-se ignorar o ciclo da violência</choice>
+      <choice>b) A reconciliação deve ser sempre o objetivo</choice>
+      <choice correct="true">c) É importante avaliar os fatores de risco e proteção</choice>
+      <choice>d) O agressor deve ser o único foco da avaliação</choice>
+    </question>
+  </chapter>
+
+  <chapter id="disputa-guarda">
+    <title>Disputa de guarda e alienação parental</title>
+    <p>Bibliografia fundamental sobre avaliação psicológica em disputas de guarda:</p>
+    <list>
+      <li>SHINE, S. A espada de Salomão: a psicologia e a disputa de guarda de filhos. São Paulo: Casa do Psicólogo, 2003.</li>
+      <li>SILVA, D. M. P. Psicologia jurídica no processo civil brasileiro. São Paulo: Casa do Psicólogo, 2003.</li>
+    </list>
+
+    <question>
+      <p>Segundo Silva (2003), na avaliação psicológica em disputas de guarda:</p>
+      <choice>a) Deve-se sempre favorecer a guarda materna</choice>
+      <choice correct="true">b) O melhor interesse da criança deve ser o foco principal</choice>
+      <choice>c) A condição financeira é o fator mais importante</choice>
+      <choice>d) As preferências dos pais devem ser priorizadas</choice>
+    </question>
+  </chapter>
+   
+  <chapter id="violencia-idosos">
+    <title>Violência contra idosos</title>
+    <p>Referências sobre avaliação e intervenção em casos de violência contra idosos:</p>
+    <list>
+      <li>FALEIROS, V. P. Violência contra a pessoa idosa: ocorrências, vítimas e agressores. Brasília: Universa, 2007.</li>
+      <li>MINAYO, M. C. S. Violência contra idosos: o avesso do respeito à experiência e à sabedoria. Brasília: Secretaria Especial dos Direitos Humanos, 2005.</li>
+    </list>
+
+    <question>
+      <p>De acordo com Minayo (2005), na avaliação de casos de violência contra idosos:</p>
+      <choice>a) Apenas a violência física deve ser considerada</choice>
+      <choice>b) A institucionalização é sempre a melhor solução</choice>
+      <choice correct="true">c) É necessário avaliar múltiplas formas de violência</choice>
+      <choice>d) O relato do cuidador é suficiente</choice>
+    </question>
+  </chapter>
+   
+  <chapter id="atuacao-rede">
+    <title>Atuação em rede e políticas públicas</title>
+    <p>Bibliografia sobre trabalho em rede e políticas públicas:</p>
+    <list>
+      <li>GONÇALVES, H. S.; BRANDÃO, E. P. Psicologia jurídica no Brasil. Rio de Janeiro: NAU Ed., 2004.</li>
+      <li>COSTA, L. F.; PENSO, M. A. A dimensão clínica do psicólogo jurídico. In: GONÇALVES, H. S.; BRANDÃO, E. P. (Orgs.). Psicologia jurídica no Brasil. Rio de Janeiro: NAU Ed., 2004.</li>
+    </list>
+
+    <question>
+      <p>Segundo Gonçalves e Brandão (2004), o trabalho em rede:</p>
+      <choice>a) Deve ser evitado no contexto jurídico</choice>
+      <choice>b) É responsabilidade exclusiva do psicólogo</choice>
+      <choice correct="true">c) Requer articulação entre diferentes serviços e profissionais</choice>
+      <choice>d) Só é necessário em casos graves</choice>
+    </question>
+  </chapter>
+
+  <chapter id="avaliacao-documentos">
+    <title>Avaliação psicológica e elaboração de documentos</title>
+    <p>Referências essenciais sobre avaliação psicológica e documentação no contexto forense:</p>
+    <list>
+      <li>CUNHA, J. A. Psicodiagnóstico-V. Porto Alegre: Artmed, 2000.</li>
+      <li>ROVINSKI, S. L. R. Fundamentos da perícia psicológica forense. São Paulo: Vetor, 2004.</li>
+      <li>SHINE, S. Avaliação psicológica e lei: adoção, vitimização, separação conjugal, dano psíquico e outros temas. São Paulo: Casa do Psicólogo, 2005.</li>
+    </list>
+
+    <question>
+      <p>De acordo com Rovinski (2004), na elaboração de documentos psicológicos forenses:</p>
+      <choice>a) A linguagem técnica deve ser evitada</choice>
+      <choice>b) As conclusões não precisam de fundamentação</choice>
+      <choice correct="true">c) É necessário clareza e fundamentação técnico-científica</choice>
+      <choice>d) Opiniões pessoais devem ser priorizadas</choice>
+    </question>
+  </chapter>
+
+  <summary>
+    <p>Esta bibliografia representa o conjunto essencial de conhecimentos necessários para a atuação do psicólogo no contexto judiciário. O domínio destes conteúdos é fundamental para uma prática profissional competente e eticamente orientada.</p>
+  </summary>
+</topic> 

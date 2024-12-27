@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Perfil de Questões VUNESP" id="perfil-questoes">
+
+    <chapter title="Análise do Último Concurso" id="analise-anterior">
+        <list>
+            <li>
+                <b>Distribuição por Blocos</b>
+                <list>
+                    <li>Bloco I - Português: 12 questões (17%)</li>
+                    <li>Bloco II - Conhecimentos Específicos: 46 questões (66%)</li>
+                    <li>Bloco III - Conhecimentos Gerais: 5 questões (7%)</li>
+                    <li>Discursiva: 1 questão (10%)</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Perfil das Questões por Área" id="perfil-areas">
+        <chapter title="1. Legislação (12 questões)" id="legislacao">
+            <list>
+                <li>
+                    <b>Características</b>
+                    <list>
+                        <li>Interpretação direta de artigos</li>
+                        <li>Aplicação prática da legislação</li>
+                        <li>Correlação entre diferentes leis</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Distribuição Típica</b>
+                    <list>
+                        <li>Constituição e Códigos: 4 questões</li>
+                        <li>ECA e legislação da infância: 4 questões</li>
+                        <li>Legislações específicas: 4 questões</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="2. Avaliação Psicológica (10 questões)" id="avaliacao">
+            <list>
+                <li>
+                    <b>Características</b>
+                    <list>
+                        <li>Instrumentos e técnicas</li>
+                        <li>Elaboração de documentos</li>
+                        <li>Aspectos éticos</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Distribuição Típica</b>
+                    <list>
+                        <li>Instrumentos e técnicas: 4 questões</li>
+                        <li>Documentação: 3 questões</li>
+                        <li>Ética profissional: 3 questões</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="3. Contextos Específicos (14 questões)" id="contextos">
+            <list>
+                <li>
+                    <b>Características</b>
+                    <list>
+                        <li>Casos práticos</li>
+                        <li>Intervenções específicas</li>
+                        <li>Protocolos de atendimento</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Distribuição Típica</b>
+                    <list>
+                        <li>Família e infância: 5 questões</li>
+                        <li>Violência: 5 questões</li>
+                        <li>Medidas protetivas: 4 questões</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="4. Psicopatologia (6 questões)" id="psicopatologia">
+            <list>
+                <li>
+                    <b>Características</b>
+                    <list>
+                        <li>Diagnóstico diferencial</li>
+                        <li>Avaliação forense</li>
+                        <li>Implicações legais</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Distribuição Típica</b>
+                    <list>
+                        <li>Transtornos mentais: 3 questões</li>
+                        <li>Avaliação e laudos: 3 questões</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="5. Redes e Sistemas (4 questões)" id="redes">
+            <list>
+                <li>
+                    <b>Características</b>
+                    <list>
+                        <li>Articulação intersetorial</li>
+                        <li>Fluxos de atendimento</li>
+                        <li>Práticas restaurativas</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Distribuição Típica</b>
+                    <list>
+                        <li>Redes de proteção: 2 questões</li>
+                        <li>Justiça restaurativa: 2 questões</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Características das Questões" id="caracteristicas">
+        <list>
+            <li>
+                <b>Estilo VUNESP</b>
+                <list>
+                    <li>Enunciados claros e objetivos</li>
+                    <li>Alternativas bem estruturadas</li>
+                    <li>Foco em aplicação prática</li>
+                    <li>Interpretação de casos</li>
+                </list>
+            </li>
+            <li>
+                <b>Níveis de Complexidade</b>
+                <list>
+                    <li>Fácil: 30% (memorização e conceitos básicos)</li>
+                    <li>Médio: 50% (aplicação e análise)</li>
+                    <li>Difícil: 20% (correlação e casos complexos)</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Recomendações de Estudo" id="recomendacoes">
+        <list>
+            <li>
+                <b>Preparação Específica</b>
+                <list>
+                    <li>Foco em questões anteriores da VUNESP</li>
+                    <li>Prática com casos similares</li>
+                    <li>Revisão da legislação atualizada</li>
+                </list>
+            </li>
+            <li>
+                <b>Distribuição do Tempo</b>
+                <list>
+                    <li>Legislação: 25% do tempo</li>
+                    <li>Avaliação Psicológica: 20% do tempo</li>
+                    <li>Contextos Específicos: 30% do tempo</li>
+                    <li>Psicopatologia: 15% do tempo</li>
+                    <li>Redes e Sistemas: 10% do tempo</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Questões por Tema" id="questoes-tema">
+        <p>
+            Cada tema em nosso material de estudo inclui questões que seguem o padrão VUNESP:
+        </p>
+        <list>
+            <li>
+                <b>Questões Comentadas</b>
+                <list>
+                    <li>Questões anteriores da VUNESP</li>
+                    <li>Questões similares de outros concursos</li>
+                    <li>Questões elaboradas seguindo o padrão</li>
+                </list>
+            </li>
+            <li>
+                <b>Simulados Temáticos</b>
+                <list>
+                    <li>Simulados por área específica</li>
+                    <li>Simulados integrados</li>
+                    <li>Simulados com tempo controlado</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

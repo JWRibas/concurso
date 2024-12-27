@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Legislação Complementar" id="legislacao-complementar">
+
+    <chapter title="Código de Processo Civil" id="cpc">
+        <chapter title="Do Juiz e dos Auxiliares da Justiça" id="auxiliares">
+            <list>
+                <li>
+                    <b>Art. 149, 156 a 158</b>
+                    <list>
+                        <li>Papel do perito</li>
+                        <li>Nomeação do perito</li>
+                        <li>Deveres do perito</li>
+                        <li>Responsabilidades</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="Da Prova Pericial" id="prova-pericial">
+            <list>
+                <li>
+                    <b>Art. 464 a 480</b>
+                    <list>
+                        <li>Admissibilidade</li>
+                        <li>Procedimentos</li>
+                        <li>Quesitos</li>
+                        <li>Laudo pericial</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="Das Ações de Família" id="acoes-familia">
+            <list>
+                <li>
+                    <b>Art. 694, 698, 699, 699-A</b>
+                    <list>
+                        <li>Mediação</li>
+                        <li>Participação do MP</li>
+                        <li>Equipe multidisciplinar</li>
+                        <li>Procedimentos específicos</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Legislações Específicas Complementares" id="legislacoes-complementares">
+        <chapter title="Lei Bernardo Boldrini (Lei 13.010/2014)" id="lei-bernardo">
+            <list>
+                <li>
+                    <b>Aspectos Principais</b>
+                    <list>
+                        <li>Direito à educação sem castigos físicos</li>
+                        <li>Medidas preventivas</li>
+                        <li>Políticas públicas</li>
+                        <li>Sanções</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="SUAS (Lei 12.435/2011)" id="suas">
+            <list>
+                <li>
+                    <b>Sistema Único de Assistência Social</b>
+                    <list>
+                        <li>Objetivos</li>
+                        <li>Organização</li>
+                        <li>Serviços</li>
+                        <li>Gestão</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Programas e Benefícios</b>
+                    <list>
+                        <li>Proteção social básica</li>
+                        <li>Proteção social especial</li>
+                        <li>CRAS e CREAS</li>
+                        <li>Articulação com o sistema de justiça</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="SINASE (Lei 12.594/2012)" id="sinase">
+            <list>
+                <li>
+                    <b>Sistema Nacional de Atendimento Socioeducativo</b>
+                    <list>
+                        <li>Objetivos</li>
+                        <li>Princípios</li>
+                        <li>Medidas socioeducativas</li>
+                        <li>Atendimento</li>
+                    </list>
+                </li>
+                <li>
+                    <b>Execução das Medidas</b>
+                    <list>
+                        <li>Plano individual</li>
+                        <li>Avaliação</li>
+                        <li>Relatórios técnicos</li>
+                        <li>Acompanhamento</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Resoluções CFP Complementares" id="resolucoes-complementares">
+        <list>
+            <li>
+                <b>Resolução CFP nº 001/1999</b>
+                <list>
+                    <li>Orientação sexual</li>
+                    <li>Práticas não patologizantes</li>
+                    <li>Diretrizes de atuação</li>
+                </list>
+            </li>
+            <li>
+                <b>Resolução CFP nº 018/2002</b>
+                <list>
+                    <li>Preconceito e discriminação racial</li>
+                    <li>Práticas antirracistas</li>
+                    <li>Atuação profissional</li>
+                </list>
+            </li>
+            <li>
+                <b>Resolução CFP nº 001/2018</b>
+                <list>
+                    <li>Pessoas transexuais e travestis</li>
+                    <li>Despatologização</li>
+                    <li>Diretrizes de atendimento</li>
+                </list>
+            </li>
+            <li>
+                <b>Resolução CFP nº 008/2020</b>
+                <list>
+                    <li>Violências de gênero</li>
+                    <li>Protocolos de atendimento</li>
+                    <li>Medidas de proteção</li>
+                </list>
+            </li>
+            <li>
+                <b>Resolução CFP nº 008/2022</b>
+                <list>
+                    <li>Bissexualidades</li>
+                    <li>Orientações não monossexuais</li>
+                    <li>Práticas inclusivas</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Conhecimentos Gerais" id="conhecimentos-gerais">
+        <chapter title="Estatuto dos Funcionários Públicos" id="estatuto">
+            <list>
+                <li>
+                    <b>Lei nº 10.261/68 (Art. 239 a 307)</b>
+                    <list>
+                        <li>Deveres</li>
+                        <li>Proibições</li>
+                        <li>Responsabilidades</li>
+                        <li>Penalidades</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="Lei de Improbidade Administrativa" id="improbidade">
+            <list>
+                <li>
+                    <b>Lei 8.429/92 (Art. 1º ao 11º)</b>
+                    <list>
+                        <li>Atos de improbidade</li>
+                        <li>Sanções</li>
+                        <li>Procedimentos</li>
+                        <li>Prescrição</li>
+                    </list>
+                </li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Exercícios Práticos" id="exercicios">
+        <list>
+            <li>
+                <b>Análise de Casos</b>
+                <list>
+                    <li>Aplicação das legislações</li>
+                    <li>Interpretação normativa</li>
+                    <li>Resolução de conflitos</li>
+                </list>
+            </li>
+            <li>
+                <b>Questões Comentadas</b>
+                <list>
+                    <li>Questões de concursos anteriores</li>
+                    <li>Fundamentação legal</li>
+                    <li>Jurisprudência relevante</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

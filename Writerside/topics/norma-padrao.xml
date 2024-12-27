@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Norma-Padrão" id="norma-padrao">
+
+    <p>A norma-padrão é a variedade linguística de prestígio, estabelecida como modelo de correção gramatical e utilizada em situações formais de comunicação.</p>
+
+    <chapter title="Ortografia" id="ortografia">
+        <p>A ortografia é o conjunto de regras que determinam a grafia correta das palavras.</p>
+        
+        <list>
+            <li>Emprego de Letras
+                <list>
+                    <li>S, Z, X: ânsia, beleza, trouxe</li>
+                    <li>G, J: gente, jiló</li>
+                    <li>E, I: cear, chateia</li>
+                    <li>O, U: molho, cenoura</li>
+                </list>
+            </li>
+            <li>Acentuação Gráfica
+                <list>
+                    <li>Oxítonas: café, jiló</li>
+                    <li>Paroxítonas: lápis, bônus</li>
+                    <li>Proparoxítonas: lâmpada, ônibus</li>
+                    <li>Hiatos: saída, faísca</li>
+                </list>
+            </li>
+            <li>Emprego do Hífen
+                <list>
+                    <li>Compostos: guarda-chuva, segunda-feira</li>
+                    <li>Prefixos: anti-inflamatório, semi-aberto</li>
+                    <li>Sufixos: pós-graduação, bem-humorado</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Morfossintaxe" id="morfossintaxe">
+        <p>A morfossintaxe estuda a estrutura interna das palavras e a relação entre elas na frase.</p>
+        
+        <list>
+            <li>Classes de Palavras
+                <list>
+                    <li>Substantivo: nomes de seres, objetos, sentimentos</li>
+                    <li>Adjetivo: caracterizam os substantivos</li>
+                    <li>Verbo: indicam ações, estados ou fenômenos</li>
+                    <li>Advérbio: modificam verbos, adjetivos ou outros advérbios</li>
+                    <li>Pronome: substituem ou acompanham substantivos</li>
+                    <li>Artigo: antecedem substantivos</li>
+                    <li>Numeral: indicam quantidade ou ordem</li>
+                    <li>Preposição: estabelecem relação entre palavras</li>
+                    <li>Conjunção: conectam palavras ou orações</li>
+                    <li>Interjeição: expressam emoções ou sentimentos</li>
+                </list>
+            </li>
+            <li>Estrutura da Oração
+                <list>
+                    <li>Sujeito: ser sobre o qual se declara algo</li>
+                    <li>Predicado: o que se declara do sujeito</li>
+                    <li>Objeto direto: complemento verbal sem preposição</li>
+                    <li>Objeto indireto: complemento verbal com preposição</li>
+                    <li>Adjunto adnominal: termo que caracteriza um substantivo</li>
+                    <li>Adjunto adverbial: termo que exprime circunstância</li>
+                    <li>Complemento nominal: termo que completa o sentido de um nome</li>
+                    <li>Agente da passiva: termo que pratica a ação verbal na voz passiva</li>
+                    <li>Vocativo: termo usado para invocar ou chamar alguém</li>
+                    <li>Aposto: termo que explica ou especifica outro</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Sintaxe" id="sintaxe">
+        <p>A sintaxe estuda a disposição das palavras na frase e a relação lógica das frases no período.</p>
+        
+        <list>
+            <li>Concordância
+                <list>
+                    <li>Verbal: adequação do verbo ao sujeito</li>
+                    <li>Nominal: adequação dos nomes em gênero e número</li>
+                </list>
+            </li>
+            <li>Regência
+                <list>
+                    <li>Verbal: relação de dependência entre verbos e complementos</li>
+                    <li>Nominal: relação de dependência entre nomes e complementos</li>
+                </list>
+            </li>
+            <li>Colocação Pronominal
+                <list>
+                    <li>Próclise: pronome antes do verbo</li>
+                    <li>Mesóclise: pronome no meio do verbo</li>
+                    <li>Ênclise: pronome depois do verbo</li>
+                </list>
+            </li>
+            <li>Pontuação
+                <list>
+                    <li>Ponto final: indica término de frase declarativa</li>
+                    <li>Ponto de interrogação: indica término de frase interrogativa</li>
+                    <li>Ponto de exclamação: indica término de frase exclamativa</li>
+                    <li>Vírgula: indica pausa, deslocamento ou intercalação</li>
+                    <li>Ponto e vírgula: separa orações coordenadas extensas</li>
+                    <li>Dois-pontos: indica citação, enumeração ou explicação</li>
+                    <li>Travessão: indica diálogo ou destaque</li>
+                    <li>Parênteses: intercala explicações ou comentários</li>
+                    <li>Aspas: destaca termos ou indica citações</li>
+                    <li>Reticências: indica interrupção ou continuidade de ação ou pensamento</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Semântica" id="semantica">
+        <p>A semântica estuda o significado das palavras e das sentenças.</p>
+        
+        <list>
+            <li>Relações de Sentido
+                <list>
+                    <li>Sinonímia: palavras de sentido equivalente</li>
+                    <li>Antonímia: palavras de sentido oposto</li>
+                    <li>Homonímia: palavras de grafia ou som iguais, mas sentidos diferentes</li>
+                    <li>Paronímia: palavras de grafia ou som semelhantes, mas sentidos diferentes</li>
+                    <li>Polissemia: palavras com mais de um significado</li>
+                    <li>Conotação: sentido figurado das palavras</li>
+                    <li>Denotação: sentido literal das palavras</li>
+                </list>
+            </li>
+            <li>Figuras de Linguagem
+                <list>
+                    <li>Metáfora: comparação implícita</li>
+                    <li>Metonímia: substituição de um termo por outro</li>
+                    <li>Catacrese: metáfora de uso popular</li>
+                    <li>Comparação: aproximação de dois termos</li>
+                    <li>Antítese: aproximação de termos opostos</li>
+                    <li>Paradoxo: união de ideias contraditórias</li>
+                    <li>Hipérbole: exagero intencional</li>
+                    <li>Eufemismo: suavização de termos</li>
+                    <li>Ironia: uso de palavras em sentido oposto</li>
+                    <li>Personificação: atribuição de características humanas a seres inanimados</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Exercícios" id="exercicios">
+        <p>Pratique os conhecimentos sobre a norma-padrão:</p>
+
+        <chapter title="Exercício 1" id="ex1">
+            <p>Assinale a alternativa em que todas as palavras estão grafadas corretamente:</p>
+            
+            <list type="a">
+                <li>previlégio, feminino, extensão</li>
+                <li>previlégio, feminino, extenção</li>
+                <li>privilégio, femenino, extensão</li>
+                <li>privilégio, feminino, extensão</li>
+            </list>
+
+            <p>Resposta: D</p>
+            
+            <p>Explicação: Em "privilégio", não há acento na sílaba "pre"; "feminino" se escreve com "i"; e "extensão" se escreve com "s".</p>
+        </chapter>
+
+        <chapter title="Exercício 2" id="ex2">
+            <p>Assinale a alternativa que preenche corretamente as lacunas da frase a seguir:</p>
+            <code-block>
+                Não se deve _____ a _____ de produtos falsificados, pois isso é crime.
+            </code-block>
+            
+            <list type="a">
+                <li>incentivar - venda</li>
+                <li>incentivar - venda</li>
+                <li>incentivar - venda</li>
+                <li>incentivar - venda</li>
+            </list>
+
+            <p>Resposta: A</p>
+            
+            <p>Explicação: O verbo "incentivar" é transitivo direto, ou seja, não exige preposição antes de seu complemento. Já o substantivo "venda" não é acompanhado de artigo quando tem sentido genérico.</p>
+        </chapter>
+    </chapter>
+
+</topic> 

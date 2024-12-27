@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Avaliação em Casos de Interdição/Curatela" id="interdicao-curatela">
+
+    <p>
+        Baseado na Lei Brasileira de Inclusão (Lei 13.146/2015) e em
+        Miranda &amp; Rodrigues (2020) - "Avaliação psicológica no contexto da curatela".
+    </p>
+
+    <chapter title="Fundamentação Legal" id="legal">
+        <list type="bullet">
+            <li>
+                <b>Marco Legal</b>
+                <list>
+                    <li>Lei Brasileira de Inclusão</li>
+                    <li>Código Civil</li>
+                    <li>Código de Processo Civil</li>
+                    <li>Convenção sobre Direitos das Pessoas com Deficiência</li>
+                </list>
+            </li>
+            <li>
+                <b>Princípios Norteadores</b>
+                <list>
+                    <li>Dignidade da pessoa humana</li>
+                    <li>Autonomia progressiva</li>
+                    <li>Menor restrição possível</li>
+                    <li>Proteção integral</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Protocolo de Avaliação" id="protocolo">
+        <list type="bullet">
+            <li>
+                <b>1. Avaliação do Curatelado</b>
+                <list>
+                    <li>Funções cognitivas</li>
+                    <li>Capacidade decisional</li>
+                    <li>Autonomia funcional</li>
+                    <li>Necessidades específicas</li>
+                </list>
+            </li>
+            <li>
+                <b>2. Avaliação do Contexto</b>
+                <list>
+                    <li>Suporte familiar</li>
+                    <li>Recursos disponíveis</li>
+                    <li>Rede de apoio</li>
+                    <li>Condições ambientais</li>
+                </list>
+            </li>
+            <li>
+                <b>3. Avaliação do Curador</b>
+                <list>
+                    <li>Capacidade de cuidado</li>
+                    <li>Disponibilidade</li>
+                    <li>Compreensão do papel</li>
+                    <li>Vínculos afetivos</li>
+                </list>
+            </li>
+            <li>
+                <b>4. Avaliação das Limitações</b>
+                <list>
+                    <li>Áreas preservadas</li>
+                    <li>Áreas comprometidas</li>
+                    <li>Potencial de desenvolvimento</li>
+                    <li>Necessidades de suporte</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Instrumentos de Avaliação" id="instrumentos">
+        <list type="bullet">
+            <li>
+                <b>Avaliação Cognitiva</b>
+                <list>
+                    <li>MEEM (Mini Exame do Estado Mental)</li>
+                    <li>CDR (Clinical Dementia Rating)</li>
+                    <li>WAIS (Escala Wechsler)</li>
+                    <li>Testes neuropsicológicos específicos</li>
+                </list>
+            </li>
+            <li>
+                <b>Avaliação Funcional</b>
+                <list>
+                    <li>Escala de Atividades da Vida Diária</li>
+                    <li>Índice de Katz</li>
+                    <li>Escala de Lawton</li>
+                    <li>Avaliação da capacidade decisional</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Modelo de Laudo" id="modelo">
+        <code-block lang="text">
+            LAUDO PSICOLÓGICO - AVALIAÇÃO PARA CURATELA
+            
+            I. IDENTIFICAÇÃO
+            Nome: [iniciais]
+            Idade: [xx anos]
+            Processo: [número]
+            
+            II. METODOLOGIA
+            1. Procedimentos Realizados
+            - Entrevistas com avaliando
+            - Entrevistas com familiares
+            - Avaliação cognitiva/funcional
+            - Instrumentos aplicados
+            
+            III. HISTÓRICO
+            1. História Clínica
+            [Descrever condições de saúde...]
+            
+            2. Contexto Atual
+            [Avaliar situação presente...]
+            
+            3. Suporte Disponível
+            [Analisar rede de apoio...]
+            
+            IV. ANÁLISE
+            1. Funções Cognitivas
+            [Avaliar capacidades...]
+            
+            2. Autonomia Funcional
+            [Identificar limitações...]
+            
+            3. Necessidades de Proteção
+            [Especificar áreas...]
+            
+            V. CONCLUSÃO E RECOMENDAÇÕES
+            [Parecer técnico e sugestões]
+        </code-block>
+    </chapter>
+
+    <chapter title="Exercícios Práticos" id="exercicios">
+        <chapter title="Caso 1: Demência" id="caso1">
+            <code-block lang="text">
+                Idosa (78 anos) com diagnóstico de Alzheimer moderado.
+                Mora com filha que solicita curatela. Apresenta desorientação
+                temporal, esquecimentos frequentes e dificuldade para gerir
+                finanças. Mantém algumas atividades básicas preservadas.
+                
+                Analise:
+                1. Áreas comprometidas
+                2. Capacidades preservadas
+                3. Extensão da curatela
+                4. Recomendações específicas
+                
+                Sugestão de Resposta:
+                
+                1. Áreas Comprometidas:
+                - Gestão financeira
+                - Orientação temporal
+                - Memória recente
+                - Julgamento crítico
+                - Tomada de decisões complexas
+                
+                2. Capacidades Preservadas:
+                - Autocuidado básico
+                - Comunicação simples
+                - Reconhecimento familiar
+                - Rotinas estabelecidas
+                - Preferências pessoais
+                
+                3. Extensão da Curatela:
+                - Gestão patrimonial
+                - Decisões médicas complexas
+                - Contratos e negócios
+                - Preservar decisões cotidianas
+                - Respeitar preferências
+                
+                4. Recomendações:
+                - Acompanhamento médico
+                - Estimulação cognitiva
+                - Manutenção da autonomia possível
+                - Suporte familiar
+                - Adaptações ambientais
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 2: Deficiência Intelectual" id="caso2">
+            <code-block lang="text">
+                Jovem (22 anos) com deficiência intelectual moderada.
+                Frequenta instituição especializada, realiza atividades básicas
+                com supervisão. Pais idosos solicitam curatela compartilhada
+                com irmã mais velha.
+                
+                Elabore:
+                1. Avaliação funcional
+                2. Potencialidades
+                3. Necessidades de suporte
+                4. Plano de cuidados
+                
+                Sugestão de Resposta:
+                
+                1. Avaliação Funcional:
+                - Autonomia parcial em AVDs
+                - Comunicação funcional
+                - Socialização adequada
+                - Necessidade de supervisão
+                - Compreensão limitada
+                
+                2. Potencialidades:
+                - Habilidades práticas
+                - Vínculos afetivos
+                - Rotinas estruturadas
+                - Interesse em atividades
+                - Capacidade de aprendizagem
+                
+                3. Necessidades:
+                - Supervisão contínua
+                - Apoio em decisões
+                - Proteção patrimonial
+                - Cuidados de saúde
+                - Estimulação cognitiva
+                
+                4. Plano:
+                - Curatela compartilhada
+                - Manutenção das atividades
+                - Treinamento de habilidades
+                - Suporte institucional
+                - Planejamento futuro
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 3: Transtorno Mental" id="caso3">
+            <code-block lang="text">
+                Adulto (45 anos) com esquizofrenia refratária. Histórico de
+                internações, dificuldade de adesão ao tratamento. Irmão solicita
+                curatela após episódio de gastos excessivos e abandono de
+                tratamento.
+                
+                Desenvolva:
+                1. Avaliação de riscos
+                2. Capacidade decisional
+                3. Medidas protetivas
+                4. Recomendações terapêuticas
+                
+                Sugestão de Resposta:
+                
+                1. Avaliação de Riscos:
+                - Abandono de tratamento
+                - Prejuízos patrimoniais
+                - Vulnerabilidade social
+                - Agravamento sintomático
+                - Conflitos familiares
+                
+                2. Capacidade Decisional:
+                - Comprometimento do juízo crítico
+                - Insight prejudicado
+                - Decisões impulsivas
+                - Vulnerabilidade a influências
+                - Dificuldade de planejamento
+                
+                3. Medidas Protetivas:
+                - Gestão do tratamento
+                - Proteção patrimonial
+                - Supervisão de gastos
+                - Acompanhamento regular
+                - Suporte familiar
+                
+                4. Recomendações:
+                - Tratamento psiquiátrico
+                - Psicoterapia de apoio
+                - Reabilitação psicossocial
+                - Grupos de apoio
+                - Monitoramento contínuo
+            </code-block>
+        </chapter>
+    </chapter>
+
+    <chapter title="Aspectos Críticos" id="aspectos-criticos">
+        <list>
+            <li>
+                <b>Na Avaliação</b>
+                <list>
+                    <li>Capacidade versus incapacidade</li>
+                    <li>Gradação das limitações</li>
+                    <li>Potencial de desenvolvimento</li>
+                    <li>Recursos de apoio</li>
+                </list>
+            </li>
+            <li>
+                <b>Na Intervenção</b>
+                <list>
+                    <li>Preservação da autonomia</li>
+                    <li>Proteção adequada</li>
+                    <li>Suporte familiar</li>
+                    <li>Monitoramento contínuo</li>
+                </list>
+            </li>
+        </list>
+
+        <note>
+            <p>
+                Importante: A avaliação para curatela deve buscar o equilíbrio
+                entre a necessária proteção e a preservação máxima possível
+                da autonomia do indivíduo.
+            </p>
+        </note>
+    </chapter>
+
+    <chapter title="Recomendações Técnicas" id="recomendacoes">
+        <list>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Fundamentação clara</li>
+                    <li>Especificação das limitações</li>
+                    <li>Indicação das potencialidades</li>
+                    <li>Recomendações objetivas</li>
+                </list>
+            </li>
+            <li>
+                <b>Articulação</b>
+                <list>
+                    <li>Equipe multidisciplinar</li>
+                    <li>Rede de saúde</li>
+                    <li>Suporte social</li>
+                    <li>Sistema de justiça</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Checklist de Avaliação" id="checklist">
+        <list>
+            <li>
+                <b>Avaliação Inicial</b>
+                <list>
+                    <li>Condição clínica</li>
+                    <li>Capacidades preservadas</li>
+                    <li>Limitações específicas</li>
+                    <li>Suporte disponível</li>
+                </list>
+            </li>
+            <li>
+                <b>Avaliação Detalhada</b>
+                <list>
+                    <li>Funções cognitivas</li>
+                    <li>Capacidade funcional</li>
+                    <li>Necessidades de proteção</li>
+                    <li>Recursos de apoio</li>
+                </list>
+            </li>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Registros da avaliação</li>
+                    <li>Instrumentos aplicados</li>
+                    <li>Pareceres técnicos</li>
+                    <li>Encaminhamentos realizados</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

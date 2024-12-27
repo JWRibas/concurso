@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Avaliação em Casos de Alienação Parental" id="alienacao-parental">
+
+    <p>
+        Baseado em Ramires (2020) - "Avaliação psicológica de crianças que resistem ao contato parental" e
+        na Lei 12.318/2010 (Lei da Alienação Parental).
+    </p>
+
+    <chapter title="Fundamentação Legal" id="legal">
+        <list type="bullet">
+            <li>
+                <b>Lei 12.318/2010</b>
+                <list>
+                    <li>Definição de alienação parental</li>
+                    <li>Formas de alienação</li>
+                    <li>Medidas protetivas</li>
+                    <li>Papel do perito</li>
+                </list>
+            </li>
+            <li>
+                <b>Aspectos Jurídicos</b>
+                <list>
+                    <li>Direito à convivência familiar</li>
+                    <li>Melhor interesse da criança</li>
+                    <li>Guarda compartilhada</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Indicadores de Alienação" id="indicadores">
+        <list type="bullet">
+            <li>
+                <b>Comportamentos do Genitor Alienador</b>
+                <list>
+                    <li>Dificultar contato com outro genitor</li>
+                    <li>Desqualificar o outro genitor</li>
+                    <li>Omitir informações escolares/médicas</li>
+                    <li>Apresentar falsa denúncia</li>
+                </list>
+            </li>
+            <li>
+                <b>Sinais na Criança</b>
+                <list>
+                    <li>Rejeição injustificada</li>
+                    <li>Discurso decorado</li>
+                    <li>Ausência de ambivalência</li>
+                    <li>Fenômeno do pensador independente</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Roteiro de Avaliação" id="roteiro">
+        <list type="bullet">
+            <li>
+                <b>1. Entrevistas Individuais</b>
+                <list>
+                    <li>Com cada genitor separadamente</li>
+                    <li>Com a criança/adolescente</li>
+                    <li>Com outros familiares relevantes</li>
+                </list>
+            </li>
+            <li>
+                <b>2. Observação da Interação</b>
+                <list>
+                    <li>Criança com genitor guardião</li>
+                    <li>Criança com genitor não guardião</li>
+                    <li>Dinâmica das visitas</li>
+                </list>
+            </li>
+            <li>
+                <b>3. Análise Documental</b>
+                <list>
+                    <li>Processo judicial</li>
+                    <li>Registros escolares</li>
+                    <li>Histórico médico</li>
+                    <li>Comunicações entre genitores</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Modelo de Laudo" id="modelo">
+        <code-block lang="text">
+            LAUDO PSICOLÓGICO - AVALIAÇÃO DE ALIENAÇÃO PARENTAL
+            
+            I. IDENTIFICAÇÃO
+            Vara: Família e Sucessões
+            Processo nº: XXX
+            Partes envolvidas: [identificação]
+            
+            II. OBJETO DA AVALIAÇÃO
+            Verificação de possível prática de alienação parental, conforme
+            solicitado nos autos do processo.
+            
+            III. METODOLOGIA
+            1. Entrevistas Realizadas
+            - Entrevistas individuais com genitores
+            - Entrevistas com a criança
+            - Observação das interações
+            
+            2. Documentos Analisados
+            [Listar documentos consultados]
+            
+            IV. HISTÓRICO DO CASO
+            [Breve contextualização do conflito familiar]
+            
+            V. ANÁLISE
+            1. Dinâmica Familiar
+            [Descrever padrões relacionais, conflitos...]
+            
+            2. Indicadores de Alienação
+            [Analisar presença/ausência de indicadores...]
+            
+            3. Impactos no Desenvolvimento
+            [Avaliar consequências para a criança...]
+            
+            VI. CONCLUSÃO
+            [Parecer técnico sobre a existência de alienação]
+            
+            VII. RECOMENDAÇÕES
+            [Sugestões de intervenção e encaminhamentos]
+        </code-block>
+    </chapter>
+
+    <chapter title="Exercícios Práticos" id="exercicios">
+        <chapter title="Caso 1: Rejeição ao Pai" id="caso1">
+            <code-block lang="text">
+                Menina (8 anos) recusa-se a ter contato com o pai após separação conjugal.
+                Mãe alega que a criança tem medo do pai e não quer forçar as visitas.
+                Pai relata que tinha boa relação com a filha antes da separação e que
+                a ex-esposa dificulta o contato. Criança apresenta discurso muito articulado
+                contra o pai, usando termos adultos.
+                
+                Analise:
+                1. Indicadores de alienação presentes
+                2. Aspectos a investigar com cada parte
+                3. Recomendações preliminares
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 2: Falsas Denúncias" id="caso2">
+            <code-block lang="text">
+                Pai acusa mãe de negligência e maus-tratos durante as visitas.
+                Adolescente (13 anos) confirma versão do pai, mas apresenta contradições.
+                Registros escolares indicam bom desenvolvimento e relação positiva
+                com ambos os pais antes da separação. Mãe apresenta fotos e vídeos
+                de momentos felizes com o filho durante as visitas.
+                
+                Elabore:
+                1. Roteiro de investigação
+                2. Hipóteses principais
+                3. Encaminhamentos possíveis
+            </code-block>
+        </chapter>
+    </chapter>
+
+    <chapter title="Recomendações Técnicas" id="recomendacoes">
+        <list>
+            <li>
+                <b>Na Avaliação</b>
+                <list>
+                    <li>Mantenha postura imparcial</li>
+                    <li>Documente todas as observações</li>
+                    <li>Considere múltiplas hipóteses</li>
+                    <li>Avalie o contexto amplo</li>
+                </list>
+            </li>
+            <li>
+                <b>No Relatório</b>
+                <list>
+                    <li>Use linguagem técnica e objetiva</li>
+                    <li>Fundamente as conclusões</li>
+                    <li>Evite posicionamentos precipitados</li>
+                    <li>Sugira intervenções viáveis</li>
+                </list>
+            </li>
+        </list>
+
+        <note>
+            <p>
+                Importante: A identificação de alienação parental requer avaliação
+                criteriosa e diferencial, considerando outras possíveis causas
+                para a rejeição ao contato parental.
+            </p>
+        </note>
+    </chapter>
+
+    <chapter title="Questões VUNESP Comentadas" id="questoes-vunesp">
+        <chapter title="Bloco 1: Fundamentação Legal" id="bloco1">
+            <p>
+                <b>Questão 1 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                De acordo com a Lei 12.318/2010, caracteriza-se como alienação parental:
+            </p>
+            <list>
+                <li>a) Qualquer conflito entre os genitores após a separação</li>
+                <li>b) A interferência na formação psicológica da criança promovida por um dos genitores</li>
+                <li>c) A guarda unilateral determinada judicialmente</li>
+                <li>d) O estabelecimento de limites educacionais pelo genitor guardião</li>
+                <li>e) A mudança de cidade por motivos profissionais</li>
+            </list>
+            <p>
+                <b>Resposta: B</b>
+            </p>
+            <p>
+                <b>Comentário:</b> A Lei 12.318/2010 define claramente a alienação parental como a interferência 
+                na formação psicológica da criança ou adolescente, promovida por um dos genitores ou responsáveis, 
+                para prejudicar o vínculo com o outro genitor.
+            </p>
+
+            <p>
+                <b>Questão 2 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                Na avaliação de possível alienação parental, o psicólogo deve:
+            </p>
+            <list>
+                <li>a) Considerar apenas o relato do genitor guardião</li>
+                <li>b) Ignorar registros escolares anteriores</li>
+                <li>c) Realizar avaliação ampla incluindo múltiplas fontes</li>
+                <li>d) Basear-se exclusivamente em testes psicológicos</li>
+                <li>e) Evitar contato com o suposto alienador</li>
+            </list>
+            <p>
+                <b>Resposta: C</b>
+            </p>
+            <p>
+                <b>Comentário:</b> A VUNESP valoriza a abordagem técnica completa. A avaliação deve incluir 
+                múltiplas fontes de informação: entrevistas com ambos os genitores, observação da criança, 
+                análise documental e outros recursos pertinentes.
+            </p>
+        </chapter>
+
+        <chapter title="Bloco 2: Avaliação Técnica" id="bloco2">
+            <p>
+                <b>Questão 3 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                São indicadores de alienação parental na criança, EXCETO:
+            </p>
+            <list>
+                <li>a) Campanha de desqualificação contra um dos genitores</li>
+                <li>b) Justificativas racionais para rejeição baseadas em experiências reais</li>
+                <li>c) Ausência de ambivalência em relação ao genitor rejeitado</li>
+                <li>d) Fenômeno do pensador independente</li>
+                <li>e) Apoio automático ao genitor alienador</li>
+            </list>
+            <p>
+                <b>Resposta: B</b>
+            </p>
+            <p>
+                <b>Comentário:</b> Justificativas racionais baseadas em experiências reais não caracterizam 
+                alienação parental. A VUNESP enfatiza a importância de diferenciar rejeição justificada 
+                de alienação parental.
+            </p>
+        </chapter>
+
+        <chapter title="Bloco 3: Documentação" id="bloco3">
+            <p>
+                <b>Questão 4 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                No laudo psicológico em casos de alienação parental, é fundamental:
+            </p>
+            <list>
+                <li>a) Tomar partido de um dos genitores</li>
+                <li>b) Omitir informações controversas</li>
+                <li>c) Apresentar conclusões sem fundamentação</li>
+                <li>d) Descrever metodologia e fundamentar conclusões</li>
+                <li>e) Fazer previsões definitivas sobre o caso</li>
+            </list>
+            <p>
+                <b>Resposta: D</b>
+            </p>
+            <p>
+                <b>Comentário:</b> A VUNESP valoriza a fundamentação técnica e metodológica nos documentos 
+                psicológicos. O laudo deve apresentar claramente os métodos utilizados e as bases para 
+                suas conclusões.
+            </p>
+        </chapter>
+    </chapter>
+
+    <chapter title="Exercícios de Fixação VUNESP" id="exercicios-vunesp">
+        <p>
+            Exercícios elaborados seguindo o padrão VUNESP, com foco em:
+        </p>
+        <list>
+            <li>Aplicação da Lei 12.318/2010</li>
+            <li>Identificação de indicadores</li>
+            <li>Procedimentos de avaliação</li>
+            <li>Elaboração de documentos</li>
+        </list>
+        
+        <chapter title="Simulado Temático" id="simulado">
+            <p>
+                10 questões no estilo VUNESP, distribuídas conforme o perfil do concurso:
+            </p>
+            <list>
+                <li>4 questões sobre fundamentação legal</li>
+                <li>3 questões sobre avaliação técnica</li>
+                <li>3 questões sobre documentação</li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Pontos de Atenção VUNESP" id="atencao-vunesp">
+        <list>
+            <li>
+                <b>Erros Comuns</b>
+                <list>
+                    <li>Confundir rejeição justificada com alienação</li>
+                    <li>Desconsiderar o contexto amplo</li>
+                    <li>Fazer afirmações sem fundamentação</li>
+                </list>
+            </li>
+            <li>
+                <b>Dicas VUNESP</b>
+                <list>
+                    <li>Conhecer a lei na íntegra</li>
+                    <li>Focar na metodologia de avaliação</li>
+                    <li>Atentar aos aspectos éticos</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

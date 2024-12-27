@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Avaliação de Adolescente em Conflito com a Lei" id="avaliacao-ato-infracional">
+
+    <p>
+        Baseado em Bossa e Guerra (2023) - "Adolescência e ato infracional" e
+        Penso e Conceição (2020) - "O Relatório Psicossocial na Avaliação do Adolescente Infrator".
+    </p>
+
+    <chapter title="Aspectos Fundamentais" id="aspectos">
+        <list type="bullet">
+            <li>
+                <b>Contexto Legal</b>
+                <list>
+                    <li>ECA - medidas socioeducativas</li>
+                    <li>SINASE - parâmetros de atendimento</li>
+                    <li>Garantia de direitos fundamentais</li>
+                </list>
+            </li>
+            <li>
+                <b>Desenvolvimento Adolescente</b>
+                <list>
+                    <li>Aspectos psicossociais</li>
+                    <li>Formação da identidade</li>
+                    <li>Influência do grupo</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Roteiro de Avaliação" id="roteiro">
+        <list type="bullet">
+            <li>
+                <b>1. História de Vida</b>
+                <list>
+                    <li>Desenvolvimento infantil</li>
+                    <li>Dinâmica familiar</li>
+                    <li>Trajetória escolar</li>
+                    <li>Relações sociais</li>
+                </list>
+            </li>
+            <li>
+                <b>2. Contexto do Ato Infracional</b>
+                <list>
+                    <li>Circunstâncias do ato</li>
+                    <li>Motivações apresentadas</li>
+                    <li>Compreensão das consequências</li>
+                    <li>Histórico de infrações anteriores</li>
+                </list>
+            </li>
+            <li>
+                <b>3. Fatores de Risco e Proteção</b>
+                <list>
+                    <li>Vulnerabilidades sociais</li>
+                    <li>Rede de apoio</li>
+                    <li>Recursos pessoais</li>
+                    <li>Projetos de vida</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Modelo de Relatório" id="modelo">
+        <code-block lang="text">
+            RELATÓRIO PSICOSSOCIAL
+            
+            I. IDENTIFICAÇÃO
+            Adolescente: [iniciais]
+            Idade: [xx anos]
+            Ato infracional: [especificar]
+            
+            II. METODOLOGIA
+            - Entrevistas com o adolescente
+            - Entrevista familiar
+            - Visita domiciliar
+            - Contatos com a rede (escola, saúde, etc.)
+            - Instrumentos utilizados
+            
+            III. HISTÓRIA PESSOAL E FAMILIAR
+            1. Desenvolvimento e Dinâmica Familiar
+            [Descrever aspectos relevantes do desenvolvimento, relações familiares...]
+            
+            2. Trajetória Escolar e Social
+            [Analisar percurso escolar, socialização, atividades...]
+            
+            3. Contexto do Ato Infracional
+            [Apresentar circunstâncias, motivações, compreensão do ato...]
+            
+            IV. ANÁLISE
+            1. Aspectos Psicossociais
+            [Avaliar funcionamento psíquico, relações sociais...]
+            
+            2. Fatores de Risco e Proteção
+            [Identificar vulnerabilidades e recursos disponíveis...]
+            
+            3. Perspectivas de Futuro
+            [Analisar projetos de vida, possibilidades de mudança...]
+            
+            V. CONCLUSÃO E ENCAMINHAMENTOS
+            [Sugestões de medidas socioeducativas, encaminhamentos...]
+            
+            Local e Data
+            [Assinatura e registro profissional]
+        </code-block>
+    </chapter>
+
+    <chapter title="Pontos Críticos" id="pontos-criticos">
+        <list type="bullet">
+            <li>
+                <b>Avaliação de Risco</b>
+                <list>
+                    <li>Gravidade do ato infracional</li>
+                    <li>Padrão de comportamento</li>
+                    <li>Uso de violência</li>
+                    <li>Envolvimento com grupos infracionais</li>
+                </list>
+            </li>
+            <li>
+                <b>Aspectos Protetivos</b>
+                <list>
+                    <li>Vínculo familiar positivo</li>
+                    <li>Frequência escolar</li>
+                    <li>Atividades estruturadas</li>
+                    <li>Perspectivas de futuro</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Exercício Prático" id="exercicio">
+        <p>Analise o seguinte caso:</p>
+
+        <code-block lang="text">
+            Adolescente (16 anos), apreendido por ato infracional análogo ao tráfico de drogas.
+            Primeiro envolvimento com a justiça. Mora com a mãe e dois irmãos mais novos.
+            Pai falecido há 3 anos. Evadido da escola há 6 meses. Trabalha informalmente.
+            Relata que entrou no tráfico para ajudar nas despesas de casa.
+            
+            Elabore:
+            1. Roteiro de entrevista com adolescente e família
+            2. Aspectos principais a serem investigados
+            3. Possíveis encaminhamentos e medidas socioeducativas
+        </code-block>
+    </chapter>
+
+    <chapter title="Recomendações Práticas" id="recomendacoes">
+        <list>
+            <li>
+                <b>Entrevista</b>
+                <list>
+                    <li>Estabeleça rapport adequado</li>
+                    <li>Use linguagem acessível</li>
+                    <li>Evite postura julgadora</li>
+                    <li>Explore recursos e potencialidades</li>
+                </list>
+            </li>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Seja objetivo e técnico</li>
+                    <li>Fundamente as conclusões</li>
+                    <li>Considere o princípio da proteção integral</li>
+                    <li>Faça sugestões viáveis</li>
+                </list>
+            </li>
+        </list>
+
+        <note>
+            <p>
+                Importante: A avaliação deve considerar o caráter pedagógico das medidas socioeducativas,
+                visando a responsabilização e a reinserção social do adolescente.
+            </p>
+        </note>
+    </chapter>
+</topic> 

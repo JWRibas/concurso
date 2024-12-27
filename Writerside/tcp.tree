@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="tcp"
+                 name="TJ Concurso Psicologo"
+                 start-page="starter.xml">
+
+    <toc-element topic="starter.xml"/>
+    <toc-element topic="index.xml"/>
+    <toc-element topic="bloco-1-portugues.xml">
+        <toc-element topic="interpretacao-textos.xml"/>
+        <toc-element topic="tipologias-textuais.xml"/>
+        <toc-element topic="criterios-textualidade.xml"/>
+        <toc-element topic="norma-padrao.xml"/>
+    </toc-element>
+    <toc-element topic="bloco-2-conhecimentos-especificos.xml">
+        <toc-element topic="desenvolvimento-humano.xml"/>
+        <toc-element topic="psicopatologia.xml"/>
+        <toc-element topic="instrumentos-avaliacao.xml"/>
+        <toc-element topic="documentos-psicologicos.xml"/>
+        <toc-element topic="avaliacao-adocao.xml"/>
+        <toc-element topic="avaliacao-ato-infracional.xml"/>
+        <toc-element topic="alienacao-parental.xml"/>
+        <toc-element topic="violencia-idosos.xml"/>
+        <toc-element topic="violencia-domestica.xml"/>
+        <toc-element topic="violencia-sexual.xml"/>
+        <toc-element topic="disputa-guarda.xml"/>
+        <toc-element topic="guarda-compartilhada.xml"/>
+        <toc-element topic="medidas-socioeducativas.xml"/>
+        <toc-element topic="interdicao-curatela.xml"/>
+        <toc-element topic="plano-estudos.xml"/>
+    </toc-element>
+    <toc-element topic="bloco-3-conhecimentos-gerais.xml">
+        <toc-element topic="atualidades.xml"/>
+        <toc-element topic="estatuto-servidores.xml"/>
+        <toc-element topic="lei-improbidade.xml"/>
+    </toc-element>
+    <toc-element topic="bibliografia.xml"/>
+    <toc-element topic="legislacao.xml"/>
+</instance-profile>
+

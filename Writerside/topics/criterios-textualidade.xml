@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Critérios de Textualidade" id="criterios-textualidade">
+
+    <p>Os critérios de textualidade são princípios que definem as propriedades necessárias para que um conjunto de enunciados seja considerado um texto.</p>
+
+    <chapter title="Coesão" id="coesao">
+        <p>A coesão é a conexão entre as partes do texto, estabelecida por meio de elementos linguísticos.</p>
+        
+        <list>
+            <li>Mecanismos de Coesão
+                <list>
+                    <li>Referência: retomada de termos</li>
+                    <li>Substituição: troca de termos</li>
+                    <li>Elipse: omissão de termos</li>
+                    <li>Conjunção: conexão entre orações</li>
+                    <li>Coesão lexical: relações entre palavras</li>
+                </list>
+            </li>
+            <li>Exemplos de Elementos Coesivos
+                <list>
+                    <li>Pronomes</li>
+                    <li>Advérbios</li>
+                    <li>Sinônimos</li>
+                    <li>Conectivos</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Coerência" id="coerencia">
+        <p>A coerência é a lógica interna do texto, responsável por sua interpretabilidade e sentido global.</p>
+        
+        <list>
+            <li>Fatores de Coerência
+                <list>
+                    <li>Não contradição</li>
+                    <li>Relevância das informações</li>
+                    <li>Progressão temática</li>
+                    <li>Relação entre as partes</li>
+                </list>
+            </li>
+            <li>Incoerências Textuais
+                <list>
+                    <li>Contradições</li>
+                    <li>Fuga do tema</li>
+                    <li>Quebra da progressão</li>
+                    <li>Falta de relação entre ideias</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Intencionalidade" id="intencionalidade">
+        <p>A intencionalidade refere-se ao propósito comunicativo do produtor do texto.</p>
+        
+        <list>
+            <li>Tipos de Intenção
+                <list>
+                    <li>Informar</li>
+                    <li>Persuadir</li>
+                    <li>Instruir</li>
+                    <li>Entreter</li>
+                </list>
+            </li>
+            <li>Marcas de Intencionalidade
+                <list>
+                    <li>Seleção lexical</li>
+                    <li>Estrutura argumentativa</li>
+                    <li>Recursos estilísticos</li>
+                    <li>Direcionamento ao interlocutor</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Aceitabilidade" id="aceitabilidade">
+        <p>A aceitabilidade é a atitude do receptor em considerar uma sequência linguística como um texto coerente e coeso.</p>
+        
+        <list>
+            <li>Fatores de Aceitabilidade
+                <list>
+                    <li>Conhecimento de mundo</li>
+                    <li>Conhecimento linguístico</li>
+                    <li>Situação comunicativa</li>
+                    <li>Intertextualidade</li>
+                </list>
+            </li>
+            <li>Quebras de Aceitabilidade
+                <list>
+                    <li>Incoerências</li>
+                    <li>Inadequações linguísticas</li>
+                    <li>Falta de conhecimento prévio</li>
+                    <li>Problemas de interpretação</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Situacionalidade" id="situacionalidade">
+        <p>A situacionalidade é a adequação do texto à situação comunicativa em que ele ocorre.</p>
+        
+        <list>
+            <li>Elementos da Situação
+                <list>
+                    <li>Tema</li>
+                    <li>Propósito</li>
+                    <li>Papel dos interlocutores</li>
+                    <li>Contexto social e histórico</li>
+                </list>
+            </li>
+            <li>Inadequações Situacionais
+                <list>
+                    <li>Falta de adequação ao tema</li>
+                    <li>Inadequação ao propósito</li>
+                    <li>Desconsideração do interlocutor</li>
+                    <li>Descontextualização</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Informatividade" id="informatividade">
+        <p>A informatividade é a capacidade do texto de transmitir informações novas e relevantes ao receptor.</p>
+        
+        <list>
+            <li>Graus de Informatividade
+                <list>
+                    <li>Baixa: informações previsíveis</li>
+                    <li>Média: equilíbrio entre o dado e o novo</li>
+                    <li>Alta: informações inesperadas</li>
+                </list>
+            </li>
+            <li>Problemas de Informatividade
+                <list>
+                    <li>Excesso de informações conhecidas</li>
+                    <li>Falta de informações relevantes</li>
+                    <li>Quebra de expectativa</li>
+                    <li>Sobrecarga informacional</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Intertextualidade" id="intertextualidade">
+        <p>A intertextualidade é a relação de um texto com outros textos, por meio de referências, citações, alusões, paródias, etc.</p>
+        
+        <list>
+            <li>Tipos de Intertextualidade
+                <list>
+                    <li>Temática: textos sobre o mesmo tema</li>
+                    <li>Estilística: semelhança de estilo</li>
+                    <li>Explícita: referência direta a outro texto</li>
+                    <li>Implícita: referência indireta a outro texto</li>
+                </list>
+            </li>
+            <li>Funções da Intertextualidade
+                <list>
+                    <li>Argumentação</li>
+                    <li>Exemplificação</li>
+                    <li>Paródia</li>
+                    <li>Homenagem</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Exercícios" id="exercicios">
+        <p>Analise os textos a seguir de acordo com os critérios de textualidade:</p>
+
+        <chapter title="Exercício 1" id="ex1">
+            <p>Leia o texto:</p>
+            <code-block>
+                "A poluição é um problema grave. Ela causa danos à saúde e ao meio ambiente. Por isso, é fundamental que medidas sejam tomadas para reduzi-la. O governo deve investir em energias limpas e a população precisa mudar hábitos, como evitar o desperdício de água e fazer a reciclagem do lixo."
+            </code-block>
+            
+            <p>Questão: O texto apresenta boa coesão e coerência porque:</p>
+            
+            <list type="a">
+                <li>retoma termos e estabelece relações lógicas entre as ideias</li>
+                <li>utiliza pronomes para evitar repetições</li>
+                <li>apresenta informações novas e relevantes</li>
+                <li>está adequado à situação comunicativa</li>
+            </list>
+
+            <p>Resposta: A</p>
+            
+            <p>Explicação: O texto retoma o termo "poluição" por meio do pronome "ela" e conecta as ideias de forma lógica, com o uso de "por isso". Assim, apresenta boa coesão e coerência.</p>
+        </chapter>
+
+        <chapter title="Exercício 2" id="ex2">
+            <p>Analise o trecho:</p>
+            <code-block>
+                "O efeito estufa é causado pelo acúmulo de gases na atmosfera. Esses gases formam uma camada que dificulta a dispersão do calor. Assim, a Terra fica mais quente. O principal gás do efeito estufa é o gás carbônico. Ele é liberado principalmente pela queima de combustíveis fósseis e pelo desmatamento."
+            </code-block>
+            
+            <p>Questão: O texto apresenta boa informatividade porque:</p>
+            
+            <list type="a">
+                <li>traz informações conhecidas sobre o efeito estufa</li>
+                <li>apresenta informações novas e relevantes sobre as causas do efeito estufa</li>
+                <li>explica o processo do efeito estufa de forma detalhada</li>
+                <li>relaciona o efeito estufa a outros problemas ambientais</li>
+            </list>
+
+            <p>Resposta: B</p>
+            
+            <p>Explicação: Embora o texto explique o processo do efeito estufa, seu foco está em trazer informações novas e relevantes sobre as causas desse fenômeno, como a queima de combustíveis fósseis e o desmatamento. Assim, apresenta boa informatividade.</p>
+        </chapter>
+    </chapter>
+
+</topic> 

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Avaliação em Casos de Guarda Compartilhada" id="guarda-compartilhada">
+
+    <p>
+        Baseado na Lei da Guarda Compartilhada (Lei 13.058/2014) e em
+        Silva &amp; Santos (2021) - "Avaliação psicológica no contexto da guarda compartilhada".
+    </p>
+
+    <chapter title="Fundamentação Legal" id="legal">
+        <list type="bullet">
+            <li>
+                <b>Marco Legal</b>
+                <list>
+                    <li>Lei da Guarda Compartilhada</li>
+                    <li>Código Civil</li>
+                    <li>ECA (Lei 8.069/90)</li>
+                    <li>Convenção sobre Direitos da Criança</li>
+                </list>
+            </li>
+            <li>
+                <b>Princípios Norteadores</b>
+                <list>
+                    <li>Melhor interesse da criança</li>
+                    <li>Proteção integral</li>
+                    <li>Convivência familiar</li>
+                    <li>Corresponsabilidade parental</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Protocolo de Avaliação" id="protocolo">
+        <list type="bullet">
+            <li>
+                <b>1. Avaliação da Criança/Adolescente</b>
+                <list>
+                    <li>Desenvolvimento psicológico</li>
+                    <li>Vínculos afetivos</li>
+                    <li>Necessidades específicas</li>
+                    <li>Adaptação à situação</li>
+                </list>
+            </li>
+            <li>
+                <b>2. Avaliação dos Genitores</b>
+                <list>
+                    <li>Capacidade parental</li>
+                    <li>Disponibilidade afetiva</li>
+                    <li>Cooperação mútua</li>
+                    <li>Recursos de cuidado</li>
+                </list>
+            </li>
+            <li>
+                <b>3. Avaliação da Dinâmica</b>
+                <list>
+                    <li>Padrões de comunicação</li>
+                    <li>Conflitos existentes</li>
+                    <li>Rotinas estabelecidas</li>
+                    <li>Suporte familiar</li>
+                </list>
+            </li>
+            <li>
+                <b>4. Avaliação do Contexto</b>
+                <list>
+                    <li>Condições materiais</li>
+                    <li>Rede de apoio</li>
+                    <li>Ambiente escolar</li>
+                    <li>Recursos comunitários</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Instrumentos de Avaliação" id="instrumentos">
+        <list type="bullet">
+            <li>
+                <b>Avaliação da Criança</b>
+                <list>
+                    <li>Técnicas lúdicas</li>
+                    <li>Testes projetivos</li>
+                    <li>Escalas de desenvolvimento</li>
+                    <li>Observação comportamental</li>
+                </list>
+            </li>
+            <li>
+                <b>Avaliação dos Pais</b>
+                <list>
+                    <li>Entrevistas estruturadas</li>
+                    <li>Escalas de parentalidade</li>
+                    <li>Inventários de personalidade</li>
+                    <li>Avaliação do relacionamento</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Modelo de Laudo" id="modelo">
+        <code-block lang="text">
+            LAUDO PSICOLÓGICO - AVALIAÇÃO PARA GUARDA COMPARTILHADA
+            
+            I. IDENTIFICAÇÃO
+            Criança: [iniciais]
+            Idade: [xx anos]
+            Genitores: [iniciais]
+            Processo: [número]
+            
+            II. METODOLOGIA
+            1. Procedimentos Realizados
+            - Entrevistas com criança
+            - Entrevistas com genitores
+            - Observação da interação
+            - Instrumentos aplicados
+            
+            III. HISTÓRICO
+            1. Configuração Familiar
+            [Descrever dinâmica...]
+            
+            2. Situação Atual
+            [Avaliar contexto...]
+            
+            3. Padrões de Convivência
+            [Analisar rotinas...]
+            
+            IV. ANÁLISE
+            1. Desenvolvimento da Criança
+            [Avaliar aspectos...]
+            
+            2. Competências Parentais
+            [Identificar recursos...]
+            
+            3. Dinâmica Relacional
+            [Especificar padrões...]
+            
+            V. CONCLUSÃO E RECOMENDAÇÕES
+            [Parecer técnico e sugestões]
+        </code-block>
+    </chapter>
+
+    <chapter title="Exercícios Práticos" id="exercicios">
+        <chapter title="Caso 1: Adaptação Inicial" id="caso1">
+            <code-block lang="text">
+                Criança (7 anos) em processo de adaptação à guarda
+                compartilhada após separação recente. Pais apresentam boa
+                comunicação mas diferenças no estilo parental. Criança
+                demonstra ansiedade nas transições.
+                
+                Analise:
+                1. Necessidades da criança
+                2. Recursos parentais
+                3. Ajustes necessários
+                4. Recomendações específicas
+                
+                Sugestão de Resposta:
+                
+                1. Necessidades da Criança:
+                - Estabilidade emocional
+                - Previsibilidade nas rotinas
+                - Segurança afetiva
+                - Adaptação gradual
+                - Expressão de sentimentos
+                
+                2. Recursos Parentais:
+                - Comunicação adequada
+                - Foco no bem-estar
+                - Disponibilidade afetiva
+                - Flexibilidade
+                - Compromisso com adaptação
+                
+                3. Ajustes Necessários:
+                - Harmonização de rotinas
+                - Transições graduais
+                - Comunicação clara
+                - Consistência educativa
+                - Suporte emocional
+                
+                4. Recomendações:
+                - Psicoterapia de apoio
+                - Orientação parental
+                - Planejamento conjunto
+                - Monitoramento da adaptação
+                - Flexibilidade inicial
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 2: Conflito de Rotinas" id="caso2">
+            <code-block lang="text">
+                Adolescente (14 anos) em guarda compartilhada há 2 anos.
+                Conflitos frequentes devido a diferenças nas regras e
+                rotinas entre as casas. Pais com dificuldade de acordo
+                sobre atividades extracurriculares.
+                
+                Elabore:
+                1. Avaliação do impacto
+                2. Pontos de conflito
+                3. Estratégias de harmonização
+                4. Plano de intervenção
+                
+                Sugestão de Resposta:
+                
+                1. Avaliação do Impacto:
+                - Instabilidade emocional
+                - Conflitos de lealdade
+                - Aproveitamento escolar
+                - Relações sociais
+                - Desenvolvimento adolescente
+                
+                2. Pontos de Conflito:
+                - Horários e rotinas
+                - Regras diferentes
+                - Atividades extras
+                - Limites e disciplina
+                - Comunicação parental
+                
+                3. Estratégias:
+                - Acordo de rotinas
+                - Regras comuns
+                - Calendário conjunto
+                - Comunicação efetiva
+                - Respeito às diferenças
+                
+                4. Plano:
+                - Mediação familiar
+                - Orientação parental
+                - Acompanhamento adolescente
+                - Revisão periódica
+                - Ajustes graduais
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 3: Reorganização Familiar" id="caso3">
+            <code-block lang="text">
+                Crianças (6 e 9 anos) em guarda compartilhada, com novos
+                relacionamentos dos pais. Dificuldades na integração com
+                novos membros familiares e ajuste das dinâmicas ampliadas.
+                
+                Desenvolva:
+                1. Avaliação sistêmica
+                2. Desafios específicos
+                3. Recursos disponíveis
+                4. Recomendações práticas
+                
+                Sugestão de Resposta:
+                
+                1. Avaliação Sistêmica:
+                - Dinâmicas familiares
+                - Papéis e fronteiras
+                - Padrões relacionais
+                - Adaptação das crianças
+                - Integração familiar
+                
+                2. Desafios:
+                - Lealdades divididas
+                - Ajuste a mudanças
+                - Novos relacionamentos
+                - Rotinas complexas
+                - Comunicação ampliada
+                
+                3. Recursos:
+                - Flexibilidade familiar
+                - Suporte emocional
+                - Disposição ao diálogo
+                - Compromisso parental
+                - Rede de apoio
+                
+                4. Recomendações:
+                - Terapia familiar
+                - Encontros integrativos
+                - Respeito aos tempos
+                - Comunicação clara
+                - Manutenção de vínculos
+            </code-block>
+        </chapter>
+    </chapter>
+
+    <chapter title="Aspectos Críticos" id="aspectos-criticos">
+        <list>
+            <li>
+                <b>Na Avaliação</b>
+                <list>
+                    <li>Dinâmica familiar</li>
+                    <li>Padrões de comunicação</li>
+                    <li>Capacidade de cooperação</li>
+                    <li>Necessidades desenvolvimentais</li>
+                </list>
+            </li>
+            <li>
+                <b>Na Intervenção</b>
+                <list>
+                    <li>Foco no interesse da criança</li>
+                    <li>Promoção do diálogo</li>
+                    <li>Ajustes graduais</li>
+                    <li>Monitoramento contínuo</li>
+                </list>
+            </li>
+        </list>
+
+        <note>
+            <p>
+                Importante: A avaliação em guarda compartilhada deve priorizar
+                a adaptação e bem-estar da criança/adolescente, promovendo
+                a cooperação parental e o desenvolvimento saudável.
+            </p>
+        </note>
+    </chapter>
+
+    <chapter title="Recomendações Técnicas" id="recomendacoes">
+        <list>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Registro detalhado</li>
+                    <li>Fundamentação clara</li>
+                    <li>Foco nas necessidades</li>
+                    <li>Sugestões práticas</li>
+                </list>
+            </li>
+            <li>
+                <b>Articulação</b>
+                <list>
+                    <li>Equipe multidisciplinar</li>
+                    <li>Rede de apoio</li>
+                    <li>Sistema escolar</li>
+                    <li>Recursos comunitários</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Checklist de Avaliação" id="checklist">
+        <list>
+            <li>
+                <b>Avaliação Inicial</b>
+                <list>
+                    <li>Configuração familiar</li>
+                    <li>Padrões de convivência</li>
+                    <li>Necessidades específicas</li>
+                    <li>Recursos disponíveis</li>
+                </list>
+            </li>
+            <li>
+                <b>Avaliação Processual</b>
+                <list>
+                    <li>Adaptação ao modelo</li>
+                    <li>Cooperação parental</li>
+                    <li>Desenvolvimento infantil</li>
+                    <li>Ajustes necessários</li>
+                </list>
+            </li>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Registros de atendimento</li>
+                    <li>Evolução do caso</li>
+                    <li>Instrumentos aplicados</li>
+                    <li>Encaminhamentos realizados</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

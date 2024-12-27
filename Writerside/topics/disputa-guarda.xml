@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Avaliação em Casos de Disputa de Guarda" id="disputa-guarda">
+
+    <p>
+        Baseado em Shine (2019) - "Avaliação psicológica em contexto forense"
+        e na Lei 13.058/2014 (Lei da Guarda Compartilhada).
+    </p>
+
+    <chapter title="Fundamentação Legal" id="legal">
+        <list type="bullet">
+            <li>
+                <b>Legislação Pertinente</b>
+                <list>
+                    <li>Lei da Guarda Compartilhada</li>
+                    <li>Estatuto da Criança e Adolescente</li>
+                    <li>Código Civil</li>
+                    <li>Princípio do melhor interesse</li>
+                </list>
+            </li>
+            <li>
+                <b>Modalidades de Guarda</b>
+                <list>
+                    <li>Guarda compartilhada</li>
+                    <li>Guarda unilateral</li>
+                    <li>Guarda alternada</li>
+                    <li>Critérios de definição</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Protocolo de Avaliação" id="protocolo">
+        <list type="bullet">
+            <li>
+                <b>1. Análise Documental</b>
+                <list>
+                    <li>Processo judicial</li>
+                    <li>Relatórios anteriores</li>
+                    <li>Documentos escolares</li>
+                    <li>Registros médicos</li>
+                </list>
+            </li>
+            <li>
+                <b>2. Entrevistas com Genitores</b>
+                <list>
+                    <li>História familiar</li>
+                    <li>Relação com os filhos</li>
+                    <li>Capacidade parental</li>
+                    <li>Projeto de cuidados</li>
+                </list>
+            </li>
+            <li>
+                <b>3. Avaliação da Criança</b>
+                <list>
+                    <li>Desenvolvimento psicológico</li>
+                    <li>Vínculos afetivos</li>
+                    <li>Necessidades específicas</li>
+                    <li>Preferências e desejos</li>
+                </list>
+            </li>
+            <li>
+                <b>4. Observação das Interações</b>
+                <list>
+                    <li>Dinâmica com cada genitor</li>
+                    <li>Qualidade do vínculo</li>
+                    <li>Padrões relacionais</li>
+                    <li>Competências parentais</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Instrumentos de Avaliação" id="instrumentos">
+        <list type="bullet">
+            <li>
+                <b>Técnicas Projetivas</b>
+                <list>
+                    <li>Desenho da Família</li>
+                    <li>CAT/TAT</li>
+                    <li>Procedimento de Desenhos-Estórias</li>
+                </list>
+            </li>
+            <li>
+                <b>Escalas e Inventários</b>
+                <list>
+                    <li>Escalas de desenvolvimento</li>
+                    <li>Inventários de personalidade</li>
+                    <li>Avaliação de parentalidade</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Modelo de Laudo" id="modelo">
+        <code-block lang="text">
+            LAUDO PSICOLÓGICO - AVALIAÇÃO DE DISPUTA DE GUARDA
+            
+            I. IDENTIFICAÇÃO
+            Vara: Família e Sucessões
+            Processo nº: XXX
+            Partes envolvidas: [identificação]
+            
+            II. OBJETO DA AVALIAÇÃO
+            Avaliação psicológica para subsidiar decisão sobre guarda
+            de [nome e idade da(s) criança(s)].
+            
+            III. METODOLOGIA
+            1. Procedimentos Realizados
+            - Análise processual
+            - Entrevistas com genitores
+            - Avaliação da(s) criança(s)
+            - Observação das interações
+            - Instrumentos aplicados
+            
+            IV. HISTÓRICO
+            1. Contexto Familiar
+            [Descrever dinâmica e conflitos...]
+            
+            2. Situação Atual
+            [Avaliar arranjos e dificuldades...]
+            
+            V. ANÁLISE
+            1. Competências Parentais
+            [Avaliar capacidades de cada genitor...]
+            
+            2. Necessidades da Criança
+            [Identificar demandas específicas...]
+            
+            3. Dinâmica Relacional
+            [Analisar vínculos e interações...]
+            
+            VI. CONCLUSÃO E RECOMENDAÇÕES
+            [Parecer técnico e sugestões]
+        </code-block>
+    </chapter>
+
+    <chapter title="Exercícios Práticos" id="exercicios">
+        <chapter title="Caso 1: Alienação Parental" id="caso1">
+            <code-block lang="text">
+                Pai solicita reversão da guarda de filho (8 anos) alegando alienação
+                parental por parte da mãe. Criança recusa visitas, apresenta discurso
+                negativo sobre pai. Mãe justifica que criança não quer contato por
+                experiências negativas anteriores.
+                
+                Analise:
+                1. Indicadores relevantes
+                2. Protocolo de avaliação
+                3. Aspectos críticos
+                4. Encaminhamentos possíveis
+                
+                Sugestão de Resposta:
+                
+                1. Indicadores:
+                - Padrão de rejeição ao genitor
+                - Discurso aparentemente induzido
+                - Justificativas inconsistentes
+                - Resistência ao contato
+                - Polarização do conflito
+                
+                2. Protocolo:
+                - Entrevistas individuais com genitores
+                - Avaliação da criança
+                - Observação das interações
+                - Análise da dinâmica familiar
+                - Avaliação do histórico relacional
+                
+                3. Aspectos Críticos:
+                - Diferenciação entre alienação e rejeição justificada
+                - Impacto do conflito no desenvolvimento
+                - Capacidade de cooperação parental
+                - Necessidades emocionais da criança
+                
+                4. Encaminhamentos:
+                - Mediação familiar
+                - Psicoterapia individual
+                - Orientação parental
+                - Visitas assistidas
+                - Acompanhamento psicológico
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 2: Guarda Compartilhada" id="caso2">
+            <code-block lang="text">
+                Pais divorciados há 2 anos disputam alteração na guarda compartilhada
+                de filhos (6 e 4 anos). Pai alega que mãe é instável emocionalmente
+                e prejudica rotina das crianças. Mãe acusa pai de ser ausente e
+                inflexível nas decisões.
+                
+                Elabore:
+                1. Plano de avaliação
+                2. Aspectos a investigar
+                3. Critérios de análise
+                4. Recomendações possíveis
+                
+                Sugestão de Resposta:
+                
+                1. Plano de Avaliação:
+                - Análise da dinâmica coparental
+                - Avaliação do desenvolvimento das crianças
+                - Observação das interações familiares
+                - Investigação das rotinas estabelecidas
+                - Avaliação das competências parentais
+                
+                2. Aspectos a Investigar:
+                - Estabilidade emocional dos genitores
+                - Capacidade de cooperação
+                - Rotinas e cuidados básicos
+                - Qualidade dos vínculos
+                - Flexibilidade nas decisões
+                
+                3. Critérios de Análise:
+                - Continuidade dos cuidados
+                - Estabilidade do ambiente
+                - Disponibilidade afetiva
+                - Capacidade de diálogo
+                - Respeito ao outro genitor
+                
+                4. Recomendações:
+                - Ajustes na rotina de convivência
+                - Terapia coparental
+                - Mediação de conflitos
+                - Acompanhamento psicológico
+                - Reavaliação periódica
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 3: Mudança de Cidade" id="caso3">
+            <code-block lang="text">
+                Mãe solicita autorização para mudar de cidade com filha (10 anos)
+                devido proposta de trabalho. Pai se opõe, alegando prejuízo ao
+                convívio. Criança demonstra ambivalência e preocupação em
+                desagradar os pais.
+                
+                Desenvolva:
+                1. Análise dos impactos
+                2. Fatores a considerar
+                3. Alternativas possíveis
+                4. Critérios decisórios
+                
+                Sugestão de Resposta:
+                
+                1. Impactos:
+                - Alteração na convivência
+                - Mudança escolar/social
+                - Adaptação ao novo ambiente
+                - Manutenção dos vínculos
+                - Desenvolvimento emocional
+                
+                2. Fatores:
+                - Oportunidade profissional
+                - Qualidade de vida
+                - Rede de apoio
+                - Distância geográfica
+                - Recursos tecnológicos
+                
+                3. Alternativas:
+                - Reorganização das visitas
+                - Compensação em férias/feriados
+                - Contatos virtuais regulares
+                - Viagens programadas
+                - Arranjos flexíveis
+                
+                4. Critérios:
+                - Melhor interesse da criança
+                - Viabilidade prática
+                - Manutenção dos vínculos
+                - Estabilidade emocional
+                - Perspectivas futuras
+            </code-block>
+        </chapter>
+    </chapter>
+
+    <chapter title="Aspectos Críticos" id="aspectos-criticos">
+        <list>
+            <li>
+                <b>Na Avaliação</b>
+                <list>
+                    <li>Manter imparcialidade</li>
+                    <li>Considerar múltiplas perspectivas</li>
+                    <li>Avaliar dinâmica familiar</li>
+                    <li>Priorizar interesse da criança</li>
+                </list>
+            </li>
+            <li>
+                <b>Na Intervenção</b>
+                <list>
+                    <li>Promover diálogo</li>
+                    <li>Mediar conflitos</li>
+                    <li>Orientar genitores</li>
+                    <li>Proteger vínculos</li>
+                </list>
+            </li>
+        </list>
+
+        <note>
+            <p>
+                Importante: A avaliação em casos de disputa de guarda requer
+                compreensão aprofundada das dinâmicas familiares e capacidade
+                de análise sistêmica dos relacionamentos.
+            </p>
+        </note>
+    </chapter>
+
+    <chapter title="Recomendações Técnicas" id="recomendacoes">
+        <list>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Registrar objetivamente</li>
+                    <li>Fundamentar conclusões</li>
+                    <li>Evitar posicionamentos precipitados</li>
+                    <li>Preservar sigilo</li>
+                </list>
+            </li>
+            <li>
+                <b>Articulação</b>
+                <list>
+                    <li>Equipe multidisciplinar</li>
+                    <li>Sistema de justiça</li>
+                    <li>Rede de apoio</li>
+                    <li>Serviços especializados</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Checklist de Avaliação" id="checklist">
+        <list>
+            <li>
+                <b>Avaliação Inicial</b>
+                <list>
+                    <li>Contexto do conflito</li>
+                    <li>Arranjos atuais</li>
+                    <li>Demandas específicas</li>
+                    <li>Riscos envolvidos</li>
+                </list>
+            </li>
+            <li>
+                <b>Avaliação Detalhada</b>
+                <list>
+                    <li>Competências parentais</li>
+                    <li>Vínculos afetivos</li>
+                    <li>Necessidades da criança</li>
+                    <li>Recursos familiares</li>
+                </list>
+            </li>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Registros dos atendimentos</li>
+                    <li>Material produzido</li>
+                    <li>Instrumentos aplicados</li>
+                    <li>Encaminhamentos realizados</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

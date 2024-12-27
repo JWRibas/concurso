@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Avaliação em Casos de Violência Doméstica" id="violencia-domestica">
+
+    <p>
+        Baseado na Lei Maria da Penha (Lei 11.340/2006) e em Maciel &amp; Cruz (2019) - 
+        "Avaliação psicológica em casos de violência doméstica: práticas e desafios".
+    </p>
+
+    <chapter title="Fundamentação Legal" id="legal">
+        <list type="bullet">
+            <li>
+                <b>Lei Maria da Penha</b>
+                <list>
+                    <li>Formas de violência</li>
+                    <li>Medidas protetivas</li>
+                    <li>Atendimento multidisciplinar</li>
+                    <li>Papel do psicólogo</li>
+                </list>
+            </li>
+            <li>
+                <b>Aspectos Criminais</b>
+                <list>
+                    <li>Tipificação das violências</li>
+                    <li>Ciclo da violência</li>
+                    <li>Fatores de risco</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Protocolo de Avaliação" id="protocolo">
+        <list type="bullet">
+            <li>
+                <b>1. Acolhimento Inicial</b>
+                <list>
+                    <li>Estabelecimento de vínculo</li>
+                    <li>Avaliação de risco imediato</li>
+                    <li>Orientações de segurança</li>
+                    <li>Encaminhamentos urgentes</li>
+                </list>
+            </li>
+            <li>
+                <b>2. Entrevista Detalhada</b>
+                <list>
+                    <li>Histórico da violência</li>
+                    <li>Contexto familiar</li>
+                    <li>Rede de apoio</li>
+                    <li>Recursos pessoais</li>
+                </list>
+            </li>
+            <li>
+                <b>3. Avaliação de Risco</b>
+                <list>
+                    <li>Gravidade da violência</li>
+                    <li>Frequência dos episódios</li>
+                    <li>Acesso a armas</li>
+                    <li>Ameaças de morte</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Instrumentos de Avaliação" id="instrumentos">
+        <list type="bullet">
+            <li>
+                <b>Escalas Específicas</b>
+                <list>
+                    <li>Danger Assessment (DA)</li>
+                    <li>Conflict Tactics Scale (CTS-2)</li>
+                    <li>Escala de Violência Contra a Mulher</li>
+                </list>
+            </li>
+            <li>
+                <b>Avaliação Complementar</b>
+                <list>
+                    <li>Inventários de depressão/ansiedade</li>
+                    <li>Escalas de autoestima</li>
+                    <li>Avaliação de TEPT</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Modelo de Relatório" id="modelo">
+        <code-block lang="text">
+            RELATÓRIO PSICOLÓGICO - AVALIAÇÃO DE VIOLÊNCIA DOMÉSTICA
+            
+            I. IDENTIFICAÇÃO
+            Nome: [iniciais]
+            Idade: [xx anos]
+            Encaminhamento: [origem]
+            
+            II. METODOLOGIA
+            1. Procedimentos Realizados
+            - Entrevistas de acolhimento
+            - Avaliação de risco
+            - Aplicação de instrumentos
+            - Contatos com rede de apoio
+            
+            III. HISTÓRICO
+            1. Contexto da Violência
+            [Descrever padrões, frequência, gravidade...]
+            
+            2. Impactos Psicológicos
+            [Avaliar consequências emocionais/comportamentais...]
+            
+            3. Recursos de Enfrentamento
+            [Identificar estratégias e suporte...]
+            
+            IV. ANÁLISE
+            1. Indicadores de Risco
+            [Descrever fatores de risco identificados...]
+            
+            2. Fatores de Proteção
+            [Avaliar recursos disponíveis...]
+            
+            3. Necessidades de Intervenção
+            [Identificar demandas específicas...]
+            
+            V. CONCLUSÃO E ENCAMINHAMENTOS
+            [Parecer técnico e recomendações]
+        </code-block>
+    </chapter>
+
+    <chapter title="Exercícios Práticos" id="exercicios">
+        <chapter title="Caso 1: Violência Física e Psicológica" id="caso1">
+            <code-block lang="text">
+                Mulher (32 anos), casada há 8 anos, dois filhos (5 e 3 anos).
+                Relata agressões físicas frequentes, ameaças de morte e humilhações.
+                Marido controla celular e proíbe contato com família.
+                Tentou separação duas vezes, mas retornou por dependência financeira.
+                
+                Analise:
+                1. Fatores de risco presentes
+                2. Avaliação da rede de apoio
+                3. Medidas de proteção necessárias
+                4. Encaminhamentos prioritários
+                
+                Sugestão de Resposta:
+                
+                1. Fatores de Risco:
+                - Histórico de violência crescente
+                - Ameaças de morte explícitas
+                - Isolamento social forçado
+                - Dependência financeira
+                - Presença de crianças
+                - Tentativas anteriores de separação
+                
+                2. Rede de Apoio:
+                - Mapear família extensa
+                - Verificar possibilidade de acolhimento
+                - Identificar recursos comunitários
+                - Avaliar acesso a serviços especializados
+                
+                3. Medidas de Proteção:
+                - Medida protetiva de urgência
+                - Plano de segurança pessoal
+                - Afastamento do agressor
+                - Proteção das crianças
+                
+                4. Encaminhamentos:
+                - Casa-abrigo (se necessário)
+                - Defensoria Pública
+                - CREAS/CRAS
+                - Programa de autonomia financeira
+                - Acompanhamento psicológico
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 2: Violência Patrimonial" id="caso2">
+            <code-block lang="text">
+                Mulher (45 anos), empresária, relata que companheiro (50 anos)
+                assumiu controle das finanças da empresa, alterou senhas bancárias
+                e ameaça "destruir tudo" se ela tentar separação. Apresenta sintomas
+                de ansiedade e insônia. Teme perder o patrimônio construído.
+                
+                Elabore:
+                1. Roteiro de avaliação
+                2. Aspectos legais relevantes
+                3. Plano de intervenção
+                4. Orientações específicas
+                
+                Sugestão de Resposta:
+                
+                1. Roteiro de Avaliação:
+                - Histórico da relação empresarial/conjugal
+                - Documentação patrimonial
+                - Avaliação de risco financeiro
+                - Impacto na saúde mental
+                - Recursos legais disponíveis
+                
+                2. Aspectos Legais:
+                - Violência patrimonial (Lei Maria da Penha)
+                - Direitos empresariais
+                - Medidas cautelares
+                - Bloqueio de bens
+                - Prestação de contas
+                
+                3. Plano de Intervenção:
+                - Orientação jurídica especializada
+                - Suporte contábil
+                - Acompanhamento psicológico
+                - Medidas de proteção patrimonial
+                - Reorganização empresarial
+                
+                4. Orientações:
+                - Documentar todas as transações
+                - Manter registros de ameaças
+                - Criar cópias de documentos importantes
+                - Estabelecer rede profissional de apoio
+                - Desenvolver plano de segurança financeira
+            </code-block>
+        </chapter>
+
+        <chapter title="Caso 3: Violência Psicológica" id="caso3">
+            <code-block lang="text">
+                Mulher (28 anos), professora, relata manipulação constante,
+                gaslighting, críticas à aparência e competência profissional.
+                Parceiro (35 anos) nega violência, diz que ela é "muito sensível"
+                e "desequilibrada". Ela questiona sua própria percepção da realidade.
+                
+                Desenvolva:
+                1. Análise dos mecanismos de violência
+                2. Impactos na saúde mental
+                3. Estratégias de intervenção
+                4. Prognóstico
+                
+                Sugestão de Resposta:
+                
+                1. Mecanismos de Violência:
+                - Gaslighting sistemático
+                - Desqualificação profissional
+                - Manipulação emocional
+                - Negação da violência
+                - Inversão de responsabilidade
+                
+                2. Impactos na Saúde Mental:
+                - Dúvida da própria percepção
+                - Baixa autoestima
+                - Ansiedade
+                - Insegurança profissional
+                - Dependência emocional
+                
+                3. Estratégias:
+                - Psicoterapia individual
+                - Grupos de apoio
+                - Fortalecimento da identidade
+                - Rede de validação
+                - Documentação dos episódios
+                
+                4. Prognóstico:
+                - Favorável com intervenção adequada
+                - Necessidade de suporte continuado
+                - Risco de recaída sem acompanhamento
+                - Importância da rede de apoio
+            </code-block>
+        </chapter>
+    </chapter>
+
+    <chapter title="Aspectos Críticos" id="aspectos-criticos">
+        <list>
+            <li>
+                <b>Na Avaliação</b>
+                <list>
+                    <li>Garantir segurança imediata</li>
+                    <li>Respeitar ritmo da vítima</li>
+                    <li>Evitar revitimização</li>
+                    <li>Documentar adequadamente</li>
+                </list>
+            </li>
+            <li>
+                <b>Na Intervenção</b>
+                <list>
+                    <li>Articular rede de serviços</li>
+                    <li>Fortalecer autonomia</li>
+                    <li>Planejar segurança</li>
+                    <li>Monitorar riscos</li>
+                </list>
+            </li>
+        </list>
+
+        <note>
+            <p>
+                Importante: A avaliação em casos de violência doméstica requer
+                capacitação específica e compreensão das dinâmicas de poder e
+                controle presentes nas relações abusivas.
+            </p>
+        </note>
+    </chapter>
+
+    <chapter title="Recomendações Técnicas" id="recomendacoes">
+        <list>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Registrar detalhadamente</li>
+                    <li>Usar linguagem técnica</li>
+                    <li>Evitar julgamentos</li>
+                    <li>Preservar sigilo</li>
+                </list>
+            </li>
+            <li>
+                <b>Articulação em Rede</b>
+                <list>
+                    <li>Conhecer serviços disponíveis</li>
+                    <li>Manter contatos atualizados</li>
+                    <li>Estabelecer fluxos</li>
+                    <li>Acompanhar encaminhamentos</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Checklist de Avaliação" id="checklist">
+        <list>
+            <li>
+                <b>Avaliação Inicial</b>
+                <list>
+                    <li>Risco imediato de vida</li>
+                    <li>Necessidade de abrigo</li>
+                    <li>Condições de saúde</li>
+                    <li>Suporte social disponível</li>
+                </list>
+            </li>
+            <li>
+                <b>Avaliação Detalhada</b>
+                <list>
+                    <li>Histórico da violência</li>
+                    <li>Impactos psicológicos</li>
+                    <li>Recursos pessoais</li>
+                    <li>Rede de apoio</li>
+                </list>
+            </li>
+            <li>
+                <b>Documentação</b>
+                <list>
+                    <li>Registros de atendimento</li>
+                    <li>Instrumentos aplicados</li>
+                    <li>Encaminhamentos realizados</li>
+                    <li>Evolução do caso</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Questões VUNESP Comentadas" id="questoes-vunesp">
+        <chapter title="Bloco 1: Fundamentação Legal" id="bloco1">
+            <p>
+                <b>Questão 1 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                De acordo com a Lei Maria da Penha (Lei 11.340/2006), a violência psicológica é caracterizada por:
+            </p>
+            <list>
+                <li>a) Apenas agressões verbais diretas</li>
+                <li>b) Somente ameaças explícitas</li>
+                <li>c) Qualquer conduta que cause dano emocional e diminuição da autoestima</li>
+                <li>d) Exclusivamente isolamento social</li>
+                <li>e) Unicamente controle financeiro</li>
+            </list>
+            <p>
+                <b>Resposta: C</b>
+            </p>
+            <p>
+                <b>Comentário:</b> A Lei Maria da Penha define violência psicológica de forma ampla, incluindo 
+                condutas que causem dano emocional, diminuição da autoestima, prejuízo ao desenvolvimento, 
+                degradação ou controle das ações e comportamentos.
+            </p>
+
+            <p>
+                <b>Questão 2 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                Na avaliação de risco em casos de violência doméstica, é fundamental considerar:
+            </p>
+            <list>
+                <li>a) Apenas o relato da vítima</li>
+                <li>b) Somente registros policiais anteriores</li>
+                <li>c) Múltiplos fatores incluindo escalada da violência e ameaças</li>
+                <li>d) Exclusivamente a opinião de familiares</li>
+                <li>e) Unicamente laudos médicos</li>
+            </list>
+            <p>
+                <b>Resposta: C</b>
+            </p>
+            <p>
+                <b>Comentário:</b> A VUNESP enfatiza a importância da avaliação multifatorial do risco, 
+                considerando histórico de violência, escalada, ameaças, acesso a armas, dependência 
+                química e outros fatores relevantes.
+            </p>
+        </chapter>
+
+        <chapter title="Bloco 2: Avaliação Técnica" id="bloco2">
+            <p>
+                <b>Questão 3 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                No atendimento psicológico à mulher em situação de violência doméstica, é correto:
+            </p>
+            <list>
+                <li>a) Pressionar para denúncia imediata</li>
+                <li>b) Realizar acolhimento e avaliação de risco</li>
+                <li>c) Ignorar relatos de violência psicológica</li>
+                <li>d) Minimizar a situação de risco</li>
+                <li>e) Fazer julgamentos morais</li>
+            </list>
+            <p>
+                <b>Resposta: B</b>
+            </p>
+            <p>
+                <b>Comentário:</b> O acolhimento adequado e a avaliação de risco são fundamentais no primeiro 
+                atendimento, respeitando o tempo e as decisões da mulher, mas garantindo sua segurança.
+            </p>
+        </chapter>
+
+        <chapter title="Bloco 3: Documentação" id="bloco3">
+            <p>
+                <b>Questão 4 (VUNESP - TJ-SP 2021)</b>
+            </p>
+            <p>
+                No relatório psicológico em casos de violência doméstica, deve-se:
+            </p>
+            <list>
+                <li>a) Omitir fatores de risco identificados</li>
+                <li>b) Incluir apenas informações positivas</li>
+                <li>c) Descrever detalhadamente a avaliação e os riscos identificados</li>
+                <li>d) Evitar recomendações de proteção</li>
+                <li>e) Ignorar o contexto social</li>
+            </list>
+            <p>
+                <b>Resposta: C</b>
+            </p>
+            <p>
+                <b>Comentário:</b> A documentação deve ser clara e completa, incluindo fatores de risco, 
+                avaliação do contexto e recomendações de proteção, fundamentais para medidas judiciais.
+            </p>
+        </chapter>
+    </chapter>
+
+    <chapter title="Exercícios de Fixação VUNESP" id="exercicios-vunesp">
+        <p>
+            Exercícios elaborados seguindo o padrão VUNESP, com foco em:
+        </p>
+        <list>
+            <li>Lei Maria da Penha e legislação correlata</li>
+            <li>Avaliação de risco e proteção</li>
+            <li>Intervenção psicológica</li>
+            <li>Documentação técnica</li>
+        </list>
+        
+        <chapter title="Simulado Temático" id="simulado">
+            <p>
+                10 questões no estilo VUNESP, distribuídas conforme o perfil do concurso:
+            </p>
+            <list>
+                <li>4 questões sobre fundamentação legal</li>
+                <li>3 questões sobre avaliação técnica</li>
+                <li>3 questões sobre documentação</li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Pontos de Atenção VUNESP" id="atencao-vunesp">
+        <list>
+            <li>
+                <b>Erros Comuns</b>
+                <list>
+                    <li>Desconsiderar formas sutis de violência</li>
+                    <li>Minimizar riscos psicológicos</li>
+                    <li>Ignorar o ciclo da violência</li>
+                </list>
+            </li>
+            <li>
+                <b>Dicas VUNESP</b>
+                <list>
+                    <li>Dominar a Lei Maria da Penha</li>
+                    <li>Conhecer protocolos de avaliação</li>
+                    <li>Atentar aos aspectos éticos</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Interpretação de Textos" id="interpretacao-textos">
+
+    <p>A interpretação de textos é uma habilidade fundamental que envolve a compreensão e análise de diversos gêneros discursivos.</p>
+
+    <chapter title="Fundamentos da Interpretação Textual" id="fundamentos">
+        <p>A interpretação textual envolve diferentes níveis de leitura e compreensão:</p>
+        
+        <list>
+            <li>Leitura Objetiva
+                <list>
+                    <li>Identificação de informações explícitas</li>
+                    <li>Reconhecimento de dados factuais</li>
+                    <li>Compreensão literal do texto</li>
+                </list>
+            </li>
+            <li>Leitura Inferencial
+                <list>
+                    <li>Dedução de informações implícitas</li>
+                    <li>Estabelecimento de relações</li>
+                    <li>Compreensão de subentendidos</li>
+                </list>
+            </li>
+            <li>Leitura Crítica
+                <list>
+                    <li>Análise do posicionamento do autor</li>
+                    <li>Identificação de argumentos</li>
+                    <li>Avaliação da consistência textual</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Gêneros Textuais" id="generos">
+        <p>Os principais gêneros textuais e suas características:</p>
+        
+        <list>
+            <li>Textos Jornalísticos
+                <list>
+                    <li>Notícia: fatos objetivos e atuais</li>
+                    <li>Reportagem: aprofundamento dos fatos</li>
+                    <li>Editorial: opinião do veículo</li>
+                    <li>Artigo de opinião: posicionamento do autor</li>
+                </list>
+            </li>
+            <li>Textos Literários
+                <list>
+                    <li>Crônica: narrativa do cotidiano</li>
+                    <li>Conto: narrativa curta e ficcional</li>
+                    <li>Poesia: linguagem conotativa e verso</li>
+                </list>
+            </li>
+            <li>Textos Técnicos
+                <list>
+                    <li>Manual: instruções e procedimentos</li>
+                    <li>Relatório: descrição e análise</li>
+                    <li>Parecer: avaliação técnica</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Estratégias de Leitura" id="estrategias">
+        <p>Técnicas para uma interpretação eficiente:</p>
+        
+        <list>
+            <li>Pré-leitura
+                <list>
+                    <li>Identificação do gênero textual</li>
+                    <li>Observação de título e subtítulos</li>
+                    <li>Análise de elementos visuais</li>
+                </list>
+            </li>
+            <li>Leitura Ativa
+                <list>
+                    <li>Identificação da ideia principal</li>
+                    <li>Marcação de palavras-chave</li>
+                    <li>Anotação de pontos importantes</li>
+                </list>
+            </li>
+            <li>Pós-leitura
+                <list>
+                    <li>Síntese do conteúdo</li>
+                    <li>Elaboração de esquemas</li>
+                    <li>Relação com conhecimentos prévios</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="Análise da Banca VUNESP" id="analise-vunesp">
+        <p>Características das questões de interpretação na VUNESP:</p>
+        
+        <list>
+            <li>Estrutura das Questões
+                <list>
+                    <li>Textos de diferentes gêneros</li>
+                    <li>Foco na compreensão global</li>
+                    <li>Análise de relações textuais</li>
+                </list>
+            </li>
+            <li>Temas Recorrentes
+                <list>
+                    <li>Atualidades</li>
+                    <li>Tecnologia e sociedade</li>
+                    <li>Comportamento humano</li>
+                </list>
+            </li>
+        </list>
+
+        <note>
+            <p>A VUNESP frequentemente utiliza tirinhas e textos jornalísticos nas primeiras questões da prova.</p>
+        </note>
+    </chapter>
+
+    <chapter title="Exercícios Práticos" id="exercicios">
+        <p>Teste seus conhecimentos com questões baseadas no estilo VUNESP:</p>
+
+        <chapter title="Exercício 1" id="ex1">
+            <p>Leia o texto:</p>
+            <code-block>
+                "A televisão, com seus programas, controla Calvin, assim como ocorre na história que ele leu."
+            </code-block>
+            
+            <p>Questão: A afirmação acima, em relação à tirinha de Calvin:</p>
+            
+            <list type="a">
+                <li>está correta, pois Calvin demonstra ser controlado pela TV</li>
+                <li>está incorreta, pois a TV não tem relação com a história lida</li>
+                <li>está parcialmente correta, pois apenas menciona a TV</li>
+                <li>está incorreta, pois inverte a relação apresentada na tirinha</li>
+                <li>está correta, mas por razões diferentes das apresentadas</li>
+            </list>
+
+            <p>Resposta: D</p>
+            
+            <p>Explicação: A tirinha mostra Calvin refletindo sobre o controle das máquinas, mas não indica que ele é controlado pela TV. A afirmação inverte a relação apresentada no texto.</p>
+        </chapter>
+
+        <chapter title="Exercício 2" id="ex2">
+            <p>Analise o trecho:</p>
+            <code-block>
+                "Aspas têm sido úteis no decorrer da minha vida e, imagino, na de inúmeras pessoas também."
+            </code-block>
+            
+            <p>Questão: O uso da vírgula após "imagino" indica:</p>
+            
+            <list type="a">
+                <li>uma pausa estilística opcional</li>
+                <li>separação de oração intercalada</li>
+                <li>marcação de inversão sintática</li>
+                <li>isolamento de aposto explicativo</li>
+                <li>destaque de expressão conclusiva</li>
+            </list>
+
+            <p>Resposta: B</p>
+            
+            <p>Explicação: O termo "imagino" está intercalado na frase principal, devendo ser isolado por vírgulas.</p>
+        </chapter>
+    </chapter>
+
+    <chapter title="Dicas de Estudo" id="dicas">
+        <list>
+            <li>Leia diferentes gêneros textuais diariamente</li>
+            <li>Pratique a identificação de ideias principais</li>
+            <li>Faça resumos dos textos lidos</li>
+            <li>Estude os conectivos e suas relações</li>
+            <li>Resolva questões anteriores da VUNESP</li>
+            <li>Analise as alternativas incorretas para entender os distratores comuns</li>
+        </list>
+    </chapter>
+
+    <chapter title="10. Norma-Padrão" id="norma-padrao">
+        <p>São as regras gramaticais estabelecidas para o uso formal da língua portuguesa.</p>
+        
+        <chapter title="10.1 Ortografia e Acentuação" id="ortografia">
+            <p>Regras básicas de escrita e acentuação das palavras.</p>
+            
+            <list>
+                <li>Uso do Hífen:
+                    <code-block>
+                        Correto: anti-inflamatório, coautor, micro-ondas
+                        Incorreto: antiinflamatório, co-autor, microondas
+                    </code-block>
+                </li>
+                <li>Acentuação:
+                    <code-block>
+                        Proparoxítonas: júridico, específico
+                        Paroxítonas: juíza, caráter
+                        Oxítonas: através, você
+                        Ditongos: audiência, história
+                    </code-block>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="10.2 Pontuação" id="pontuacao">
+            <p>Sinais gráficos que organizam o texto e indicam pausas, entonação e sentido.</p>
+            
+            <list>
+                <li>Vírgula:
+                    <code-block>
+                        Correto: "O juiz, após analisar o processo, deferiu o pedido."
+                        Incorreto: "O juiz após analisar o processo deferiu o pedido."
+                    </code-block>
+                </li>
+                <li>Ponto e Vírgula:
+                    <code-block>
+                        "O processo foi arquivado; as partes foram notificadas."
+                    </code-block>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="10.3 Concordância" id="concordancia">
+            <p>Harmonização entre as palavras na frase.</p>
+            
+            <chapter title="Concordância Verbal" id="concordancia-verbal">
+                <code-block>
+                    Correto: "A maioria dos processos foi arquivada."
+                    Incorreto: "A maioria dos processos foram arquivadas."
+
+                    Correto: "25% do valor foi restituído."
+                    Incorreto: "25% do valor foram restituídos."
+                </code-block>
+            </chapter>
+
+            <chapter title="Concordância Nominal" id="concordancia-nominal">
+                <code-block>
+                    Correto: "Seguem anexas as certidões."
+                    Incorreto: "Seguem anexo as certidões."
+
+                    Correto: "É necessária a apresentação dos documentos."
+                    Incorreto: "É necessário a apresentação dos documentos."
+                </code-block>
+            </chapter>
+        </chapter>
+
+        <chapter title="10.4 Regência" id="regencia">
+            <p>Relação de dependência entre as palavras.</p>
+            
+            <chapter title="Regência Verbal" id="regencia-verbal">
+                <code-block>
+                    Correto: "O juiz procedeu à análise dos autos."
+                    Incorreto: "O juiz procedeu a análise dos autos."
+
+                    Correto: "Assisti à audiência."
+                    Incorreto: "Assisti a audiência."
+                </code-block>
+            </chapter>
+
+            <chapter title="Regência Nominal" id="regencia-nominal">
+                <code-block>
+                    Correto: "O processo é passível de recurso."
+                    Incorreto: "O processo é passível a recurso."
+
+                    Correto: "A decisão é favorável ao réu."
+                    Incorreto: "A decisão é favorável para o réu."
+                </code-block>
+            </chapter>
+        </chapter>
+
+        <chapter title="10.5 Crase" id="crase">
+            <p>Fusão de duas vogais 'a' indicada pelo acento grave.</p>
+            
+            <list>
+                <li>Uso Obrigatório:
+                    <code-block>
+                        "Referente à petição inicial"
+                        "A sentença foi favorável à parte autora"
+                    </code-block>
+                </li>
+                <li>Proibido:
+                    <code-block>
+                        "A reunião começou a uma hora" (hora específica)
+                        "Ele se referiu a Vossa Excelência"
+                    </code-block>
+                </li>
+            </list>
+        </chapter>
+
+        <chapter title="10.6 Pronomes" id="pronomes">
+            <p>Palavras que substituem ou acompanham os substantivos.</p>
+            
+            <chapter title="Emprego dos Pronomes" id="emprego-pronomes">
+                <code-block>
+                    Correto: "Entreguei-lhe o processo."
+                    Incorreto: "Entreguei ele o processo."
+
+                    Correto: "Este processo (próximo de quem fala) / Esse processo (próximo do ouvinte)"
+                    Incorreto: "Esse processo (sem referência espacial)"
+                </code-block>
+            </chapter>
+
+            <chapter title="Colocação Pronominal" id="colocacao-pronominal">
+                <list>
+                    <li>Próclise (antes do verbo):
+                        <code-block>
+                            "Não me diga isso"
+                            "Quem se manifestou?"
+                        </code-block>
+                    </li>
+                    <li>Mesóclise (no meio do verbo):
+                        <code-block>
+                            "Dir-lhe-ei a verdade"
+                            "Apresentar-nos-emos em juízo"
+                        </code-block>
+                    </li>
+                    <li>Ênclise (depois do verbo):
+                        <code-block>
+                            "Determino-lhe que cumpra a decisão"
+                            "Apresente-se em juízo"
+                        </code-block>
+                    </li>
+                </list>
+            </chapter>
+        </chapter>
+
+        <chapter title="Exercícios de Fixação" id="exercicios-norma">
+            <p>Corrija as frases abaixo:</p>
+            
+            <list>
+                <li>Exercício 1:
+                    <code-block>
+                        Frase: "Houveram muitos processos arquivados este mês."
+                        Correção: "Houve muitos processos arquivados este mês."
+                        Explicação: O verbo "haver" no sentido de "existir" é impessoal.
+                    </code-block>
+                </li>
+                <li>Exercício 2:
+                    <code-block>
+                        Frase: "Fazem cinco anos que trabalho no tribunal."
+                        Correção: "Faz cinco anos que trabalho no tribunal."
+                        Explicação: O verbo "fazer" indicando tempo é impessoal.
+                    </code-block>
+                </li>
+                <li>Exercício 3:
+                    <code-block>
+                        Frase: "Vou assistir o julgamento amanhã."
+                        Correção: "Vou assistir ao julgamento amanhã."
+                        Explicação: O verbo "assistir" no sentido de "presenciar" é transitivo indireto.
+                    </code-block>
+                </li>
+            </list>
+        </chapter>
+    </chapter>
+
+    <chapter title="Dicas para a Prova" id="dicas-prova">
+        <list>
+            <li>Leia o enunciado com atenção</li>
+            <li>Identifique as palavras-chave</li>
+            <li>Observe o contexto das questões</li>
+            <li>Elimine as alternativas claramente incorretas</li>
+            <li>Revise suas respostas</li>
+            <li>Fique atento aos "pegadinhas" comuns da VUNESP:
+                <list>
+                    <li>Inversão de informações do texto</li>
+                    <li>Generalizações indevidas</li>
+                    <li>Inferências não autorizadas pelo texto</li>
+                    <li>Alternativas parcialmente corretas</li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+</topic> 
