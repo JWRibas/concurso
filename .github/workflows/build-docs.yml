@@ -11,7 +11,7 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/tj'
+  INSTANCE: 'Writerside/tcp'
   DOCKER_VERSION: '243.22562'
 
 jobs:
